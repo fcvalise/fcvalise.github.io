@@ -34,10 +34,10 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-youtube: myyoutube
-github: mygithub
+#facebook: myfacebook
+twitter: https://twitter.com/FcValise
+youtube: https://www.youtube.com/playlist?list=PLhK30YO4FlvUpFmLvh-9CPIiRMCu6MN4z
+github: https://github.com/fcvalise
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -47,18 +47,18 @@ github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: francois.corbel@gmail.com
 
 authors:
-    johndoe:
+    francoiscorbel:
         name:François Corbel
         bio:A human who speaks with computer to create games.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: FcValise
+        twitter: https://github.com/fcvalise
 #    jamesfoster:
 #        name: James Foster
 #        bio: A Man who develops software with coffee
