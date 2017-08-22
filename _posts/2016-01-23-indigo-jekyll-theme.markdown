@@ -1,35 +1,32 @@
 ---
-title: "Test Unity Integration"
+title: "Total Eclipse Of The Heart"
 layout: post
-date: 2016-01-23 22:10
+date: 2016-11-13 12:00
 tag: Game
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "It's an hippie game about playing Tag in a room."
 category: project
-author: johndoe
+author: francoiscorbel
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+<div class="center">
+<strong>An hippie game about playing Tag in a room.</strong><br>
+One or Two players.<br>
+Your friend tries to catch you, then you'll try to catch him...<br>
+You have to survive 30 seconds without being caught!<br>
+But there's a thing...<br>
+You look at 4 screen simultaneously !!!<br>
+<br>
+    <div data-height="450" class="game_frame" style="height: 450px;width: 800px;" data-width="800">
+        <iframe msallowfullscreen="true" width="100%" mozallowfullscreen="true" id="game_drop" frameborder="0" src="//v6p9d9t4.ssl.hwcdn.net/html/555192/TotalEclipseOfTheHeartWebGL/index.html" scrolling="no" allowtransparency="true" allowfullscreen="true" height="100%" webkitallowfullscreen="true"></iframe>
+    </div>
+<br>
+<a href="https://github.com/fcvalise/TotalEclipseOfTheHeart">https://github.com/fcvalise/TotalEclipseOfTheHeart</a><br>
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Made by two dudes.
 
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+</div>
