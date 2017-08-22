@@ -17,16 +17,55 @@
  * animations
  */
 
-.animated
-	animation: fade-in-down 0.6s
+.animated-open
+	animation: open 0.6s
 	animation-delay: 0.3s
 	animation-fill-mode: both
 
-@keyframes fade-in-down
+@keyframes open
 	0%
 		opacity: 0
 		transform: translateY(-10px)
+		max-height: 0px
 
 	100%
 		opacity: 1
 		transform: translateY(0)
+		max-height: 500px
+
+.animated-close
+	animation: close 0.6s
+	animation-delay: 0.0s
+	animation-fill-mode: both
+
+@keyframes close
+	0%
+		opacity: 1
+		transform: translateY(0)
+		max-height: 500px
+
+	80%
+		opacity: 0
+		transform: translateY(10)
+		transform: scaleY(1)
+
+	100%
+		opacity: 0
+		max-height: 0px
+		transform: scaleY(0)
+
+.animated-none
+	animation: stop 0.1s
+	animation-delay: 0.0s
+	animation-fill-mode: both
+
+@keyframes stop
+	0%
+		opacity: 0
+		max-height: 0px
+		transform: scaleY(0)
+	100%
+		opacity: 0
+		max-height: 0px
+		transform: scaleY(0)
+
