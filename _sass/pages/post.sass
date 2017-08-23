@@ -2,6 +2,12 @@
     margin-top: 25px
     border-radius: 4px
     padding-top: 25px
+    text-align: center
+
+    > .text
+        font: 16px $fontSans
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
 
     > .title
         text-align: center
@@ -35,10 +41,17 @@
         display: inline-block
 
     // general style
+    > iframe, .unity
+        border-radius: 4px
+        margin-top: 25px
+        margin-bottom: 25px
+
     > h2,
     > h3,
     > h4
-        margin-top: 40px
+        margin-top: 25px
+        margin-left: 120px
+        margin-right: 120px
 
         a
             text-decoration: none
@@ -60,57 +73,3 @@
             margin: 1em 0
         .next
             text-align: right
-
-    // Special
-    > .TotalEclipseOfTheHeart
-        background: #000
-        color: #fff
-        text-align: center
-        iframe
-            background: #3f3f3f
-        a,
-        strong
-            color: #ffd024
-
-    > .FakeCastLowRez
-        background: #5e94f3
-        color: #c7c7c7
-        text-align: center
-        iframe
-            background: #c7c7c7
-            margin-left: 150px
-        a,
-        strong
-            color: #fff
-
-    > .AnOctonautOdyssey
-        background: #000
-        color: #513482
-        text-align: center
-        iframe
-            background: #fff9c4
-        a
-            color: #fafa00
-        strong
-            color: #513482
-
-    > .FtRetro
-        background: #000
-        color: #cfcfcf
-        text-align: center
-        iframe
-            background: #cfcfcf
-        a,
-        strong
-            color: #bababa
-
-    > .ChamanVR
-        background: #be4623
-        color: #222222
-        text-align: center
-        iframe
-            background: #6fae85
-        a,
-        strong
-            color: #6fae85
-

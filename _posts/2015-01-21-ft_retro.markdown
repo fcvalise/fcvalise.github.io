@@ -1,23 +1,33 @@
 ---
 title: "Ft Retro"
-layout: post
+description: "It's a small game about spaceships in a terminal."
 date: 2015-01-21 12:00
-tag: Game
-class: FtRetro
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: false
+author: francoiscorbel
+bgcolor: "#000"
+txtcolor: "#cfcfcf"
+iframecolor: "#cfcfcf"
+linkcolor: "#bababa"
+
+layout: post
+tag: game
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "It's a small game about spaceships in a terminal."
 category: project
-author: francoiscorbel
 externalLink: false
 ---
-<br>
-<strong>It's a small game about spaceships in a terminal.</strong><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7rNyHkXPDA?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe><br>
-<br>
+<div class="text">
+<strong>It's a small game about spaceships in a terminal.</strong><br>
+</div>
+<div style="display:inline-block; color:#373737">To avoid boredom, click -> </div>
+<div style="display:inline-block; color:#373737" onclick="playSoundFire()">[fire] </div>
+<div style="display:inline-block; color:#373737" onclick="playSoundExplode()">[explode]</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7rNyHkXPDA?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+<audio id="fire" src="{{ site.url}}/assets/ft_retro_fire.ogg"></audio>
+<audio id="explode" src="{{ site.url}}/assets/ft_retro_explode.ogg"></audio>
 <a href="https://github.com/fcvalise/FtRetro">https://github.com/fcvalise/FtRetro</a><br>
-<br>
-Made by two dudes.<br>
-<br>
+<div class="text">Made by two dudes.<br>
+
+<script>
+function playSoundFire() { document.getElementById('fire').play(); }
+function playSoundExplode() { document.getElementById('explode').play(); }
+</script>

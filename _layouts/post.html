@@ -1,11 +1,25 @@
 ---
 layout: page
 ---
-<div class="{{ page.class }} post animated-open-project">
+<div>
+<style>
+html {
+	background: {{ page.bgcolor }};
+	color: {{ page.txtcolor }};
+}
+iframe {
+	background: {{ page.iframecolor }};
+}
+h1, h2, h3, h4, .title, .text {
+	color: {{ page.txtcolor }};
+}
+a, strong {
+	color: {{ page.linkcolor }};
+}
+</style>
+</div>
 
-{% if page.image and page.headerImage %}
-    <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
-{% endif %}
+<div class="post animated-open-project">
 
 <h1 class="title">{{ page.title }}</h1>
 
