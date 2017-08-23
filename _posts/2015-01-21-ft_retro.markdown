@@ -3,6 +3,7 @@ title: "Ft Retro"
 layout: post
 date: 2015-01-21 12:00
 tag: Game
+class: FtRetro
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
@@ -12,8 +13,6 @@ category: project
 author: francoiscorbel
 externalLink: false
 ---
-
-<div class="FtRetro">
 <br>
 <strong>It's a small game about spaceships in a terminal.</strong><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7rNyHkXPDA?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe><br>
@@ -22,4 +21,3 @@ externalLink: false
 <br>
 Made by two dudes.<br>
 <br>
-</div>

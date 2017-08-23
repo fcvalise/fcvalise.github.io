@@ -1,0 +1,24 @@
+---
+title: "Chaman VR"
+layout: post
+date: 2016-02-27 12:00
+tag: Game
+class: ChamanVR
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "It's a game about being lost in a forest."
+category: project
+author: francoiscorbel
+externalLink: false
+---
+<br>
+<strong>You're lost in a scary forest inhabited by strange creatures. The night is coming, you should follow the lights...</strong><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/goZikfz87HM?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+<br>
+{% include slider.html varcolor='#6fae85' var1='chaman-vr/screenshot_1.png' var2='chaman-vr/screenshot_2.png' var3='chaman-vr/screenshot_3.png' var4='chaman-vr/screenshot_4.png' %}
+<br>
+<iframe frameborder="0" src="https://itch.io/embed/165258?linkback=true&border_width=1&amp;bg_color=be4623&amp;fg_color=222222&amp;link_color=6fae85&amp;border_color=dc6441" width="560" height="165"></iframe>
+<br>
+Made by four dudes.

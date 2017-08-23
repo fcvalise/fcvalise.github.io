@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<div class="{{ page.class }} post animated-open-project">
 
 {% if page.image and page.headerImage %}
     <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
@@ -9,7 +10,7 @@ layout: page
 <h1 class="title">{{ page.title }}</h1>
 
 <span class="date">
-    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
+    <time datetime="{{ page.date | date:"%m-%Y" }}">{{ page.date | date: "%B, %Y" }}</time>
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
 </span>
 
@@ -47,3 +48,4 @@ layout: page
 {% if site.disqus.categories contains page.category %}
     {% include disqus.html %}
 {% endif %}
+</div>
