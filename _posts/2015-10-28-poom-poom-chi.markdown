@@ -5,7 +5,7 @@ date: 2015-10-28 12:00
 author: francoiscorbel
 bgcolor: "#2a2658"
 txtcolor: "#f56760"
-iframecolor: "#293c6a"
+iframecolor: "#f56760"
 linkcolor: "#ffffff"
 
 layout: post
@@ -18,13 +18,19 @@ externalLink: false
 <div class="text">
 <strong>It's a multiplayer platformer 2D about rhythm.</strong><br><br>
 </div>
+
 <div class="text">POOM POOM TCHI! is a multiplayer platformer 2D about 
 making your enemy grow to explosion. You need to combine keys on rythm 
 to protect, reload or fire. All actions happen at the same time. You 
 just need gamepad controllers and some friends.
 </div>
-<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_1.gif" alt="1" max-width="800">
-<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_2.gif" alt="2" max-width="800">
-<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_3.gif" alt="3" max-width="800">
+
+<img class="single-img" src="{{ site.url}}/assets/images/poom-poom-tchi/gif_1.gif" alt="1" max-width="800">
+<img class="single-img" src="{{ site.url}}/assets/images/poom-poom-tchi/gif_2.gif" alt="2" max-width="800">
+<img class="single-img" src="{{ site.url}}/assets/images/poom-poom-tchi/gif_3.gif" alt="3" max-width="800">
+
+<iframe frameborder="0" src="https://itch.io/embed/47480?bg_color=f56760&amp;fg_color=ffffff&amp;link_color=2a2658&amp;border_color=2a2658" width="560" height="167"></iframe>
+
 <a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=66215">Ludum Dare 34</a><br>
+
 <div class="text">Made by four dudes.<br>
