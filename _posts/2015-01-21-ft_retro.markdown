@@ -16,7 +16,7 @@ category: project
 externalLink: false
 ---
 
-<div class="text">
+<div class="text general-margin">
 <strong>It's a small game about spaceships in a terminal.</strong><br>
 </div>
 
@@ -24,16 +24,16 @@ externalLink: false
 <div style="display:inline-block; color:#373737" onclick="playSoundFire()">[fire] </div>
 <div style="display:inline-block; color:#373737" onclick="playSoundExplode()">[explode]</div>
 
-<div class="video">
+<div class="video general-margin">
     <iframe width="560px" height="315px" src="https://www.youtube.com/embed/Q7rNyHkXPDA?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <audio id="fire" src="{{ site.url}}/assets/ft_retro_fire.ogg"></audio>
 <audio id="explode" src="{{ site.url}}/assets/ft_retro_explode.ogg"></audio>
 
-<a href="https://github.com/fcvalise/FtRetro">https://github.com/fcvalise/FtRetro</a><br>
+<a class="general-margin" href="https://github.com/fcvalise/FtRetro">https://github.com/fcvalise/FtRetro</a><br>
 
-<div class="text">Made by two dudes.<br>
+<div class="text general margin">Made by two dudes.<br>
 
 <script>
 function playSoundFire() { document.getElementById('fire').play(); }

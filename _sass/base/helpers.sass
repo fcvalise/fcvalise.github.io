@@ -16,9 +16,16 @@
 /*
  * animations
  */
+@keyframes open-video
+	0%
+		opacity: 0
+	50%
+		opacity: 0
+	100%
+		opacity: 1
 
 .animated-open-project
-	animation: open-project 0.9s ease 0s 1 forwards
+	animation: open-project 1000ms ease 0s 1 forwards
 
 @keyframes open-project
 	0%
@@ -30,7 +37,7 @@
 
 
 .animated-open
-	animation: open 0.9s ease 0s 1 forwards
+	animation: open 1000ms ease 0s 1 forwards
 
 @keyframes open
 	0%
@@ -45,7 +52,7 @@
 		max-height: 300px
 
 .animated-close
-	animation: close 0.5s ease 0s 1 forwards
+	animation: close 500ms ease 0s 1 forwards
 
 @keyframes close
 	0%
