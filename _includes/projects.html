@@ -6,7 +6,6 @@
                     <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                     <h3 class="title">{{ post.title }}</h3>
                 </a>
-                <img class="selfie" alt="{{ post.title }}" src="{{ post.image }}" />
             </div>
         {% endif %}
     {% endfor %}
