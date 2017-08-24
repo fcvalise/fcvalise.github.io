@@ -23,8 +23,8 @@ making your enemy grow to explosion. You need to combine keys on rythm
 to protect, reload or fire. All actions happen at the same time. You 
 just need gamepad controllers and some friends.
 </div>
-<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_1.gif" alt="1" width="800" height="433">
-<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_2.gif" alt="2" width="800" height="600">
-<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_3.gif" alt="3" width="800" height="600">
+<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_1.gif" alt="1" max-width="800">
+<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_2.gif" alt="2" max-width="800">
+<img src="{{ site.url}}/assets/images/poom-poom-tchi/gif_3.gif" alt="3" max-width="800">
 <a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=66215">Ludum Dare 34</a><br>
 <div class="text">Made by four dudes.<br>
