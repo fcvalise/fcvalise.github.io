@@ -15,6 +15,7 @@ hidden: true # don't count this post in blog pagination
 category: project
 externalLink: false
 ---
+
 <div class="text">
 <strong>It's a small game about spaceships in a terminal.</strong><br>
 </div>

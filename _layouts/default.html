@@ -23,6 +23,7 @@ layout: compress
     {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
     {{ scss_sheet | scssify }}
     </style>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
 </head>
 <body>
@@ -47,4 +48,54 @@ layout: compress
     {% include analytics-google.html %}
 
 </body>
+
+<script>
+var src = new Array();
+
+function getIframeSrc(){
+    var frames = document.getElementsByTagName('iframe');
+    for (var i = 0; i < frames.length; i++) {
+        src.push($(frames[i]).attr('src'));
+        $(frames[i]).attr('src', '');
+    }
+}
+
+function setIframeSrc() {
+    var frames = document.getElementsByTagName('iframe');
+    for (var i = 0; i < frames.length; i++) {
+        $(frames[i]).attr('src', src[i]);
+    }
+}
+
+getIframeSrc();
+setTimeout(setIframeSrc, 1000);
+$(window).load(function() {
+});
+
+var srcImg = new Array();
+
+function getImgSrc(){
+    var framesImg = document.getElementsByTagName('img');
+    if (framesImg.length > 2) {
+        for (var i = 0; i < framesImg.length; i++) {
+            srcImg.push($(framesImg[i]).attr('src'));
+            $(framesImg[i]).attr('src', '');
+        }
+    }
+}
+
+function setImgSrc() {
+    var framesImg = document.getElementsByTagName('img');
+    for (var i = 0; i < framesImg.length; i++) {
+        $(framesImg[i]).attr('src', srcImg[i]);
+    }
+}
+
+getImgSrc();
+setTimeout(setImgSrc, 1000);
+$(window).load(function() {
+});
+
+</script>
+
 </html>

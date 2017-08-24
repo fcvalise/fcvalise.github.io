@@ -5,7 +5,7 @@ date: 2017-02-28 12:00
 author: francoiscorbel
 bgcolor: "#fff9c4"
 txtcolor: "#513482"
-iframecolor: "#fff9c4"
+iframecolor: "#262626"
 linkcolor: "#f79592"
 
 layout: post

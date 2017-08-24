@@ -16,6 +16,7 @@
 /*
  * animations
  */
+
 .animated-open-project
 	animation: open-project 0.9s
 	animation-delay: 0.0s
@@ -24,13 +25,11 @@
 @keyframes open-project
 	0%
 		opacity: 0
-		transform: translateY(-10px)
-		max-height: 0px
+		transform: translatey(-10px)
 
 	100%
 		opacity: 1
-		transform: translateY(0)
-		max-height: 2500px
+		transform: translatey(0)
 
 
 .animated-open
@@ -44,10 +43,13 @@
 		transform: translateY(-10px)
 		max-height: 0px
 
+	60%
+		opacity: 0
+
 	100%
 		opacity: 1
 		transform: translateY(0)
-		max-height: 500px
+		max-height: 300px
 
 .animated-close
 	animation: close 0.5s
@@ -58,7 +60,7 @@
 	0%
 		opacity: 1
 		transform: translateY(0)
-		max-height: 500px
+		max-height: 300px
 
 	80%
 		opacity: 0
