@@ -1,12 +1,13 @@
 ---
 title: "Fake Cast Low Rez"
-description: "An attempt to use cellular automaton to create a competitive 1v1 game about casting."
+description: "A competitive 1v1 game about casting."
 date: 2017-08-17 12:00
 author: francoiscorbel
 bgcolor: "#5e94f3"
 txtcolor: "#ffffff"
 iframecolor: "#c7c7c7"
 linkcolor: "#c7c7c7"
+image: "https://fcvalise.github.io/assets/images/profile.png"
 
 layout: post
 tag: game

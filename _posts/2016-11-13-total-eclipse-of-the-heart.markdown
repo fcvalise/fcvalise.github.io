@@ -5,8 +5,9 @@ date: 2016-11-13 12:00
 author: francoiscorbel
 bgcolor: "#000"
 txtcolor: "#fff"
-iframecolor: "#3f3f3f"
+iframecolor: "#ffd024"
 linkcolor: "#ffd024"
+image: "https://fcvalise.github.io/assets/images/profile.png"
 
 layout: post
 tag: game

@@ -5,8 +5,9 @@ date: 2017-02-28 12:00
 author: francoiscorbel
 bgcolor: "#fff9c4"
 txtcolor: "#513482"
-iframecolor: "#262626"
+iframecolor: "#f79592"
 linkcolor: "#f79592"
+image: "https://fcvalise.github.io/assets/images/profile.png"
 
 layout: post
 tag: game
@@ -48,4 +49,4 @@ little by little a much more ambitious and personal project.
 
 {% include slider.html varcolor='#fff9c4' var1='an-octonaut-odyssey/screenshot1.jpg' var2='an-octonaut-odyssey/screenshot2.jpg' var3='an-octonaut-odyssey/screenshot3.jpg' %}
 
-<iframe src="https://store.steampowered.com/widget/566320/" frameborder="0" width="560" height="200"></iframe>
+<iframe src="https://store.steampowered.com/widget/566320/" frameborder="0" width="560" height="200" style="background: #262626"></iframe>

@@ -1,28 +1,28 @@
 {% if page.tags == "FromHome" or page.tags == "Home" %}
-    {% if page.tags == "FromHome" %}
-        <header class="header-home {% if site.animation %}animated-close{% endif %}">
-    {% else %}
+    {% if page.tags == "Home" %}
         <header class="header-home {% if site.animation %}animated-open{% endif %}">
+            <a class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{{ site.picture }}" />
+            </a>
+    {% else %}
+        <header class="header-home {% if site.animation %}animated-close{% endif %}">
+            <span class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{{ site.url }}/assets/images/1px-alpha.png"/>
+            </span>
     {% endif %}
 {% else %}
     <header class="header-home {% if site.animation %}animated-none{% endif %}">
 {% endif %}
-
-    {% if page.tags == "Home" %}
-        <a class="link" href="{{ site.url }}/about">
-            <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-        </a>
-    {% else %}
-        <span class="link" href="{{ site.url }}/about">
-            <img class="selfie" alt="{{ site.name }}" src="{{ site.url }}/assets/images/1px-alpha.png"/>
-        </span>
-    {% endif %}
 
     <h1 class="title">{{ site.name }}</h1>
     <h2 class="description">{{ site.bio }}</h2>
 
     {% include social-links.html %}
 </header>
+
+{% if page.description != null %}
+    <h2 class="description">{{ page.description }}</h2>
+{% endif %}
 
 {% include nav.html %}
 
