@@ -1,5 +1,19 @@
 <nav class="nav">
     <ul class="list">
+        {% if page.tag == "game" %}
+            <li class="item prev">
+                {% if page.next.url %}
+                        <a class="link" href="{{page.next.url}}">&larr;</a>
+                {% else %}
+                    {% for post in site.tags['game'] %}
+                        {% if forloop.last == true %}
+                            <a class="link" href="{{ post.url }}">&larr;</a>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+            </li>
+        {% endif %}
+
         {% if page.title != "Home" %}
             <li class="item">
                 <a class="link" href="{{ site.url }}/">Home</a>
@@ -33,6 +47,18 @@
         {% if site.resume == true %}
             <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+            </li>
+        {% endif %}
+
+        {% if page.tag == "game" %}
+            <li class="item next">
+                {% if page.previous.url %}
+                        <a class="link" href="{{page.previous.url}}">&rarr;</a>
+                {% else %}
+                    {% for post in site.tags['game'] limit:1 %}
+                        <a class="link" href="{{ post.url }}">&rarr;</a>
+                    {% endfor %}
+                {% endif %}
             </li>
         {% endif %}
     </ul>
