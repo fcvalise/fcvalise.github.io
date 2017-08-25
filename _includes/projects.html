@@ -3,7 +3,8 @@
     {% if post.projects %}
         <div class="elem">
             <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                <img alt="{{ post.title }}" src="{{ post.image }}"/>
+                <img class="bg" style="background-color: {{ post.bgcolor }};" alt="{{ post.title }}" src="{{ site.url }}/assets/images/1px-alpha.png"/>
+                <img class="img" style="background-color: {{ post.bgcolor }};" alt="{{ post.title }}" src="{{ post.image }}"/>
                 <h3 class="title" style="color: {{ post.iframecolor }};">{{ post.title }}</h3>
                 <h4><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></h4>
             </a>

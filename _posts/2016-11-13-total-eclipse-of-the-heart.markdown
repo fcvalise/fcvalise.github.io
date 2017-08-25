@@ -7,7 +7,7 @@ bgcolor: "#000"
 txtcolor: "#fff"
 iframecolor: "#ffd024"
 linkcolor: "#ffd024"
-image: "https://fcvalise.github.io/assets/images/profile.png"
+image: "https://fcvalise.github.io/assets/images/total-eclipse-of-the-heart/project.gif"
 
 layout: post
 tag: game

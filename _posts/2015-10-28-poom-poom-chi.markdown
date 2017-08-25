@@ -7,7 +7,7 @@ bgcolor: "#2a2658"
 txtcolor: "#f56760"
 iframecolor: "#f56760"
 linkcolor: "#ffffff"
-image: "https://fcvalise.github.io/assets/images/profile.png"
+image: "https://fcvalise.github.io/assets/images/poom-poom-tchi/project.gif"
 
 layout: post
 tag: game
