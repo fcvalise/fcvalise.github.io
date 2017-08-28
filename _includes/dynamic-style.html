@@ -1,0 +1,35 @@
+<style>
+{% if page.bgcolor != null %}
+    html {
+        color: {{ page.txtcolor }};
+        animation: colorchange 1000ms ease 0s 1 forwards;
+        -webkit-animation: colorchange 1000ms ease 0s 1 forwards;
+    }
+    iframe, .video {
+        background: {{ page.iframecolor }};
+    }
+    h1, h2, h3, h4, .title, .text {
+        color: {{ page.txtcolor }};
+    }
+    a, strong {
+        color: {{ page.linkcolor }};
+    }
+
+    @keyframes colorchange
+    {
+        0%   {background: $alpha;}
+        100% {background: {{ page.bgcolor }};}
+    }
+
+    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+    {
+        0%   {background: $alpha;}
+        100% {background: {{ page.bgcolor }};}
+    }
+
+    .hr-custom > .back-rect , .hr-custom > .back-rect > .front-rect {
+        animation: colorchange 1000ms ease 0ms 1 forwards;
+    }
+{% endif %}
+</style>
+
