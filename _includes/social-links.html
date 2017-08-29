@@ -17,6 +17,18 @@
         </a>
     {% endif %}
 
+    {% if site.steam %}
+        <a class="link" data-title="steam.com/{{ site.itchio }}" href="http://store.steampowered.com/{{ site.steam }}" target="_blank">
+            <svg class="icon icon-steam"><use xlink:href="#icon-steam"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.itchio %}
+        <a class="link" data-title="{{ site.itchio }}.itch.io" href="https://{{ site.itchio }}.itch.io" target="_blank">
+            <svg class="icon icon-itchio"><use xlink:href="#icon-itchio"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
             <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
@@ -36,7 +48,7 @@
     {% endif %}
 
     {% if site.youtube %}
-        <a class="link" data-title="youtube.com/{{ site.youtube }}" href="http://youtube.com/{{ site.youtube }}" target="_blank">
+        <a class="link" data-title="youtube.com/Projects" href="http://youtube.com/{{ site.youtube }}" target="_blank">
             <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
         </a>
     {% endif %}
