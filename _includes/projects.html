@@ -6,7 +6,15 @@
                 <div class="text">
                     <h3 style="color: {{ post.iframecolor }};">{{ post.title }}</h3>
                     <h4><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></h4>
-                    <img alt="{{ post.title }}" src="{{ post.image2 }}"/>
+                    <svg class="icon"><use xlink:href="#icon-cplus" fill="{{ post.iframecolor }}"></use></svg>
+                    <svg class="icon"><use xlink:href="#icon-csharp" fill="{{ post.iframecolor }}"></use></svg>
+                    <svg class="icon"><use xlink:href="#icon-apple" fill="{{ post.iframecolor }}"></use></svg>
+                    <svg class="icon"><use xlink:href="#icon-oculus" fill="{{ post.iframecolor }}"></use></svg>
+                    <svg class="icon"><use xlink:href="#icon-unity" fill="{{ post.iframecolor }}"></use></svg>
+                    <svg class="icon"><use xlink:href="#icon-windows" fill="{{ post.iframecolor }}"></use></svg>
+                    <svg class="icon"><use xlink:href="#icon-ue4" fill="{{ post.iframecolor }}"></use></svg>
+                    <svg class="icon"><use xlink:href="#icon-vim" fill="{{ post.iframecolor }}"></use></svg>
+                    <svg class="icon"><use xlink:href="#icon-sfml" fill="{{ post.iframecolor }}"></use></svg>
                 </div>
                 <img class="bg" style="background-color: {{ post.bgcolor }};" alt="{{ post.title }}" src="{{ site.url }}/{{ site.empty }}"/>
                 <img class="img" alt="{{ post.title }}" src="{{ post.image }}"/>

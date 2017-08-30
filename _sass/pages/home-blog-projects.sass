@@ -32,14 +32,18 @@
                 position: absolute
                 width: 100%
                 transition: all .4s ease-in-out
-                img
-                    margin-top: 0.5rem
+                max-height: 80%
+                > .icon
+                    vertical-align: bottom
+                    width: 30px
+                    height: 30px
 
             > .link > .bg
                 position: absolute
-                z-index: -99
+                z-index: -2
 
             > .link > .img
+                z-index: -1
                 transition: all .4s ease-in-out
                 opacity: 0
                 image-rendering: auto
@@ -48,7 +52,7 @@
 
             &:hover
                 > .link > .text
-                    opacity: 0
+                    opacity: 1
                 > .link > .img
                     opacity: 1
 
