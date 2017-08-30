@@ -1,22 +1,22 @@
 ---
 title: "Chaman VR"
-description: "It's a game about being lost in a forest."
+description: "A game about being lost in a forest."
 date: 2016-02-27 12:00
 author: francoiscorbel
 bgcolor: "#6fae85"
-txtcolor: "#be4623"
+txtcolor: "#ffffff"
 iframecolor: "#be4623"
 linkcolor: "#222222"
 image: "https://fcvalise.github.io/assets/images/chaman-vr/project.gif"
 
 layout: post
-tag: game
+tag: [Windows, Oculus-Rift, Unreal-Engine]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
 externalLink: false
 ---
-<div class="text general-margin"><strong>You're lost in a scary forest inhabited by strange creatures. The night is coming, you should follow the lights...</strong></div>
+<div class="text general-margin">You're lost in a scary forest inhabited by strange creatures. The night is coming, you should follow the lights...</div>
 
 <div class="video general-margin">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/goZikfz87HM?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>

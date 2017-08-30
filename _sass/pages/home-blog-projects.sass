@@ -25,35 +25,102 @@
                     font-weight: 300
                     positioon: absolute
                     margin: auto
-                h4
-                    color: $gama
+                h3
+                    text-overflow: ellipsis
+                    white-space: nowrap
+                    overflow: hidden
+                    margin-top: 1rem
 
             > .link > .text
                 position: absolute
                 width: 100%
                 transition: all .4s ease-in-out
                 max-height: 80%
-                > .icon
-                    vertical-align: bottom
-                    width: 30px
-                    height: 30px
 
             > .link > .bg
-                position: absolute
-                z-index: -2
+                z-index: -99
 
-            > .link > .img
-                z-index: -1
-                transition: all .4s ease-in-out
+            > .link > .text > .img
+                display: block
+                margin: auto
+                margin-top: 20px
+                width: 40%
+                height: auto
                 opacity: 0
+                transition: all .4s ease-in-out
                 image-rendering: auto
                 image-rendering: crisp-edges
                 image-rendering: pixelated
+                img
+                    border-radius: 100%
 
             &:hover
-                > .link > .text
+                > .link > .text > .text
                     opacity: 1
-                > .link > .img
+                > .link > .text > .img
                     opacity: 1
 
+    > .list > .elem > .link > .text > .icon
+        margin: 0
+        margin-top: 1rem
+        text-decoration: none
+        position: relative
+        display: inline-block
+        width: 35px
+        height: 35px
+        > .icon-svg
+            height: 100%
+            width: 100%
+
+        &:hover
+            fill: $delta
+
+        &:hover:before
+            opacity: 1
+            display: inline-block
+            transform: translate3d(0,0,0)
+            white-space: nowrap
+
+        &:before
+            content: attr(data-title)
+            display: none
+            position: absolute
+            bottom: -34px
+            left: -6px
+            margin: 0 auto
+            font-size: 13px
+            padding: 3px 10px
+            background: $beta
+            color: #fff
+            border-radius: 2px
+            height: 22px
+            line-height: 22px
+            opacity: 0
+            transition: opacity 150ms linear, transform 150ms linear, -webkit-transform 150ms linear
+            transform: translate3d(0,-8px,0)
+            z-index: 99
+
+        &:after
+            content: ""
+            position: absolute
+            top: 35px
+            left: 13px
+            width: 0
+            height: 0
+            border-left: 5px solid transparent
+            border-right: 5px solid transparent
+            border-bottom: 6px solid $beta
+            opacity: 0
+            transition: opacity 150ms linear, transform 150ms linear, -webkit-transform 150ms linear
+            transform: translate3d(0,-8px,0)
+            z-index: 100
+
+        &:hover:after
+            opacity: 1
+            transform: translate3d(0,0,0)
+
+    > .icon
+        transition: all ease-in-out .2s
+                width: 30px
+                height: 30px
 

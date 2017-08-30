@@ -1,6 +1,6 @@
 ---
 title: "Poom Poom Tchi !"
-description: "It's a multiplayer platformer 2D about rhythm."
+description: "A multiplayer platformer 2D about rhythm."
 date: 2015-10-28 12:00
 author: francoiscorbel
 bgcolor: "#2a2658"
@@ -10,16 +10,12 @@ linkcolor: "#ffffff"
 image: "https://fcvalise.github.io/assets/images/poom-poom-tchi/project.gif"
 
 layout: post
-tag: game
+tags: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
 externalLink: false
 ---
-<div class="text general-margin">
-<strong>It's a multiplayer platformer 2D about rhythm.</strong><br><br>
-</div>
-
 <div class="text general-margin">POOM POOM TCHI! is a multiplayer platformer 2D about 
 making your enemy grow to explosion. You need to combine keys on rythm 
 to protect, reload or fire. All actions happen at the same time. You 

@@ -1,6 +1,6 @@
 ---
 title: "An Octonaut Odyssey"
-description: "It's a game about an amnesiac octopus."
+description: "A game about an amnesiac octopus."
 date: 2017-02-28 12:00
 author: francoiscorbel
 bgcolor: "#fff9c4"
@@ -11,7 +11,7 @@ image: "https://fcvalise.github.io/assets/images/an-octonaut-odyssey/project.gif
 image2: "https://fcvalise.github.io/assets/images/an-octonaut-odyssey/banner.png"
 
 layout: post
-tag: game
+tags: [Windows, MacOS, C++, SFML, Vim]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project

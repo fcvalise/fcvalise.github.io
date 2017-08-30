@@ -11,14 +11,14 @@ image: "https://fcvalise.github.io/assets/images/fake-cast-low-rez/project.gif"
 image2: "https://fcvalise.github.io/assets/images/fake-cast-low-rez/miniature.png"
 
 layout: post
-tag: game
+tag: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
 externalLink: false
 ---
 <div class="text general-margin">
-An attempt to use cellular automaton to create a competitive 1v1 game about casting.<br><br>
+Use of cellular automaton as an element of gameplay.<br><br>
 The idea was to force the player to use fake casting (inspired by World of Warcraft).<br>
 <br>
 [WASD] Move [IJKL]<br>

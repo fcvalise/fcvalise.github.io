@@ -1,6 +1,6 @@
 ---
 title: "Total Eclipse Of The Heart"
-description: "It's an hippie game about playing Tag in a room."
+description: "An hippie game about playing Tag in a room."
 date: 2016-11-13 12:00
 author: francoiscorbel
 bgcolor: "#000"
@@ -10,14 +10,13 @@ linkcolor: "#ffd024"
 image: "https://fcvalise.github.io/assets/images/total-eclipse-of-the-heart/project.gif"
 
 layout: post
-tag: game
+tags: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
 externalLink: false
 ---
 <div class="text general-margin">
-<strong>An hippie game about playing Tag in a room.</strong><br><br>
 One or Two players.<br>
 Your friend tries to catch you, then you'll try to catch him...<br>
 You have to survive 30 seconds without being caught!<br>

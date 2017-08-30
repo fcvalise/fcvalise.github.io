@@ -1,12 +1,12 @@
 <nav class="nav">
 {% include hr-custom.html %}
     <ul class="list">
-        {% if page.tag == "game" %}
+        {% if page.category == "project" %}
             <li class="item prev">
                 {% if page.next.url %}
                         <a class="link" href="{{page.next.url}}">&larr;</a>
                 {% else %}
-                    {% for post in site.tags['game'] %}
+                    {% for post in site.categories['project'] %}
                         {% if forloop.last == true %}
                             <a class="link" href="{{ post.url }}">&larr;</a>
                         {% endif %}
@@ -51,12 +51,12 @@
             </li>
         {% endif %}
 
-        {% if page.tag == "game" %}
+        {% if page.category == "project" %}
             <li class="item next">
                 {% if page.previous.url %}
                         <a class="link" href="{{page.previous.url}}">&rarr;</a>
                 {% else %}
-                    {% for post in site.tags['game'] limit:1 %}
+                    {% for post in site.categories['project'] limit:1 %}
                         <a class="link" href="{{ post.url }}">&rarr;</a>
                     {% endfor %}
                 {% endif %}

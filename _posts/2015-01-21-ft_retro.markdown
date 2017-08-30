@@ -1,6 +1,6 @@
 ---
 title: "Ft Retro"
-description: "It's a small game about spaceships in a terminal."
+description: "A small game about spaceships in a terminal."
 date: 2015-01-21 12:00
 author: francoiscorbel
 bgcolor: "#000"
@@ -10,16 +10,12 @@ linkcolor: "#bababa"
 image: "https://fcvalise.github.io/assets/images/ft-retro/project.gif"
 
 layout: post
-tag: game
+tags: [C++, Vim]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
 externalLink: false
 ---
-
-<div class="text general-margin">
-<strong>It's a small game about spaceships in a terminal.</strong><br>
-</div>
 
 <div style="display:inline-block; color:#373737">To avoid boredom, click -> </div>
 <div style="display:inline-block; color:#373737" onclick="playSoundFire()">[fire] </div>
