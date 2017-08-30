@@ -23,7 +23,6 @@
                     height: auto
                 h3, h4
                     font-weight: 300
-                    positioon: absolute
                     margin: auto
                 h3
                     text-overflow: ellipsis
@@ -43,8 +42,10 @@
             > .link > .text > .img
                 display: block
                 margin: auto
-                margin-top: 20px
+                margin-top: 2rem
                 width: 40%
+                @media (max-width : 800px)
+                    width: 0%
                 height: auto
                 opacity: 0
                 transition: all .4s ease-in-out
@@ -55,8 +56,6 @@
                     border-radius: 100%
 
             &:hover
-                > .link > .text > .text
-                    opacity: 1
                 > .link > .text > .img
                     opacity: 1
 
@@ -118,9 +117,4 @@
         &:hover:after
             opacity: 1
             transform: translate3d(0,0,0)
-
-    > .icon
-        transition: all ease-in-out .2s
-                width: 30px
-                height: 30px
 
