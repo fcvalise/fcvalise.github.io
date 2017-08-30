@@ -1,20 +1,6 @@
 <nav class="nav">
 {% include hr-custom.html %}
     <ul class="list">
-        {% if page.category == "project" %}
-            <li class="item prev">
-                {% if page.next.url %}
-                        <a class="link" href="{{page.next.url}}">&larr;</a>
-                {% else %}
-                    {% for post in site.categories['project'] %}
-                        {% if forloop.last == true %}
-                            <a class="link" href="{{ post.url }}">&larr;</a>
-                        {% endif %}
-                    {% endfor %}
-                {% endif %}
-            </li>
-        {% endif %}
-
         {% if page.title != "Home" %}
             <li class="item">
                 <a class="link" href="{{ site.url }}/">Home</a>
@@ -29,12 +15,38 @@
             {% endif %}
         {% endif %}
 
+        {% if page.category == "project" %}
+            <li class="project">
+                {% if page.next.url %}
+                        <a class="link" href="{{page.next.url}}">&larr;</a>
+                {% else %}
+                    {% for post in site.categories['project'] %}
+                        {% if forloop.last == true %}
+                            <a class="link" href="{{ post.url }}">&larr;</a>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+            </li>
+        {% endif %}
+
         {% if site.projects == true %}
             {% if page.title != "Projects" %}
-                <li class="item">
+                <li class="project">
                     <a class="link" href="{{ site.url }}/projects{% if page.title == "Home" %}_{% endif %}">Projects</a>
                 </li>
             {% endif %}
+        {% endif %}
+
+        {% if page.category == "project" %}
+            <li class="project">
+                {% if page.previous.url %}
+                        <a class="link" href="{{page.previous.url}}">&rarr;</a>
+                {% else %}
+                    {% for post in site.categories['project'] limit:1 %}
+                        <a class="link" href="{{ post.url }}">&rarr;</a>
+                    {% endfor %}
+                {% endif %}
+            </li>
         {% endif %}
 
         {% if site.about == true %}
@@ -48,18 +60,6 @@
         {% if site.resume == true %}
             <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
-            </li>
-        {% endif %}
-
-        {% if page.category == "project" %}
-            <li class="item next">
-                {% if page.previous.url %}
-                        <a class="link" href="{{page.previous.url}}">&rarr;</a>
-                {% else %}
-                    {% for post in site.categories['project'] limit:1 %}
-                        <a class="link" href="{{ post.url }}">&rarr;</a>
-                    {% endfor %}
-                {% endif %}
             </li>
         {% endif %}
     </ul>

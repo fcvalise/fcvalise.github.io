@@ -9,12 +9,13 @@
 
         > .item
             display: inline-block
-        > .prev
-            float: left
-        > .next
-            float: right
+            @media (max-width : 500px)
+                display: block
+        > .project
+            display: inline-block
 
-        > .item > .link
+        > .item > .link,
+        > .project > .link
             display: inline-block
             font-weight: 300
             text-decoration: none
