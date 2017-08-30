@@ -8,6 +8,7 @@ txtcolor: "#513482"
 iframecolor: "#f79592"
 linkcolor: "#f79592"
 image: "https://fcvalise.github.io/assets/images/an-octonaut-odyssey/project.gif"
+image2: "https://fcvalise.github.io/assets/images/an-octonaut-odyssey/banner.png"
 
 layout: post
 tag: game

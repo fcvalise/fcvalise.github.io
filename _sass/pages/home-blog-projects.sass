@@ -6,38 +6,50 @@
         text-align: center
 
         > .elem
+            position: relative
             display: inline-block
-            margin: 0rem
-            margin-top: 1rem
-            margin-bot: 1rem
-            min-width: 260px
+            text-align: center
+            margin: 1rem
+            width: 40%
+            min-width: 200px
             transition: all .2s
             box-shadow: 0px 0px 0px #888888
-            opacity: .8
+            opacity: 1
+
+            > .link
+                text-decoration: none
+                img
+                    width: 100%
+                    height: auto
+                h3, h4
+                    font-weight: 300
+                    positioon: absolute
+                    margin: auto
+                h4
+                    color: $gama
+
+            > .link > .text
+                position: absolute
+                width: 100%
+                transition: all .4s ease-in-out
+                img
+                    margin-top: 0.5rem
+
             > .link > .bg
                 position: absolute
-                opacity: 0.8
                 z-index: -99
+
             > .link > .img
                 transition: all .4s ease-in-out
                 opacity: 0
                 image-rendering: auto
                 image-rendering: crisp-edges
                 image-rendering: pixelated
+
             &:hover
-                opacity: 1
-                > .link > .img, .bg
-                    box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
+                > .link > .text
+                    opacity: 0
+                > .link > .img
                     opacity: 1
 
-            > .link
-                text-decoration: none
-                img
-                    width: 200px
-                    height: 200px
-                    display: inline-block
-                h3, h4
-                    margin: 0.5rem
-                h4
-                    font-weight: 300
-                    color: $gama
+

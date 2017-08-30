@@ -82,7 +82,7 @@ function getImgSrc(){
     var framesImg = document.getElementsByTagName('img');
     for (var i = 0; i < framesImg.length; i++) {
         srcImg.push($(framesImg[i]).attr('src'));
-        $(framesImg[i]).attr('src', 'https://fcvalise.github.io/assets/images/1px-alpha.png');
+        $(framesImg[i]).attr('src', '{{ site.url }}/{{ site.empty }}');
     }
 }
 
