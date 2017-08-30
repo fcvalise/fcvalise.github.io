@@ -21,24 +21,24 @@
 
                     {% if page.category == "project" %}
                         {% if page.next.url %}
-                                <a class="link" href="{{page.next.url}}">&larr;</a>
+                                <a class="project" href="{{page.next.url}}">&larr;</a>
                         {% else %}
                             {% for post in site.categories['project'] %}
                                 {% if forloop.last == true %}
-                                    <a class="link" href="{{ post.url }}">&larr;</a>
+                                    <a class="project" href="{{ post.url }}">&larr;</a>
                                 {% endif %}
                             {% endfor %}
                         {% endif %}
                     {% endif %}
 
-                    <a class="link" href="{{ site.url }}/projects{% if page.title == "Home" %}_{% endif %}">Projects</a>
+                    <a class="project" href="{{ site.url }}/projects{% if page.title == "Home" %}_{% endif %}">Projects</a>
 
                     {% if page.category == "project" %}
                         {% if page.previous.url %}
-                                <a class="link" href="{{page.previous.url}}">&rarr;</a>
+                                <a class="project" href="{{page.previous.url}}">&rarr;</a>
                         {% else %}
                             {% for post in site.categories['project'] limit:1 %}
-                                <a class="link" href="{{ post.url }}">&rarr;</a>
+                                <a class="project" href="{{ post.url }}">&rarr;</a>
                             {% endfor %}
                         {% endif %}
                     {% endif %}
