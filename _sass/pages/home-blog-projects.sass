@@ -44,6 +44,16 @@
                 width: 100%
                 transition: all .4s ease-in-out
                 max-height: 80%
+                > .icon
+                    &:before
+                        bottom: -44px
+                    &:after
+                        top: 45px
+                    margin-top: 1rem
+                    > .icon-svg
+                        height: 100%
+                        width: 100%
+                        margin: 0
 
             > .link > .bg
                 z-index: -99
@@ -67,63 +77,4 @@
             &:hover
                 > .link > .text > .img
                     opacity: 1
-
-    > .list > .elem > .link > .text > .icon
-        margin: 0
-        margin-top: 1rem
-        text-decoration: none
-        position: relative
-        display: inline-block
-        width: 35px
-        height: 35px
-        > .icon-svg
-            height: 100%
-            width: 100%
-
-        &:hover
-            fill: $delta
-
-        &:hover:before
-            opacity: 1
-            display: inline-block
-            transform: translate3d(0,0,0)
-            white-space: nowrap
-
-        &:before
-            content: attr(data-title)
-            display: none
-            position: absolute
-            bottom: -34px
-            left: -6px
-            margin: 0 auto
-            font-size: 13px
-            padding: 3px 10px
-            background: $beta
-            color: #fff
-            border-radius: 2px
-            height: 22px
-            line-height: 22px
-            opacity: 0
-            transition: opacity 150ms linear, transform 150ms linear, -webkit-transform 150ms linear
-            transform: translate3d(0,-8px,0)
-            z-index: 99
-
-        &:after
-            content: ""
-            position: absolute
-            top: 35px
-            left: 13px
-            width: 0
-            height: 0
-            border-left: 5px solid transparent
-            border-right: 5px solid transparent
-            border-bottom: 6px solid $beta
-            opacity: 0
-            transition: opacity 150ms linear, transform 150ms linear, -webkit-transform 150ms linear
-            transform: translate3d(0,-8px,0)
-            z-index: 100
-
-        &:hover:after
-            opacity: 1
-            transform: translate3d(0,0,0)
 
