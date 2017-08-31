@@ -1,44 +1,133 @@
-<div = "about">
-	<img class="title-img" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+<div class="about">
+    <div class="intro-title">
+        <div class="infos">
+            <img class="title-img" alt="{{ site.name }}" src="{{ site.url }}/{{ site.picture }}"/>
+            <h1>François Corbel</h1>
+        </div>
+        {% include hr-custom.html %}
+        <h2>Video Game Developer</h2>
+        <div class="right"> {% include social-links.html %}</div>
+        {% include hr-custom.html %}
+        <p> After two years working on <a alt="anoctonautodyssey.com" href="https://anoctonautodyssey.com" target="_blank">An Octonaut Odyssey</a>
+        I was 100% sure that game are what I want to do. I'm proficient in C++ and Unity.</p>
+        <p>I came to Japan with a strong motivation to find my first job in the game industry.</p>
+    </div>
 
-	<p>Lorm ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	
-	<h2>Skills</h2>
-	
-	<ul class="skill-list">
-		<li>HTML - Jade - Haml - Erb</li>
-		<li>Responsive (Mobile First)</li>
-		<li>CSS (Stylus, Sass, Less)</li>
-		<li>Css Frameworks (Bootstrap, Foundation)</li>
-		<li>Javascript (Design Patterns, Testes)</li>
-		<li>NodeJS</li>
-		<li>AngularJS - ReactJS</li>
-		<li>Grunt - Gulp - Yeoman</li>
-		<li>Git</li>
-		<li>PHP</li>
-		<li>Python</li>
-		<li>MySQL - MongoDB</li>
-		<li>Scrum and Kanban</li>
-		<li>TDD e Continuous Integration</li>
-	</ul>
-	
-	<h2>Projects</h2>
-	
-	<ul>
-		<li><a href="https://github.com/">Lorem Lorem</a></li>
-		<li><a href="https://github.com/">Ipsum Dolor</a></li>
-		<li><a href="https://github.com/">Dolor Lorem</a></li>
-	</ul>
+    <div class="experience">
+        {% include hr-custom.html %}
+        <h1>Game Project</h1>
+        {% include hr-custom.html %}
+
+        <div class="elem">
+            <h2 class="title">An Octonaut Odyssey</h2>
+            <h2 class="date">18 months, 2015-2017</h2>
+            <h3>Windows/MacOS</h3>
+            <p>A 2D side-scrolling platformer build on a custom C++ engine. The question of building a game engine 
+            is arguable but it leads to a deep understansting of every aspect in a video game.
+            <p>Started with a team of 5 peoples, I spent around a year finishing it alone.</p>
+            <p class="ul-title"><strong>Tools</strong></p>
+            <ul><li>C++, <a alt="sfml-dev.org" href="https://www.sfml-dev.org/">SFML</a>, Vim, Git, Makefile, Trello</li></ul>
+            <br>
+            <p class="ul-title"><strong>Roles</strong></p>
+            <ul>
+            <li>Developer</li>
+            <li><ul>
+                <li>Gameplay</li>
+                <li>Generative environment</li>
+                <li>Menu system</li>
+                <li>Optimization</li>
+            </ul></li>
+            <li>Team leader</li>
+            <li>Game design</li>
+            <li>Level design</li>
+            <li>Publishing and marketing</li>
+            </ul>
+        </div>
+
+        {% include hr-custom.html %}
+        <h1>Work experience</h1>
+        {% include hr-custom.html %}
+
+        <div class="elem">
+            <h2 class="title">Developer Python</h2>
+            <h2 class="date">3 months, 2015</h2>
+            <h3>AXA Assistance</h3>
+            <p>How robots could help dependant individuals to live at home? I had to answer that question 
+            with a team of 5 people for an important insurance group.</p>
+            <ul>
+                <li>Developement python on the robot <a alt="softbankrobotics.com/nao" href="https://www.ald.softbankrobotics.com/en/robots/nao">NAO</a> of SoftBank Robotics</li>
+                <li>Redaction of the technical recommandations</li>
+            </ul>
+        </div>
+
+        <div class="elem">
+            <h2 class="title">Developer Web</h2>
+            <h2 class="date">6 months, 2014</h2>
+            <h3>Padawan Group</h3>
+            <p></p>
+            <ul>
+                <li>Developement of a tool to migrate a MySQL database to an elasticsearch solution with PHP</li>
+                <li>Developement of a bash script to deploy several website with Git</li>
+                <li>Daily tasks, Ticket manager in collaboration with an Indian company</li>
+            </ul>
+        </div>
+
+        <div class="elem">
+            <h2 class="title">Telemarketer</h2>
+            <h2 class="date">1 year, 2012-2013</h2>
+            <h3>Wisecom</h3>
+            <p></p>
+
+            <ul>
+                <li>Customer support for an energy company</li>
+                <li>Contribution to the improvement of web tools</li>
+                <li>Community manager for a French bank</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="education">
+        {% include hr-custom.html %}
+        <h1>Education</h1>
+        {% include hr-custom.html %}
+
+        <div class="elem">
+            <h2 class="title">Computer science</h2>
+            <h2 class="date">2013-2017</h2>
+            <h3>42 School, Paris</h3>
+            <p>The 42 school is a french innovative school of programming. The process of learning is project based
+            and strongly linked to the work environement. More than learning programming, I also learn to learn.</p>
+            <ul>
+                <li>Specialisation in graphics and algorithms</li>
+            </ul>
+        </div>
+        <div class="elem">
+            <h2 class="title">Higher National Diploma of Communication</h2>
+            <h2 class="date">2010-2012</h2>
+            <h3>Jeanne d'Arc, Rennes</h3>
+        </div>
+        <div class="elem">
+            <h2 class="title">English University</h2>
+            <h2 class="date">2009-2010</h2>
+            <h3>Villejean université, Rennes</h3>
+        </div>
+        <div class="elem">
+            <h2 class="title">Science Baccalauréat, specialisation in Engineering</h2>
+            <h2 class="date">2008</h2>
+        </div>
+    </div>
+
+    <div class="more">
+            {% include hr-custom.html %}
+            <h1>More</h1>
+            {% include hr-custom.html %}
+            <p>I'm a science enthousiast, especialy neuro-sciences or everything link to space.</p>
+            <p>I really like thoses games : Minecraft, Inside, World of Warcraft, League of Legends, Dofus, Age of Empire, Grand Theft Auto, Hotline Miami, No Man's Sky, Starbound, GoNNER, The Floor Is Jelly, Fez, Downwell, Towerfall, Leekwars</p>
+            <p>I travelled in Europe but also Thailand, India and Japan.</p>
+            <p>I currently reside in Tokyo, Japan.</p>
+            <p></p>
+            {% include hr-custom.html %}
+        <div class="elem">
+        </div>
+    </div>
 </div>
