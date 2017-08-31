@@ -11,8 +11,8 @@ image: "https://fcvalise.github.io/assets/images/an-octonaut-odyssey/project.gif
 image2: "https://fcvalise.github.io/assets/images/an-octonaut-odyssey/banner.png"
 
 layout: post
-tags: [Windows, MacOS, C++, SFML, Vim]
-projects: true
+tags: [Steam, Windows, MacOS, C++, SFML, Vim]
+projects: false
 hidden: true # don't count this post in blog pagination
 category: project
 externalLink: false
