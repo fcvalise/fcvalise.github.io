@@ -6,7 +6,7 @@ author: francoiscorbel
 bgcolor: "#6fae85"
 txtcolor: "#ffffff"
 iframecolor: "#be4623"
-linkcolor: "#222222"
+linkcolor: "#a55d00"
 image: "https://fcvalise.github.io/assets/images/chaman-vr/project.gif"
 
 layout: post
@@ -14,9 +14,42 @@ tag: [Windows, Oculus-Rift, Unreal-Engine]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+team:
+    -   name: Claire Allante
+        role: 3D Artist
+    -   name: Julien Balestrieri
+        role: Developer
+        website: https://jbalestr42.github.io/
+    -   name: Lucien Coycault
+        role: Graphic Designer
+    -   name: Sebastien Paluel
+        role: Sound Atmoshpere
+    -   name: Pierre Glory
+        role: Music / Sound Design
 externalLink: false
 ---
-<div class="text general-margin">You're lost in a scary forest inhabited by strange creatures. The night is coming, you should follow the lights...</div>
+<div class="text general-margin"><h3><i>"You're lost in a scary forest inhabited by strange monsters. The night is coming, you should follow the lights..."</i></h3></div>
+
+<div class="text justify general-margin">
+With 5 friends, we used a holiday period of 3 weeks to lock ourself in a house.
+The purpose was to learn <a alt="www.unrealengine.com" href="https://www.unrealengine.com" target="_blank">Unreal Engine</a> and 
+<a alt="www.oculus.com/en-us/dk2/" href="https://www3.oculus.com/en-us/dk2/" target="_blank">Oculus Rift DK2</a>.
+From the beginning Chaman VR was a challenge for everybody.
+</div>
+<div class="text justify general-margin">
+It's known that VR requires powerful computers... Which we didn't have. We used a laptop
+for gamers. The first thing we had to get through, apart from learning the engine, was to optimize
+every part of the game. Using low poly meshes, fogs, LOD, ...
+</div>
+<div class="text justify general-margin">
+During those three weeks, I used the UE4 level editor to create a luxurious forest that runs on our computer,
+implemented game mechanics like an enemy who moves only when you are not looking at him. And play
+<div style="display: inline-block; color: #cccccc;" onclick="playSound()">sound</div> 
+according to specific moments to frighten the player. I've been accustomed to the blue print and components system of UE4.
+</div>
+<div class="text general-margin"><i>
+Chaman VR was presented at a local game jam in Paris, where it was well received.
+</i></div>
 
 <div class="video general-margin">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/goZikfz87HM?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
@@ -25,7 +58,10 @@ externalLink: false
 {% include slider.html varcolor='#6fae85' var1='chaman-vr/screenshot1.jpg' var2='chaman-vr/screenshot2.jpg' var3='chaman-vr/screenshot3.jpg' var4='chaman-vr/screenshot4.jpg' %}
 
 <div class="general-margin">
-<iframe frameborder="0" src="https://itch.io/embed/165258?linkback=true&border_width=1&amp;bg_color=be4623&amp;fg_color=222222&amp;link_color=6fae85&amp;border_color=dc6441" width="560" height="165"></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/165258?linkback=true&border_width=1&amp;bg_color=be4623&amp;fg_color=222222&amp;link_color=6fae85&amp;border_color=dc6441" width="800" height="165"></iframe>
 </div>
 
-<div class="text general-margin">Made by four dudes.</div>
+<audio id="sound" src="{{ site.url}}/assets/sounds/chaman_scary.ogg"></audio>
+<script>
+function playSound() { document.getElementById('sound').play(); }
+</script>

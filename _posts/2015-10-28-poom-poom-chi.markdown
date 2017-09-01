@@ -14,12 +14,30 @@ tags: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+team:
+    -   name: Claire Allante
+        role: 3D Artist
+    -   name: Julien Balestrieri
+        role: developer
+        website: https://jbalestr42.github.io/
+    -   name: Lucien Coycault
+        role: Graphic Designer
 externalLink: false
 ---
-<div class="text general-margin">POOM POOM TCHI! is a multiplayer platformer 2D about 
-making your enemy grow to explosion. You need to combine keys on rythm 
+<div class="text justify general-margin">
+POOM POOM TCHI! is a multiplayer platformer 2D about 
+making your enemy grow until explosion. You need to combine keys in rhythm 
 to protect, reload or fire. All actions happen at the same time. You 
 just need gamepad controllers and some friends.
+</div>
+<div class="text justify general-margin">
+The gameplay come from a game that we used to play with friends during camping. 
+The rhythm is given by clapping hands twice, then make a sign that represents one of
+the possible action (fire, shield, reload). It's the cowboy version of shifumi.
+</div>
+<div class="text justify general-margin">
+It was the first project on Unity for all the team members, made in three days. My role was to 
+create characters movement and add animations.
 </div>
 
 <div class="general-margin">
@@ -33,9 +51,7 @@ just need gamepad controllers and some friends.
 </div>
 
 <div class="general-margin">
-<iframe frameborder="0" src="https://itch.io/embed/47480?bg_color=f56760&amp;fg_color=ffffff&amp;link_color=2a2658&amp;border_color=2a2658" width="560" height="167"></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/47480?bg_color=f56760&amp;fg_color=ffffff&amp;link_color=2a2658&amp;border_color=2a2658" width="800" height="167"></iframe>
 </div>
 
 <a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=66215">Ludum Dare 34</a><br>
-
-<div class="text general-margin">Made by four dudes.<br>

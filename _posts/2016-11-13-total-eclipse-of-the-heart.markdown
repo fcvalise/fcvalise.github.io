@@ -14,6 +14,9 @@ tags: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+team:
+    -   name: Lucien Coycault
+        role: Graphic Designer
 externalLink: false
 ---
 <div class="text general-margin">
@@ -34,4 +37,3 @@ You look at 4 screen simultaneously !!!<br>
     <a href="https://github.com/fcvalise/TotalEclipseOfTheHeart">https://github.com/fcvalise/TotalEclipseOfTheHeart</a>
 </div>
 
-<div class="text general-margin">Made by two dudes.</div>

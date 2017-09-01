@@ -20,6 +20,18 @@ layout: page
 
 {{content}}
 
+<div class="text credit general-margin">
+Credits:
+{% for member in page.team %}
+    {% if member.website != null %}
+        <a alt="{{ member.website }}" href="{{ member.website }}" target="_blank">{{ member.name }}</a> ({{ member.role }})
+    {% else %}
+        {{ member.name }} ({{ member.role }})
+    {% endif %}
+    {% if forloop.last == true %}and me.{% else %}, {% endif %}
+{% endfor %}
+</div>
+
 {% if site.post-advance-links contains page.category %}
     <div class="blog-navigation">
         {% if page.previous.url %}

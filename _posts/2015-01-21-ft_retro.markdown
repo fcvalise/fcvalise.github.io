@@ -14,14 +14,18 @@ tags: [C++, Vim]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+team:
+    -   name: Julien Balestrieri
+        role: Developer
+        website: https://jbalestr42.github.io/
 externalLink: false
 ---
 
-<div class="text general-margin">
+<div class="text justify general-margin">
 Born during a weekend, Ft Retro was created at <a alt="en.wikipedia.org/wiki/42_(school)" href="https://en.wikipedia.org/wiki/42_(school)" target="_blank">42 School</a>
 with C++ and <a alt="en.wikipedia.org/wiki/Termcap" href="https://en.wikipedia.org/wiki/Termcap">termcaps</a>.
 As simple as it looks, it was a great challenge to create a small <a alt="en.wikipedia.org/wiki/Shoot'em_up" href="https://en.wikipedia.org/wiki/Shoot_%27em_up" target="_blank">schmup</a>
-in two days. It's build from scratch including basic game logic, ascii sprite display, collisions, movements, enemies, planets and power up.
+in two days. It's built from scratch, including basic game logic, ASCII sprite display, collisions, movements, enemies, planets and power up.
 </div>
 
 <div style="display:inline-block; color:#373737">To avoid boredom, click -> </div>
@@ -32,13 +36,10 @@ in two days. It's build from scratch including basic game logic, ascii sprite di
     <iframe width="560px" height="315px" src="https://www.youtube.com/embed/Q7rNyHkXPDA?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<audio id="fire" src="{{ site.url}}/assets/ft_retro_fire.ogg"></audio>
-<audio id="explode" src="{{ site.url}}/assets/ft_retro_explode.ogg"></audio>
-
 <a class="general-margin" href="https://github.com/fcvalise/FtRetro">https://github.com/fcvalise/FtRetro</a><br>
 
-<div class="text general margin">Made by two dudes.<br>
-
+<audio id="fire" src="{{ site.url}}/assets/sounds/ft_retro_fire.ogg"></audio>
+<audio id="explode" src="{{ site.url}}/assets/sounds/ft_retro_explode.ogg"></audio>
 <script>
 function playSoundFire() { document.getElementById('fire').play(); }
 function playSoundExplode() { document.getElementById('explode').play(); }

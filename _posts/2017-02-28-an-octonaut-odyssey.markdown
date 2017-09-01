@@ -15,6 +15,23 @@ tags: [Steam, Windows, MacOS, C++, SFML, Vim]
 projects: false
 hidden: true # don't count this post in blog pagination
 category: project
+team:
+    -   name: Julien Balestrieri
+        role: Developer
+        website: https://jbalestr42.github.io/
+    -   name: Lucien Coycault
+        role: Graphic Designer
+    -   name: Iohann Rabesson
+        role: Developer
+        website: https://github.com/IohannRabeson
+    -   name: Pierre Glory
+        role: Sound Design
+    -   name: Fabien You
+        role: Music/Sound Design
+    -   name: Jeff Guerrin
+        role: Music
+    -   name: Guillaume Lasset
+        role: Developer
 externalLink: false
 ---
 <div class="text general-margin">
@@ -46,8 +63,8 @@ as a simple student project for the information-technology school « 42 », it b
 little by little a much more ambitious and personal project.
 </div>
 
-<iframe frameborder="0" src="https://itch.io/embed/123472?bg_color=fff9c4&amp;fg_color=513482&amp;link_color=f79592&amp;border_color=cec893" width="560" height="167"></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/123472?bg_color=fff9c4&amp;fg_color=513482&amp;link_color=f79592&amp;border_color=cec893" width="800" height="167"></iframe>
 
 {% include slider.html varcolor='#fff9c4' var1='an-octonaut-odyssey/screenshot1.jpg' var2='an-octonaut-odyssey/screenshot2.jpg' var3='an-octonaut-odyssey/screenshot3.jpg' %}
 
-<iframe src="https://store.steampowered.com/widget/566320/" frameborder="0" width="560" height="200" style="background: #262626"></iframe>
+<iframe src="https://store.steampowered.com/widget/566320/" frameborder="0" width="800" height="200" style="background: #262626"></iframe>

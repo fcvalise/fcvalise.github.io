@@ -15,6 +15,10 @@ tag: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+team:
+    -   name: Julien Balestrieri
+        role: Developer
+        website: https://jbalestr42.github.io/
 externalLink: false
 ---
 <div class="text general-margin">
@@ -39,5 +43,3 @@ You can play with some cellular automata rules with [1-7]
 <div class="general-margin">
     <a href="https://itch.io/jam/lowrezjam2017">https://itch.io/jam/lowrezjam2017</a>
 </div>
-
-<div class="text general-margin">Made by two dudes.</div>

@@ -61,13 +61,7 @@ authors:
         bio: A human who speaks with computer to create games.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: https://github.com/fcvalise
-#    jamesfoster:
-#        name: James Foster
-#        bio: A Man who develops software with coffee
-#        external-image: false
-#        picture: assets/images/james.jpg
-#        twitter: jamesfoster
+        twitter: FcValise
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
