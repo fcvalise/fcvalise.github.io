@@ -17,15 +17,16 @@ category: project
 externalLink: false
 ---
 <div class="text general-margin">
-This project was made at 42 school with C. In two weeks every student had to create his own basic ray tracer, 
-followed by two other weeks with a team of four people. Only one fonction was provided : SetPixel(x, y, color).
+This project was made at <a alt="en.wikipedia.org/wiki/42_(school)" href="https://en.wikipedia.org/wiki/42_(school)" target="_blank">42 School</a> with C.
+In two weeks every student had to use <a alt="en.wikipedia.org/wiki/Ray_tracing_(graphics)" href="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)" target="_blank">ray tracing</a>
+technique to generate 3D images, followed by a month with a team of four people. Only one function was provided : SetPixel(x, y, color).
 
 </div>
 <div class="text general-margin">
-Those videos are the result of 4 peoples impletementing all basic shapes (planes, cubes, sphere,
+Those videos are the result of 4 peoples implementing all basic shapes (planes, cubes, sphere,
 cones), lights (specular, diffuse, multiple), reflection and refraction.
-Every team members was involve in all aspects but I implement alone Perlin Noise in purpose to 
-distord normals and proceed to strange effects.
+Every team members was involved in all aspects but I implement <a alt="en.wikipedia.org/wiki/Perlin_noise" href="https://en.wikipedia.org/wiki/Perlin_noise" target="_blank">Perlin noise</a> 
+alone in purpose to distort normals and proceed to strange effects.
 </div>
 <div class="text general-margin">
 It's a CPU program and those videos are not in real time.
@@ -35,8 +36,5 @@ It's a CPU program and those videos are not in real time.
 </div>
 <div class="video general-margin">
     <iframe width="560px" height="315px" src="https://www.youtube.com/embed/dP525W5pTAY?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="text general-margin">
-To learn more about <a alt="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)" href="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray Tracing</a>.
 </div>
 <div class="text general margin">Made by four dudes.<br>
