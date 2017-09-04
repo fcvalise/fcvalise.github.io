@@ -68,7 +68,9 @@ function getIframeSrc(){
 function setIframeSrc() {
     var frames = document.getElementsByTagName('iframe');
     for (var i = 0; i < frames.length; i++) {
-        $(frames[i]).attr('src', src[i]);
+        if (window.screen.availWidth >= 500 || $(frames[i]).attr('class') != 'unity') {
+            $(frames[i]).attr('src', src[i]);
+        }
     }
 }
 
