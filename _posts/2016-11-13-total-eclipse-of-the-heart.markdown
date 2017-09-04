@@ -20,7 +20,6 @@ team:
 externalLink: false
 ---
 <div class="text general-margin"><i>
-An hippie game about playing Tag in a room.<br>
 One or Two players.<br>
 Your friend tries to catch you, then you'll try to catch him...<br>
 You have to survive 30 seconds without being caught!<br>
