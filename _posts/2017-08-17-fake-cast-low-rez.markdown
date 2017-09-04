@@ -35,9 +35,7 @@ You can play with some cellular automata rules with [1-7]
 </div>
 
 <div class="general-margin">
-    <div style="text-align:center;width:100%;">
-        <iframe class="unity" style="width:500px;" src="//v6p9d9t4.ssl.hwcdn.net/html/568550/FakeCastLowResWebGL/index.html" width="500" height="500" scrolling="no" frameborder="0"></iframe>
-    </div>
+    <iframe class="unity" align="middle" style="width:500px;" src="//v6p9d9t4.ssl.hwcdn.net/html/568550/FakeCastLowResWebGL/index.html" width="500" height="500" scrolling="no" frameborder="0"></iframe>
 </div>
 
 <div class="general-margin">

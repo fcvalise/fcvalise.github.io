@@ -71,6 +71,11 @@ function setIframeSrc() {
         if (window.screen.availWidth >= 500 || $(frames[i]).attr('class') != 'unity') {
             $(frames[i]).attr('src', src[i]);
         }
+        else {
+            alert("else");
+            $(frames[i]).attr('src', 'http://localhost:4000/nounity');
+            $(frames[i]).attr('height', '50px');
+        }
     }
 }
 
