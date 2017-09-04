@@ -19,13 +19,16 @@ team:
         role: Graphic Designer
 externalLink: false
 ---
-<div class="text general-margin">
+<div class="text general-margin"><i>
+An hippie game about playing Tag in a room.<br>
 One or Two players.<br>
 Your friend tries to catch you, then you'll try to catch him...<br>
 You have to survive 30 seconds without being caught!<br>
 But there's a thing...<br>
 You look at 4 screen simultaneously !!!<br>
-</div>
+<br>
+♪ Tuuurnaround ♪
+</i></div>
 
 <div class="general-margin">
     <div style="text-align:center;width:100%;">
@@ -33,7 +36,33 @@ You look at 4 screen simultaneously !!!<br>
     </div>
 </div>
 
+<div class="text justify general-margin">
+    Total Eclipse Of The Heart is an answer to the theme of Ludum Dare 37 : <strong>One Room</strong>. The idea was to use different 
+    perspectives of the same place and display it all together. Mainly designed as an experiment, the result can be difficult to
+    understand.
+</div>
+
+<div class="text justify general-margin">
+    For the purpose of this game, 4 cameras are used. A custom sprite player has been developed to display all sides of a character at the
+    same time. An AI has been added post game jam to allow single player.
+</div>
+
+<div class="text justify general-margin">
+    You can try a very experimental online multiplayer developed with <a alt="www.photonengine.com" href="https://www.photonengine.com" target="_blank">Photon Engine</a> for Unity, here :
+    <a alt="octostudio.itch.io/total-eclipse-of-the-heart-multi" href="https://octostudio.itch.io/total-eclipse-of-the-heart-multi" target="blank">Total Eclipse Of The Heart Multi</a>
+</div>
+
+{% include slider.html varcolor='#ffd024' var1='total-eclipse-of-the-heart/unity-1.jpg' var2='total-eclipse-of-the-heart/unity-2.jpg' var3='total-eclipse-of-the-heart/unity-3.jpg' %}
+
+<div class="video general-margin">
+    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/9OkViJzYrWI?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <div class="general-margin">
     <a alt="github.com/fcvalise/TotalEclipseOfTheHeart" href="https://github.com/fcvalise/TotalEclipseOfTheHeart" target="_blank">Sources</a>
+</div>
+
+<div class="general-margin">
+    <a alt="ludumdare.com/compo/ludum-dare-37/?action=preview&uid=60115" href="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=60115" target="_blank">Ludum Dare 37</a>
 </div>
 
