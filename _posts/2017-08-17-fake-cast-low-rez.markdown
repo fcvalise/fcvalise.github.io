@@ -8,10 +8,9 @@ txtcolor: "#ffffff"
 iframecolor: "#c7c7c7"
 linkcolor: "#c7c7c7"
 image: "https://fcvalise.github.io/assets/images/fake-cast-low-rez/project.gif"
-image2: "https://fcvalise.github.io/assets/images/fake-cast-low-rez/miniature.png"
 
 layout: post
-tag: [Windows, MacOS, C#, Unity]
+tags: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
