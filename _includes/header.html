@@ -1,12 +1,12 @@
 {% if page.tags == "FromHome" or page.tags == "Home" %}
     {% if page.tags == "Home" %}
         <header class="header-home {% if site.animation %}animated-open{% endif %}">
-            <a class="link" href="{{ site.url }}/about">
+            <a class="link" href="{{ site.url }}/resume">
                 <img class="selfie" alt="{{ site.name }}" src="{{ site.picture }}" />
             </a>
     {% else %}
         <header class="header-home {% if site.animation %}animated-close{% endif %}">
-            <span class="link" href="{{ site.url }}/about">
+            <span class="link" href="{{ site.url }}/resume">
                 <img class="selfie" alt="{{ site.name }}" src="{{ site.url }}/{{ site.empty }}"/>
             </span>
     {% endif %}
