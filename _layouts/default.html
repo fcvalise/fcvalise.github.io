@@ -72,8 +72,8 @@ function setIframeSrc() {
             $(frames[i]).attr('src', src[i]);
         }
         else {
-            $(frames[i]).attr('src', 'http://localhost:4000/nounity');
-            $(frames[i]).attr('height', '150px');
+            $(frames[i]).attr('src', '{{ site.url }}/nounity');
+            $(frames[i]).attr('height', '100px');
         }
     }
 }
