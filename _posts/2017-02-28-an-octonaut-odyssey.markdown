@@ -35,7 +35,7 @@ team:
 externalLink: false
 ---
 <div class="text general-margin">
-<strong><a href="https://anoctonautodyssey.com/">anoctonautodyssey.com</a></strong><br>
+<strong><a alt="anoctonautodyssey.com" href="https://anoctonautodyssey.com/" target="_blank">anoctonautodyssey.com</a></strong><br>
 </div>
 
 <div class="text general-margin">
@@ -68,3 +68,5 @@ little by little a much more ambitious and personal project.
 {% include slider.html varcolor='#fff9c4' var1='an-octonaut-odyssey/screenshot1.jpg' var2='an-octonaut-odyssey/screenshot2.jpg' var3='an-octonaut-odyssey/screenshot3.jpg' %}
 
 <iframe src="https://store.steampowered.com/widget/566320/" frameborder="0" width="800" height="200" style="background: #262626"></iframe>
+
+<a alt="github.com/fcvalise/AnOctonautOdyssey" href="https://github.com/fcvalise/AnOctonautOdyssey" target="_blank">Sources</a>

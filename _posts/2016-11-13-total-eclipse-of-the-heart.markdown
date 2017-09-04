@@ -34,6 +34,6 @@ You look at 4 screen simultaneously !!!<br>
 </div>
 
 <div class="general-margin">
-    <a href="https://github.com/fcvalise/TotalEclipseOfTheHeart">https://github.com/fcvalise/TotalEclipseOfTheHeart</a>
+    <a alt="github.com/fcvalise/TotalEclipseOfTheHeart" href="https://github.com/fcvalise/TotalEclipseOfTheHeart" target="_blank">Sources</a>
 </div>
 

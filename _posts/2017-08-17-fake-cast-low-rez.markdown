@@ -38,5 +38,5 @@ You can play with some cellular automata rules with [1-7]
 </div>
 
 <div class="general-margin">
-    <a href="https://itch.io/jam/lowrezjam2017">https://itch.io/jam/lowrezjam2017</a>
+    <a alt="itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">itch.io/jam/lowrezjam2017</a>
 </div>
