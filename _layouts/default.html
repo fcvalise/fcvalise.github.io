@@ -75,7 +75,7 @@ function setIframeSrc() {
             $(frames[i]).attr('height', '55px');
             var body = $(frames[i]).contents().find('body');
             body.append('<div>Unity WebGL not avaible on this device.</div>');
-            body.attr('style', 'color: {{ page.txtcolor }}; font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: center; vertical-align: middle;;');
+            body.attr('style', 'color: {{ page.txtcolor }}; font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: center; vertical-align: middle;');
         }
     }
 }
