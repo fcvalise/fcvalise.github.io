@@ -68,12 +68,14 @@ function getIframeSrc(){
 function setIframeSrc() {
     var frames = document.getElementsByTagName('iframe');
     for (var i = 0; i < frames.length; i++) {
-        if ($(frames[i]).attr('class') != 'unity') {
+        if (window.screen.availWidth >= 500 || $(frames[i]).attr('class') != 'unity') {
             $(frames[i]).attr('src', src[i]);
         }
         else {
-            $(frames[i]).contents().find('body').append('Test');
-            $(frames[i]).attr('height', '70px');
+            $(frames[i]).attr('height', '55px');
+            var body = $(frames[i]).contents().find('body');
+            body.append('<div>Unity WebGL not avaible on this device.</div>');
+            body.attr('style', 'color: {{ page.txtcolor }}; font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: center; vertical-align: middle;;');
         }
     }
 }
