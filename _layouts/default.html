@@ -68,12 +68,12 @@ function getIframeSrc(){
 function setIframeSrc() {
     var frames = document.getElementsByTagName('iframe');
     for (var i = 0; i < frames.length; i++) {
-        if (window.screen.availWidth >= 500 || $(frames[i]).attr('class') != 'unity') {
+        if ($(frames[i]).attr('class') != 'unity') {
             $(frames[i]).attr('src', src[i]);
         }
         else {
-            $(frames[i]).attr('src', '{{ site.url }}/nounity');
-            $(frames[i]).attr('height', '100px');
+            $(frames[i]).attr('src', 'https://fcvalise.github.io/nounity');
+            $(frames[i]).attr('height', '70px');
         }
     }
 }
