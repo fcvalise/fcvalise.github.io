@@ -72,7 +72,7 @@ function setIframeSrc() {
             $(frames[i]).attr('src', src[i]);
         }
         else {
-            $(frames[i]).attr('src', 'https://fcvalise.github.io/nounity');
+            $(frames[i]).attr('src', '{{ site.url }}/nounity');
             $(frames[i]).attr('height', '70px');
         }
     }
