@@ -19,22 +19,6 @@ team:
         role: Graphic Designer
 externalLink: false
 ---
-<div class="text general-margin"><i>
-One or Two players.<br>
-Your friend tries to catch you, then you'll try to catch him...<br>
-You have to survive 30 seconds without being caught!<br>
-But there's a thing...<br>
-You look at 4 screen simultaneously !!!<br>
-<br>
-♪ Tuuurnaround ♪
-</i></div>
-
-<div class="general-margin">
-    <div style="text-align:center;width:100%;">
-        <iframe class="unity" style="width:800px;" src="//v6p9d9t4.ssl.hwcdn.net/html/555192/TotalEclipseOfTheHeartWebGL/index.html" width="800" height="450" scrolling="no" frameborder="0"></iframe>
-    </div>
-</div>
-
 <div class="text justify general-margin">
     Total Eclipse Of The Heart is an answer to the theme of Ludum Dare 37 : <strong>One Room</strong>. The idea was to use different 
     perspectives of the same place and display it all together. Mainly designed as an experiment, the result can be difficult to
@@ -50,6 +34,22 @@ You look at 4 screen simultaneously !!!<br>
     You can try a very experimental online multiplayer developed with <a alt="www.photonengine.com" href="https://www.photonengine.com" target="_blank">Photon Engine</a> for Unity, here :
     <a alt="octostudio.itch.io/total-eclipse-of-the-heart-multi" href="https://octostudio.itch.io/total-eclipse-of-the-heart-multi" target="blank">Total Eclipse Of The Heart Multi</a>
 </div>
+
+<div class="general-margin">
+    <div style="text-align:center;width:100%;">
+        <iframe class="unity" style="width:800px;" src="//v6p9d9t4.ssl.hwcdn.net/html/555192/TotalEclipseOfTheHeartWebGL/index.html" width="800" height="450" scrolling="no" frameborder="0"></iframe>
+    </div>
+</div>
+
+<div class="text general-margin"><i>
+One or Two players.<br>
+Your friend tries to catch you, then you'll try to catch him...<br>
+You have to survive 30 seconds without being caught!<br>
+But there's a thing...<br>
+You look at 4 screen simultaneously !!!<br>
+<br>
+♪ Tuuurnaround ♪
+</i></div>
 
 {% include slider.html varcolor='#ffd024' var1='total-eclipse-of-the-heart/unity-1.jpg' var2='total-eclipse-of-the-heart/unity-2.jpg' var3='total-eclipse-of-the-heart/unity-3.jpg' %}
 
