@@ -29,7 +29,7 @@ You look at 4 screen simultaneously !!!<br>
 
 <div class="general-margin">
     <div style="text-align:center;width:100%;">
-        <iframe style="width:800px;" src="//v6p9d9t4.ssl.hwcdn.net/html/555192/TotalEclipseOfTheHeartWebGL/index.html" width="800" height="450" scrolling="no" frameborder="0"></iframe>
+        <iframe class="unity" style="width:800px;" src="//v6p9d9t4.ssl.hwcdn.net/html/555192/TotalEclipseOfTheHeartWebGL/index.html" width="800" height="450" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
