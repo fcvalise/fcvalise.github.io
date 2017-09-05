@@ -22,7 +22,7 @@ externalLink: false
 ---
 
 <div class="text justify general-margin">
-Born during a weekend, Ft Retro was created at <a alt="en.wikipedia.org/wiki/42_(school)" href="https://en.wikipedia.org/wiki/42_(school)" target="_blank">42 School</a>
+Born during a weekend, Ft Retro was created at the school <a alt="en.wikipedia.org/wiki/42_(school)" href="https://en.wikipedia.org/wiki/42_(school)" target="_blank">42</a>
 with C++ and <a alt="en.wikipedia.org/wiki/Ncurses" href="https://en.wikipedia.org/wiki/Ncurses" target="_blank">Ncurses</a>.
 As simple as it looks, it was a great challenge to create a small <a alt="en.wikipedia.org/wiki/Shoot'em_up" href="https://en.wikipedia.org/wiki/Shoot_%27em_up" target="_blank">schmup</a>
 in two days. It's built from scratch, including basic game logic, ASCII sprite display, collisions, movements, enemies, planets and power up.
