@@ -19,9 +19,10 @@ team:
         role: 3D Artist
     -   name: Julien Balestrieri
         role: developer
-        website: https://jbalestr42.github.io/
+        website: https://jbalestr42.github.io
     -   name: Lucien Coycault
         role: Graphic Designer
+        website: http://www.luciencoycault.fr
 externalLink: false
 ---
 <div class="text justify general-margin">

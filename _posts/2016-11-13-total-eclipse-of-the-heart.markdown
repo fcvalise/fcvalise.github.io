@@ -17,6 +17,7 @@ category: project
 team:
     -   name: Lucien Coycault
         role: Graphic Designer
+        website: http://www.luciencoycault.fr
 externalLink: false
 ---
 <div class="general-margin">

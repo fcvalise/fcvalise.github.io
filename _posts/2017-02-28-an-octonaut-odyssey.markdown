@@ -21,6 +21,7 @@ team:
         website: https://jbalestr42.github.io/
     -   name: Lucien Coycault
         role: Graphic Designer
+        website: http://www.luciencoycault.fr
     -   name: Iohann Rabesson
         role: Developer
         website: https://github.com/IohannRabeson
