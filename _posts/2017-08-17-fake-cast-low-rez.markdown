@@ -20,9 +20,26 @@ team:
         website: https://jbalestr42.github.io/
 externalLink: false
 ---
+<div class="text justify general-margin">
+I always wanted to use <a alt="https://en.wikipedia.org/wiki/Cellular_automaton" href="https://en.wikipedia.org/wiki/Cellular_automaton" target="_blank">cellular automaton</a>
+as an element of gameplay in a game. The <a alt="https://itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">Low Res Jam</a>
+was the perfect occasion to avoid performance problems linked to the complexity of that model.
+</div>
+
+<div class="text justify general-margin">
+Fake Cast Low Res has been more about experimentations than creating a game. The system behind the game allows mixing several rules, 
+to consider a sprite as an element of the grid and to use the colors of a sprite as a rule. Every object can possess 
+his own cellular system and finally be printed on the main grid. There's no camera on the scene.
+Unfortunately, because of the lack of time, most of these features are barely used.
+</div>
+
+<div class="general-margin">
+    <iframe class="unity" align="middle" style="width:500px;" src="//v6p9d9t4.ssl.hwcdn.net/html/568550/FakeCastLowResWebGL/index.html" width="500" height="500" scrolling="no" frameborder="0"></iframe>
+</div>
+
 <div class="text general-margin">
-Use of cellular automaton as an element of gameplay.<br><br>
-The idea was to force the player to use fake casting (inspired by World of Warcraft).<br>
+The idea of that game was to force the player to use fake casting.<br>
+(start casting and stop so that the enemy waste his mute)<br>
 <br>
 [WASD] Move [IJKL]<br>
 [Q] Damage [U]<br>
@@ -34,9 +51,5 @@ You can play with some cellular automata rules with [1-7]
 </div>
 
 <div class="general-margin">
-    <iframe class="unity" align="middle" style="width:500px;" src="//v6p9d9t4.ssl.hwcdn.net/html/568550/FakeCastLowResWebGL/index.html" width="500" height="500" scrolling="no" frameborder="0"></iframe>
-</div>
-
-<div class="general-margin">
-    <a alt="itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">itch.io/jam/lowrezjam2017</a>
+    <a alt="itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">Low Res Jam 2017</a>
 </div>
