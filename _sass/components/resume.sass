@@ -1,5 +1,9 @@
 .resume
+    p
+        text-align: justify
     > .intro-title
+        @media (max-width : 500px)
+            text-align: center
         > .infos
             text-align: center
             display: block
@@ -22,6 +26,9 @@
             margin-bottom: 2rem
         .title, .date
             display: inline-block
+            @media (max-width : 500px)
+                display: block
+                text-align: center
         .date
             color: $gama
             float: right
@@ -29,10 +36,10 @@
                 float: none
         h1, h2, h3
             margin: 0
+            @media (max-width : 500px)
+                text-align: center
         h3
             color: $gama
-        p
-            text-align: justify
         ul
             display: inline-block
             vertical-align: text-top
