@@ -33,8 +33,8 @@ externalLink: false
 
 <div class="text justify general-margin">
 With 5 friends, we used a holiday period of 3 weeks to lock ourself in a house.
-The purpose was to learn <a alt="www.unrealengine.com" href="https://www.unrealengine.com" target="_blank">Unreal Engine</a> and 
-<a alt="www.oculus.com/en-us/dk2/" href="https://www3.oculus.com/en-us/dk2/" target="_blank">Oculus Rift DK2</a>.
+The purpose was to learn <a alt="https://www.unrealengine.com" href="https://www.unrealengine.com" target="_blank">Unreal Engine</a> and 
+<a alt="https://www.oculus.com/en-us/dk2/" href="https://www3.oculus.com/en-us/dk2/" target="_blank">Oculus Rift DK2</a>.
 From the beginning Chaman VR was a challenge for everybody.
 </div>
 <div class="text justify general-margin">

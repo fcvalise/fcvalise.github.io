@@ -36,10 +36,44 @@ team:
 externalLink: false
 ---
 <div class="text general-margin">
-<strong><a alt="anoctonautodyssey.com" href="https://anoctonautodyssey.com/" target="_blank">anoctonautodyssey.com</a></strong><br>
+<strong><a alt="https://anoctonautodyssey.com" href="https://anoctonautodyssey.com/" target="_blank">anoctonautodyssey.com</a></strong><br>
 </div>
+<a alt="https://anoctonautodyssey.com" href="https://anoctonautodyssey.com/" target="_blank">
+    <img src="{{ site.url }}/assets/images/an-octonaut-odyssey/banner.png">
+</a>
 
-<img src="{{ site.url }}/assets/images/an-octonaut-odyssey/banner.png">
+<div class="laurel general-margin">
+<a href="http://indie.stunfest.fr/2016/" href="http://indie.stunfest.fr/2016/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Official Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">Stunfest<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Rennes, France</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+
+<a alt="https://www.dutchgamegarden.nl/indigo/" href="https://www.dutchgamegarden.nl/indigo/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Official Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">Indigo<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Utrecht, Netherland</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+
+<a alt="http://tokyosandbox.com/tif/" href="http://tokyosandbox.com/tif/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Official Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">Indie Fest<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Tokyo, Japan</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+<br><br>
+</div>
 
 <div class="text justify general-margin">
 Developped in C++ with our own engine, An Octonaut Odyssey is the result of a 
@@ -67,21 +101,14 @@ little by little a much more ambitious and personal project.
 
 <div class="text justify general-margin"><i>
 In this journey that mixes exploration, logic and platform sections, you are Octo, 
-the amnesiac octopus.With him, You'll discover with him wild planets, inhabited by strange 
+the amnesiac octopus.With him, You'll discover wild planets, inhabited by strange 
 and evolutive flora and fauna. You'll meet quirky characters, and gather robots to 
 help Octo recover his capacities and repair his ship. You'll learn to move around 
 and to evolve in a new and chaotic universe, as well as to avoid the traps that 
 stand in Octo's way to desorient him.
 </i></div>
 
-{% include slider.html varcolor='#fff9c4' var1='an-octonaut-odyssey/screenshot1.jpg' var2='an-octonaut-odyssey/screenshot2.jpg' var3='an-octonaut-odyssey/screenshot3.jpg' %}
-
-<div class="text general-margin">
-Official selection of 3 festival around the world :<br>
-<a href="http://indie.stunfest.fr/2016/" href="http://indie.stunfest.fr/2016/" target="_blank">Stunfest</a> (Rennes, France)<br>
-<a alt="https://www.dutchgamegarden.nl/indigo/" href="https://www.dutchgamegarden.nl/indigo/" target="_blank">Indigo</a> (Utrecht, Netherland)<br>
-<a alt="http://tokyosandbox.com/tif/" href="http://tokyosandbox.com/tif/" target="_blank">Indie Fest</a> (Tokyo, Japan)
-</div>
+{% include slider.html varcolor='#fff9c4' var1='an-octonaut-odyssey/screenshot1.jpg' var2='an-octonaut-odyssey/screenshot2.jpg' var3='an-octonaut-odyssey/screenshot3.jpg' var4='an-octonaut-odyssey/screenshot4.jpg' %}
 
 <div class="general-margin">
     <iframe frameborder="0" src="https://itch.io/embed/123472?bg_color=fff9c4&amp;fg_color=513482&amp;link_color=f79592&amp;border_color=cec893" width="800" height="167"></iframe>
@@ -91,4 +118,4 @@ Official selection of 3 festival around the world :<br>
     <iframe src="https://store.steampowered.com/widget/566320/" frameborder="0" width="800" height="200" style="background: #262626"></iframe>
 </div>
 
-<a alt="github.com/fcvalise/AnOctonautOdyssey" href="https://github.com/fcvalise/AnOctonautOdyssey" target="_blank">Sources</a>
+<a alt="https://github.com/fcvalise/AnOctonautOdyssey" href="https://github.com/fcvalise/AnOctonautOdyssey" target="_blank">Sources</a>

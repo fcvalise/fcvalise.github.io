@@ -22,12 +22,12 @@ externalLink: false
 ---
 <div class="text justify general-margin">
 I always wanted to use <a alt="https://en.wikipedia.org/wiki/Cellular_automaton" href="https://en.wikipedia.org/wiki/Cellular_automaton" target="_blank">cellular automaton</a>
-as an element of gameplay in a game. The <a alt="https://itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">Low Res Jam</a>
+as an element of gameplay in a game. The <a alt="https://itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">Low Rez Jam</a>
 was the perfect occasion to avoid performance problems linked to the complexity of that model.
 </div>
 
 <div class="text justify general-margin">
-Fake Cast Low Res has been more about experimentations than creating a game. The system behind the game allows mixing several rules, 
+Fake Cast Low Rez has been more about experimentations than creating a game. The system behind the game allows mixing several rules, 
 to consider a sprite as an element of the grid and to use the colors of a sprite as a rule. Every object can possess 
 his own cellular system and finally be printed on the main grid. There's no camera on the scene.
 Unfortunately, because of the lack of time, most of these features are barely used.
@@ -51,5 +51,5 @@ You can play with some cellular automata rules with [1-7]
 </div>
 
 <div class="general-margin">
-    <a alt="itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">Low Res Jam 2017</a>
+    <a alt="https://itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">Low Rez Jam 2017</a>
 </div>

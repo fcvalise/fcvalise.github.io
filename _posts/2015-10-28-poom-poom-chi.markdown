@@ -55,4 +55,4 @@ create characters movement and add animations.
 <iframe frameborder="0" src="https://itch.io/embed/47480?bg_color=f56760&amp;fg_color=ffffff&amp;link_color=2a2658&amp;border_color=2a2658" width="800" height="167"></iframe>
 </div>
 
-<a alt="ludumdare.com/compo/ludum-dare-34/" href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=66215" target="_blank">Ludum Dare 34</a><br>
+<a alt="http://ludumdare.com/compo/ludum-dare-34/" href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=66215" target="_blank">Ludum Dare 34</a><br>

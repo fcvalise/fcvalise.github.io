@@ -26,15 +26,15 @@ team:
 externalLink: false
 ---
 <div class="text justify general-margin">
-This project was made at the school <a alt="en.wikipedia.org/wiki/42_(school)" href="https://en.wikipedia.org/wiki/42_(school)" target="_blank">42</a> with C.
-In two weeks every student had to use the <a alt="en.wikipedia.org/wiki/Ray_tracing_(graphics)" href="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)" target="_blank">ray tracing</a>
+This project was made at the school <a alt="https://en.wikipedia.org/wiki/42_(school)" href="https://en.wikipedia.org/wiki/42_(school)" target="_blank">42</a> with C.
+In two weeks every student had to use the <a alt="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)" href="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)" target="_blank">ray tracing</a>
 technique to generate 3D images, followed by a month with a team of four people. Only one function was provided : SetPixel(x, y, color).
 
 </div>
 <div class="text justify general-margin">
 Those videos are the result of 4 peoples, implementing all basic shapes (planes, cubes, sphere,
 cones), lights (specular, diffuse, multiple), reflection and refraction.
-Every team member was involved in all aspects, but I implement <a alt="en.wikipedia.org/wiki/Perlin_noise" href="https://en.wikipedia.org/wiki/Perlin_noise" target="_blank">Perlin noise</a> 
+Every team member was involved in all aspects, but I implement <a alt="https://en.wikipedia.org/wiki/Perlin_noise" href="https://en.wikipedia.org/wiki/Perlin_noise" target="_blank">Perlin noise</a> 
 alone in purpose to distort normals and proceed to strange effects.
 </div>
 <div class="text general-margin"><i>
