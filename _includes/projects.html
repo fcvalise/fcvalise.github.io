@@ -3,7 +3,7 @@
 {% include hr-custom.html %}
 {% for post in site.posts %}
     {% if post.title == "An Octonaut Odyssey" %}
-        <div class="elem">
+        <div class="highlight">
             <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                 <div class="text">
                     <h3 style="color: {{ post.iframecolor }};">{{ post.title }}</h3>
@@ -14,11 +14,13 @@
                         </div>
                     {% endfor %}
                     <h4 style="width: 100%; margin-top: 10px; color: {{ post.txtcolor }}">{{ post.description }}</h4>
-                    <div class="img">
-                        <img style="background-color: {{ post.iframecolor }}" alt="{{ post.title }}" src="{{ post.image }}"/>
-                    </div>
                 </div>
                 <img class="bg" style="background-color: {{ post.bgcolor }};" alt="{{ post.title }}" src="{{ site.url }}/{{ site.empty }}"/>
+            </a>
+            <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                <div class="video">
+                    <iframe width="800" height="440" src="https://www.youtube.com/embed/dAnAuwoRoA0?modestbranding=1&autohide=1&showinfo=0&controls=0&autoplay=1&mute=1&loop=1&rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
             </a>
         </div>
     {% endif %}
