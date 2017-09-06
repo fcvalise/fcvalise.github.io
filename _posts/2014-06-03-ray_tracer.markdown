@@ -14,6 +14,7 @@ tags: [C, Vim]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+sources: https://github.com/jbalestr42/42/tree/master/Graphics/ray_tracer
 team:
     -   name: Julien Balestrieri
         role: Developer

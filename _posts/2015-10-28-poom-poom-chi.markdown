@@ -26,8 +26,8 @@ team:
 externalLink: false
 ---
 <div class="text justify general-margin">
-POOM POOM TCHI! is a multiplayer platformer 2D about 
-making your enemy grow until explosion. You need to combine keys in rhythm 
+POOM POOM TCHI! is a multiplayer platformer 2D made for <a alt="http://ludumdare.com/compo/ludum-dare-34/" href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=66215" target="_blank">Ludum Dare 34</a>. 
+You need to combine keys in rhythm 
 to protect, reload or fire. All actions happen at the same time. You 
 just need gamepad controllers and some friends.
 </div>
@@ -54,5 +54,3 @@ create characters movement and add animations.
 <div class="general-margin">
 <iframe frameborder="0" src="https://itch.io/embed/47480?bg_color=f56760&amp;fg_color=ffffff&amp;link_color=2a2658&amp;border_color=2a2658" width="800" height="167"></iframe>
 </div>
-
-<a alt="http://ludumdare.com/compo/ludum-dare-34/" href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=66215" target="_blank">Ludum Dare 34</a><br>

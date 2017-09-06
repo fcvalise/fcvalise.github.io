@@ -14,6 +14,7 @@ tags: [C++, Vim]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+sources: https://github.com/fcvalise/FtRetro
 team:
     -   name: Julien Balestrieri
         role: Developer
@@ -35,8 +36,6 @@ in two days. It's built from scratch, including basic game logic, ASCII animated
 <div class="video general-margin">
     <iframe width="560px" height="315px" src="https://www.youtube.com/embed/Q7rNyHkXPDA?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<a class="general-margin" alt="https://github.com/fcvalise/FtRetro" href="https://github.com/fcvalise/FtRetro" target="_blank">Sources</a><br>
 
 <audio id="fire" src="{{ site.url}}/assets/sounds/ft_retro_fire.ogg"></audio>
 <audio id="explode" src="{{ site.url}}/assets/sounds/ft_retro_explode.ogg"></audio>

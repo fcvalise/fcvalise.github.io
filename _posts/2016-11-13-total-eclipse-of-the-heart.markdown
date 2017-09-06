@@ -14,6 +14,7 @@ tags: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+sources: https://github.com/fcvalise/TotalEclipseOfTheHeart
 team:
     -   name: Lucien Coycault
         role: Graphic Designer
@@ -28,7 +29,8 @@ externalLink: false
 
 <div class="text justify general-margin">
     Total Eclipse Of The Heart is a simple <a alt="https://en.wikipedia.org/wiki/Tag_(game)" href="https://en.wikipedia.org/wiki/Tag_(game)" target="_blank">tag game</a>
-    answering to the theme of Ludum Dare 37 : <a alt="http://ludumdare.com/compo/ludum-dare-37/" href="http://ludumdare.com/compo/ludum-dare-37/" target="_blank">One Room</a>.
+    answering to the theme of <a alt="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=60115" href="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=60115" target="_blank">Ludum Dare 37</a>: 
+    <a alt="http://ludumdare.com/compo/ludum-dare-37/" href="http://ludumdare.com/compo/ludum-dare-37/" target="_blank">One Room</a>.
     The idea was to use different perspectives of the same place and display it all together. Mainly designed as an experiment,
     the result can be difficult to understand.
 </div>
@@ -55,11 +57,5 @@ But there's a thing...<br>
 You look at 4 screen simultaneously !!!<br>
 </i></div>
 
-{% include slider.html varcolor='#ffd024' var1='total-eclipse-of-the-heart/unity-1.jpg' var2='total-eclipse-of-the-heart/unity-2.jpg' var3='total-eclipse-of-the-heart/unity-3.jpg' %}
-
-<div class="general-margin">
-    <a alt="https://github.com/fcvalise/TotalEclipseOfTheHeart" href="https://github.com/fcvalise/TotalEclipseOfTheHeart" target="_blank">Sources</a>
-    <br>
-    <a alt="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=60115" href="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=60115" target="_blank">Ludum Dare 37</a>
-</div>
+{% include slider.html varsize='560' varcolor='#ffd024' var1='total-eclipse-of-the-heart/unity1.jpg' var2='total-eclipse-of-the-heart/unity2.jpg' var3='total-eclipse-of-the-heart/unity3.jpg' %}
 

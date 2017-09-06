@@ -1,0 +1,9 @@
+{% if page.sources != null %}
+    <div class="sources">
+        <a alt="{{ page.sources }}" href="{{ page.sources }}">
+            <div class="icon" data-title="{{ page.sources }}">
+                <svg class="icon-svg"><use xlink:href="#icon-github-large" fill="{{ page.iframecolor }}"></use></svg>
+            </div>
+        </a>
+    </div>
+{% endif %}

@@ -49,7 +49,3 @@ The idea of that game was to force the player to use fake casting.<br>
 The shield is mainly a fake target. Move to interrupt casting. Try to survive.<br>
 You can play with some cellular automata rules with [1-7]
 </div>
-
-<div class="general-margin">
-    <a alt="https://itch.io/jam/lowrezjam2017" href="https://itch.io/jam/lowrezjam2017" target="_blank">Low Rez Jam 2017</a>
-</div>

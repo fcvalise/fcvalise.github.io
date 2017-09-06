@@ -15,6 +15,7 @@ tags: [Steam, Windows, MacOS, C++, SFML, Vim]
 projects: false
 hidden: true # don't count this post in blog pagination
 category: project
+sources: https://github.com/fcvalise/AnOctonautOdyssey
 team:
     -   name: Julien Balestrieri
         role: Developer
@@ -108,7 +109,7 @@ and to evolve in a new and chaotic universe, as well as to avoid the traps that
 stand in Octo's way to desorient him.
 </i></div>
 
-{% include slider.html varcolor='#fff9c4' var1='an-octonaut-odyssey/screenshot1.jpg' var2='an-octonaut-odyssey/screenshot2.jpg' var3='an-octonaut-odyssey/screenshot3.jpg' var4='an-octonaut-odyssey/screenshot4.jpg' %}
+{% include slider.html varsize='800' varcolor='#fff9c4' var1='an-octonaut-odyssey/screenshot1.jpg' var2='an-octonaut-odyssey/screenshot2.jpg' var3='an-octonaut-odyssey/screenshot3.jpg' var4='an-octonaut-odyssey/screenshot4.jpg' %}
 
 <div class="general-margin">
     <iframe frameborder="0" src="https://itch.io/embed/123472?bg_color=fff9c4&amp;fg_color=513482&amp;link_color=f79592&amp;border_color=cec893" width="800" height="167"></iframe>
@@ -118,4 +119,3 @@ stand in Octo's way to desorient him.
     <iframe src="https://store.steampowered.com/widget/566320/" frameborder="0" width="800" height="200" style="background: #262626"></iframe>
 </div>
 
-<a alt="https://github.com/fcvalise/AnOctonautOdyssey" href="https://github.com/fcvalise/AnOctonautOdyssey" target="_blank">Sources</a>

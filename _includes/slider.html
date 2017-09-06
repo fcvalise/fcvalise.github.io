@@ -20,7 +20,7 @@
     .w3-badge {height:13px;width:13px;padding:0}
     </style>
 
-    <div class="w3-content w3-display-container" style="max-width:800px">
+    <div class="w3-content w3-display-container" style="max-width:{{ include.varsize }}px">
         {% if include.var1 != null %}
             <img class="mySlides" alt="1" onclick="plusDivs(1)" src="{{ site.url }}/assets/images/{{ include.var1 }}">
         {% endif %}

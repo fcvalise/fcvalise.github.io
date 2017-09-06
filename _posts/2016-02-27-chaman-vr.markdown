@@ -56,7 +56,7 @@ Chaman VR was presented at a local game jam in Paris, where it was well received
     <iframe width="560" height="315" src="https://www.youtube.com/embed/goZikfz87HM?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-{% include slider.html varcolor='#6fae85' var1='chaman-vr/screenshot1.jpg' var2='chaman-vr/screenshot2.jpg' var3='chaman-vr/screenshot3.jpg' var4='chaman-vr/screenshot4.jpg' %}
+{% include slider.html varsize='800' varcolor='#6fae85' var1='chaman-vr/screenshot1.jpg' var2='chaman-vr/screenshot2.jpg' var3='chaman-vr/screenshot3.jpg' var4='chaman-vr/screenshot4.jpg' %}
 
 <div class="general-margin">
 <iframe frameborder="0" src="https://itch.io/embed/165258?linkback=true&border_width=1&amp;bg_color=be4623&amp;fg_color=222222&amp;link_color=6fae85&amp;border_color=dc6441" width="800" height="165"></iframe>
