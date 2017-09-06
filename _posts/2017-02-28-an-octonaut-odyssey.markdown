@@ -53,7 +53,9 @@ externalLink: false
         </div>
     <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
 </a>
+</div>
 
+<div class="laurel general-margin">
 <a alt="https://www.dutchgamegarden.nl/indigo/" href="https://www.dutchgamegarden.nl/indigo/" target="_blank">
     <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
         <div class="text-laurel">
@@ -63,7 +65,9 @@ externalLink: false
         </div>
     <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
 </a>
+</div>
 
+<div class="laurel general-margin">
 <a alt="http://tokyosandbox.com/tif/" href="http://tokyosandbox.com/tif/" target="_blank">
     <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
         <div class="text-laurel">
@@ -73,7 +77,6 @@ externalLink: false
         </div>
     <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
 </a>
-<br><br>
 </div>
 
 <div class="text justify general-margin">
