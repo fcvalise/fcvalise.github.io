@@ -1,5 +1,7 @@
 .header-home
     display: block
+    @media print
+        display: none
     margin: 0
     text-align: center
     position: relative
@@ -24,6 +26,8 @@
         margin: 0 0 13px
 
 .description
+    @media print
+        display: none
     text-align: center
     font-size: 1.85rem
     font-weight: 300
