@@ -7,10 +7,12 @@
             </li>
         {% endif %}
 
-        {% if site.blog == true %}
-            {% if page.title != "Blog" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+        {% if site.resume == true %}
+            {% if page.title == "Resume" %}
+                <li class="item icon-item">
+                    <a class="icon" data-title="Print as PDF" href="javascript: window.print();">
+                        <svg class="icon-svg"><use xlink:href="#icon-print"></use></svg>
+                    </a>
                 </li>
             {% endif %}
         {% endif %}
@@ -47,6 +49,22 @@
             {% endif %}
         {% endif %}
 
+        {% if site.resume == true %}
+            {% if page.title != "Resume" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/resume{% if page.title == "Home" %}_{% endif %}">Résumé</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+
+        {% if site.blog == true %}
+            {% if page.title != "Blog" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                </li>
+            {% endif %}
+        {% endif %}
 
         {% if site.about == true %}
             {% if page.title != "About" %}
@@ -56,13 +74,6 @@
             {% endif %}
         {% endif %}
 
-        {% if site.resume == true %}
-            {% if page.title != "Resume" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/resume{% if page.title == "Home" %}_{% endif %}">Résumé</a>
-                </li>
-            {% endif %}
-        {% endif %}
     </ul>
 {% include hr-custom.html %}
 </nav>
