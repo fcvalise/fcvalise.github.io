@@ -41,7 +41,7 @@ externalLink: false
 </div>
 
 <div class="text justify general-margin">
-    You can try a very experimental online multiplayer developed with <a alt="https://www.photonengine.com" href="https://www.photonengine.com" target="_blank">Photon Engine</a> for Unity, here :
+    You can try a very experimental online multiplayer developed with <a alt="https://www.photonengine.com" href="https://www.photonengine.com" target="_blank">Photon Engine</a> for Unity, here:
     <a alt="https://octostudio.itch.io/total-eclipse-of-the-heart-multi" href="https://octostudio.itch.io/total-eclipse-of-the-heart-multi?secret=xOErAE5klDwmWs0WkIggNDEfDvU" target="blank">Total Eclipse Of The Heart Multi</a>
 </div>
 
@@ -54,7 +54,7 @@ One or Two players.<br>
 Your friend tries to catch you, then you'll try to catch him...<br>
 You have to survive 30 seconds without being caught!<br>
 But there's a thing...<br>
-You look at 4 screen simultaneously !!!<br>
+You look at four screens simultaneously !!!<br>
 </i></div>
 
 {% include slider.html varsize='560' varcolor='#ffd024' var1='total-eclipse-of-the-heart/unity1.jpg' var2='total-eclipse-of-the-heart/unity2.jpg' var3='total-eclipse-of-the-heart/unity3.jpg' %}
