@@ -80,7 +80,7 @@ externalLink: false
 </div>
 
 <div class="text justify general-margin">
-Developped in C++ with our own engine, An Octonaut Odyssey is the result of a 
+Developed in C++ with our own engine, An Octonaut Odyssey is the result of a 
 work performed by a team of enthusiasts. The game is unique mainly because it was 
 entirely designed based on one simple <a alt="https://www.sfml-dev.org/" href="https://www.sfml-dev.org/" target="_blank">SFML</a> library, from the physics engine to the 
 music, including animations and sound design.
