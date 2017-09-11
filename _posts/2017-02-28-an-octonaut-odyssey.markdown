@@ -109,7 +109,7 @@ the amnesiac octopus.With him, You'll discover wild planets, inhabited by strang
 and evolutive flora and fauna. You'll meet quirky characters, and gather robots to 
 help Octo recover his capacities and repair his ship. You'll learn to move around 
 and to evolve in a new and chaotic universe, as well as to avoid the traps that 
-stand in Octo's way to desorient him.
+stand in Octo's way to disorient him.
 </i></div>
 
 {% include slider.html varsize='800' varcolor='#fff9c4' var1='an-octonaut-odyssey/screenshot1.jpg' var2='an-octonaut-odyssey/screenshot2.jpg' var3='an-octonaut-odyssey/screenshot3.jpg' var4='an-octonaut-odyssey/screenshot4.jpg' %}
