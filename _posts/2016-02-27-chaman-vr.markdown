@@ -23,7 +23,7 @@ team:
     -   name: Lucien Coycault
         role: Graphic Designer
         website: http://www.luciencoycault.fr
-    -   name: Sebastien Paluel
+    -   name: Sébastien Palluel
         role: Sound Atmoshpere
     -   name: Pierre Glory
         role: Music / Sound Design
