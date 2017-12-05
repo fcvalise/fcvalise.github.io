@@ -1,81 +1,32 @@
 # main text of home
 name: François Corbel
 bio: A human who speaks with computers to create games.
-
-# twitter summary info
 description: My porjects and résumé
-
-# if it's an external image, update below for true
-# better with square images
-external-image: false
 picture: assets/images/profile.png
 empty: assets/images/1px-alpha.png
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-
-url: https://fcvalise.github.io
-# your url: http://USERNAME.github.io
-
 permalink: /:title/
 
-# To enable google analytics, supply your token below
+resume: true
+projects: true
+about: false
+blog: false
+
+url: https://fcvalise.github.io
+jekyll-mentions:
+    base_url: https://github.com
 analytics-google: 'UA-105835301-1'
 
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
-# if you don't want comments in your posts, leave categories empty
-disqus:
-#  shortname: mydisqus # enter this from your disqus account
-#  categories: [blog, project] # only show disqus for posts that have these categories
-
-# if you don't have any of social below, comment the line
 twitter: FcValise
 youtube: watch?v=dAnAuwoRoA0&list=PLhK30YO4FlvUpFmLvh-9CPIiRMCu6MN4z
 github: fcvalise
 email: francois.corbel@gmail.com
 steam: search/?developer=Octo%20Studio
 itchio: octostudio
-#facebook: myfacebook
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# spotify: myspotify
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
-
-authors:
-    francoiscorbel:
-        name: François Corbel
-        bio: A human who speaks with computer to create games.
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: FcValise
-
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: large
+linkedin: francoiscorbel
 
 # if you don't need pagination, comment the *paginate* configs below
 #paginate: 5
 #paginate_path: "blog/:num/"
-
-# if you don't need projects, comment the *projects* configs below
-projects: true
-
-# if you don't need "about" or "blog", comment them out below
-about: false
-blog: false
 
 # do you want to show the "read time" of the posts?
 #read-time: true
@@ -83,14 +34,8 @@ blog: false
 # do you want to show the "tags" inside the posts?
 show-tags: false
 
-# related posts inside a post?
-related: false
-
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
-
-# show author block at the end of a post ?
-show-author: false
 
 # do you want some animations?
 animation: true
@@ -100,6 +45,3 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-jekyll-mentions:
-    base_url: https://github.com

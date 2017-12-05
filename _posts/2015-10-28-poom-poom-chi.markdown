@@ -23,7 +23,6 @@ team:
     -   name: Lucien Coycault
         role: Graphic Designer
         website: http://www.luciencoycault.fr
-externalLink: false
 ---
 <div class="text justify general-margin">
 POOM POOM TCHI! is a multiplayer platformer 2D made for <a alt="http://ludumdare.com/compo/ludum-dare-34/" href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=66215" target="_blank">Ludum Dare 34</a>. 

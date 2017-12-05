@@ -24,7 +24,6 @@ team:
         website: https://github.com/glasset
     -   name: Marion Debelle
         role: Developer
-externalLink: false
 ---
 <div class="text justify general-margin">
 This project was made at the school <a alt="https://en.wikipedia.org/wiki/42_(school)" href="https://en.wikipedia.org/wiki/42_(school)" target="_blank">42</a> with C.

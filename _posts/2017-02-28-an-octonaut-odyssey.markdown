@@ -34,7 +34,6 @@ team:
         role: Music
     -   name: Guillaume Lasset
         role: Developer
-externalLink: false
 ---
 <div class="text general-margin">
 <strong><a alt="https://anoctonautodyssey.com" href="https://anoctonautodyssey.com/" target="_blank">anoctonautodyssey.com</a></strong><br>

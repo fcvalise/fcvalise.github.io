@@ -4,7 +4,7 @@
 {% for post in site.posts %}
     {% if post.title == "An Octonaut Odyssey" %}
         <div class="highlight">
-            <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <a class="link" href="{{ site.url }}{{ post.url }}">
                 <div class="text">
                     <h3 style="color: {{ post.iframecolor }};">{{ post.title }}</h3>
                     <h4 style="color: {{ post.txtcolor }};"><time datetime="{{ post.date | date:"%m-%Y" }}">{{ post.date | date: "%b %Y" }}</time></h4>
@@ -17,7 +17,7 @@
                 </div>
                 <img class="bg" style="background-color: {{ post.bgcolor }};" alt="{{ post.title }}" src="{{ site.url }}/{{ site.empty }}"/>
             </a>
-            <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <a class="link" href="{{ site.url }}{{ post.url }}">
                 <div class="video">
                     <iframe width="800" height="440" src="https://www.youtube.com/embed/dAnAuwoRoA0?modestbranding=1&autohide=1&showinfo=0&controls=0&autoplay=1&mute=1&loop=1&rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
@@ -31,7 +31,7 @@
 {% for post in site.posts %}
     {% if post.projects %}
         <div class="elem">
-            <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <a class="link" href="{{ site.url }}{{ post.url }}">
                 <div class="text">
                     <h3 style="color: {{ post.iframecolor }};">{{ post.title }}</h3>
                     <h4 style="color: {{ post.txtcolor }};"><time datetime="{{ post.date | date:"%m-%Y" }}">{{ post.date | date: "%b %Y" }}</time></h4>

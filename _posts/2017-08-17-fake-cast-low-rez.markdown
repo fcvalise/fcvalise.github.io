@@ -18,7 +18,6 @@ team:
     -   name: Julien Balestrieri
         role: Developer
         website: https://jbalestr42.github.io/
-externalLink: false
 ---
 <div class="text justify general-margin">
 I always wanted to use <a alt="https://en.wikipedia.org/wiki/Cellular_automaton" href="https://en.wikipedia.org/wiki/Cellular_automaton" target="_blank">cellular automaton</a>

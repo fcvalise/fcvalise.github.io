@@ -19,7 +19,6 @@ team:
     -   name: Lucien Coycault
         role: Graphic Designer
         website: http://www.luciencoycault.fr
-externalLink: false
 ---
 <div class="general-margin">
     <div style="text-align:center;width:100%;">

@@ -19,7 +19,6 @@ team:
     -   name: Julien Balestrieri
         role: Developer
         website: https://jbalestr42.github.io/
-externalLink: false
 ---
 
 <div class="text justify general-margin">

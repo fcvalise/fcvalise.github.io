@@ -27,7 +27,6 @@ team:
         role: Sound Atmoshpere
     -   name: Pierre Glory
         role: Music / Sound Design
-externalLink: false
 ---
 <div class="text general-margin"><h3><i>"You're lost in a scary forest inhabited by strange monsters. The night is coming, you should follow the lights..."</i></h3></div>
 
