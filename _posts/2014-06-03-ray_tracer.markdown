@@ -41,9 +41,9 @@ alone in purpose to distort normals and proceed to strange effects.
 It's a CPU program and those videos are not in real time.
 </i></div>
 <div class="video general-margin">
-    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/2uVwTu24wgA?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/2uVwTu24wgA?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="video general-margin">
-    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/dP525W5pTAY?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/dP525W5pTAY?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 

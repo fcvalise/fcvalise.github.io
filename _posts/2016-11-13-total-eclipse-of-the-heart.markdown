@@ -45,7 +45,7 @@ team:
 </div>
 
 <div class="video general-margin">
-    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/9OkViJzYrWI?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/9OkViJzYrWI?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="text general-margin"><i>

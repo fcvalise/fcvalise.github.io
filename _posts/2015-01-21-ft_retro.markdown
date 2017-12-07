@@ -33,7 +33,7 @@ in two days. It's built from scratch, including basic game logic, ASCII animated
 <div style="display:inline-block; color:#373737" onclick="playSoundExplode()">[explode]</div>
 
 <div class="video general-margin">
-    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/Q7rNyHkXPDA?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/Q7rNyHkXPDA?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <audio id="fire" src="{{ site.url}}/assets/sounds/ft_retro_fire.ogg"></audio>
