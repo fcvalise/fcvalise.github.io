@@ -64,4 +64,5 @@ Chaman VR was presented at a local game jam in Paris, where it was well received
 <audio id="sound" src="{{ site.url}}/assets/sounds/chaman_scary.ogg"></audio>
 <script>
 function playSound() { document.getElementById('sound').play(); }
+playSound();
 </script>

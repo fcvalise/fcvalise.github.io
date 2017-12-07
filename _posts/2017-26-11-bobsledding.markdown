@@ -3,10 +3,10 @@ title: "Bobsledding"
 description: "A bobsled game."
 date: 2017-11-26 12:00
 author: francoiscorbel
-bgcolor: "#acff00"
-txtcolor: "#6f06fc"
-iframecolor: "#33fcfe"
-linkcolor: "#f607fe"
+bgcolor: "#a3f845"
+txtcolor: "#670ce3"
+iframecolor: "#e512d7"
+linkcolor: "#e512d7"
 image: "https://fcvalise.github.io/assets/images/bobsledding/project.gif"
 
 layout: post
