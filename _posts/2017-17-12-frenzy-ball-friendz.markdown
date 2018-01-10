@@ -1,6 +1,6 @@
 ---
 title: "Frenzy Ball Friendz"
-description: "A game you can play with a lot of friends"
+description: "A game you can play with a lot of friends."
 date: 2017-12-16 12:00
 author: francoiscorbel
 bgcolor: "#3f2645"

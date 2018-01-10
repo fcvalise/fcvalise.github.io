@@ -1,6 +1,6 @@
 ---
 title: "Bobsledding"
-description: "A bobsled game."
+description: "A bobsled game for an event in Tokyo."
 date: 2017-11-26 12:00
 author: francoiscorbel
 bgcolor: "#a3f845"
