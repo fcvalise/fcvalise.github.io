@@ -35,7 +35,7 @@ The game is playable with two Iphone hidden in controllers inspired by <a alt="h
 <div class="text justify general-margin">
 Because of the small size of the team, I was involve in all aspects and decisions. My role was mainly to use Unity3D physics to have a consistent bobsled behavior,
 implement the UI and the items, add characters animations, unsure the quality of the final version.
-The game architecture is based on the UniRx pluggin for Unity (see <a alt="https://en.wikipedia.org/wiki/Reactive_programming" href="https://en.wikipedia.org/wiki/Reactive_programming" target="_blank">reactive programming</a>)
+The game architecture is based on the UniRx pluggin for Unity (see <a alt="https://en.wikipedia.org/wiki/Reactive_programming" href="https://en.wikipedia.org/wiki/Reactive_programming" target="_blank">reactive programming</a>).
 </div>
 
 <div class="text general-margin"><i>
