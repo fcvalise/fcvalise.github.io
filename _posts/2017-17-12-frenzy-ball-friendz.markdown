@@ -25,7 +25,7 @@ A simple game using <a alt="http://docs.happyfuntimes.net" href="http://docs.hap
 
 
 <div class="text justify general-margin">
-Start the game, connect you phone to wifi and go to happyfuntimes.net on your smartphone's browser.
+Start the game, connect your phone to wifi and go to happyfuntimes.net on your smartphone's browser.
 </div>
 
 <img src="{{ site.url }}/assets/images/frenzy-ball-friendz/banner.png">
@@ -36,3 +36,7 @@ Keep it 8 seconds...<br>
 Try to kill your friends before it explode.<br><br>
 The best score wins after 5 minutes.<br>
 </i></div>
+
+<div class="general-margin">
+<iframe frameborder="0" src="https://itch.io/embed/212919?bg_color=3f2645&amp;fg_color=019381&amp;link_color=c09518&amp;border_color=c09518" width="800" height="167"></iframe>
+</div>
