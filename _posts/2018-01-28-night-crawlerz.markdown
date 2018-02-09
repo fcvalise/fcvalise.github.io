@@ -21,8 +21,10 @@ team:
         website: http://www.luciencoycault.fr
     -   name: Jeff Guerrin
         role: Sound Designer
+        website: https://soundcloud.com/fed-j
     -   name: Thibault Collard
         role: Developper
+        website: https://github.com/tcollard
 ---
 <div class="general-margin full-width">
     <div style="">
