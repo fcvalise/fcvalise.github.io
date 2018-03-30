@@ -13,7 +13,7 @@ layout: post
 tags: [MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
-category: project
+category: Game Jam
 team:
     -   name: Lucien Coycault
         role: Graphic Designer

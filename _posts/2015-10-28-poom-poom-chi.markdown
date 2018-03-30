@@ -13,7 +13,7 @@ layout: post
 tags: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
-category: project
+category: Game Jam 
 team:
     -   name: Claire Allante
         role: 3D Artist

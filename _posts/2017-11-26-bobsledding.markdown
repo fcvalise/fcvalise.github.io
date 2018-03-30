@@ -12,8 +12,10 @@ image: "https://fcvalise.github.io/assets/images/bobsledding/project.gif"
 layout: post
 tags: [MacOS, C#, Unity]
 projects: true
+highlight: true
+video: https://www.youtube.com/embed/YmsvSfXqlHE
 hidden: true # don't count this post in blog pagination
-category: project
+category: Pro 
 team:
     -   name: Daiki Iwamoto
         role: Developer

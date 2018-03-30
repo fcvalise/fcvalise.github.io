@@ -13,8 +13,10 @@ image2: "https://fcvalise.github.io/assets/images/an-octonaut-odyssey/banner.png
 layout: post
 tags: [Steam, Windows, MacOS, C++, SFML, Vim]
 projects: false
+highlight: true
+video: https://www.youtube.com/embed/dAnAuwoRoA0
 hidden: true # don't count this post in blog pagination
-category: project
+category: Pro
 sources: https://github.com/fcvalise/AnOctonautOdyssey
 team:
     -   name: Julien Balestrieri
