@@ -1,13 +1,13 @@
 ---
-title: "Willy's really weird situation"
-description: "Willy seems to be in a really weird situation."
-date: 2020-01-09 12:00
+title: "Willy's Really Weird Situation"
+description: "A simple top view game"
+date: 2020-01-10 12:00
 author: francoiscorbel
-bgcolor: "#000"
+bgcolor: "#edc0e8"
 txtcolor: "#fff"
-iframecolor: "#fff"
-linkcolor: "#fff"
-image: "https://fcvalise.github.io/assets/images/willys-really-weird-situation/project.gif"
+iframecolor: "#5bd0fa"
+linkcolor: "#5bd0fa"
+image: "https://fcvalise.github.io/assets/images/gnom/project.gif"
 
 layout: post
 tags: [Windows, MacOS, C#, Unity]
@@ -16,37 +16,18 @@ hidden: true # don't count this post in blog pagination
 category: Game Jam
 sources: 
 team:
-    -   name: Lucien Coycault
-        role: 3D, Sound Design
-        website: http://www.luciencoycault.fr
-    -   name: Jean Dellac
-        role: Developper
-    -   name: Claire Allante
-        role: Artist 3D
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/1725968?color=000000" width="960" height="620" scrolling="no" frameborder="0"></iframe>
+        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/1702243?color=edc0e8" width="960" height="560" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
 <div class="text justify general-margin">
-Willy seems  to be in a really weird situation. Please, help him, don't be cruel.
-
-Note from the creators : 
-The game's core mechanic is vaguely inspired by the infamous Getting Over It.
-Enjoy your journey and please give us feedback, it means a lot for us.
-Thanks !
+Ludum Dare 45 - Jam Entry
+Orange is your food and your life. Blue is where you feel safe. Purple is not your friend, avoid him. :)
 </div>
 
 <div class="text general-margin">
-CONTROLS : <br>
-LEFT ARM : [A] or [LEFT]<br>
-RIGHT ARM : [D] or [RIGHT]<br>
-GO BACK : [S] or [DOWN]<br>
-JUMP : [W] or [SPACE] or [UP]<br>
-SHOW LIST : [TAB] or [SHIFT]<br>
-RESTART : [R]<br>
-RESET LIST : [DELETE]<br>
-MENU : [ESCAPE]<br>
+Use Arrow Key or WASD key to move.<br>
 </div>
