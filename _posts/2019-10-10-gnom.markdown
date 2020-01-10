@@ -1,0 +1,33 @@
+---
+title: "Gnom"
+description: "A simple top view game"
+date: 2020-01-10 12:00
+author: francoiscorbel
+bgcolor: "#edc0e8"
+txtcolor: "#fff"
+iframecolor: "#5bd0fa"
+linkcolor: "#5bd0fa"
+image: "https://fcvalise.github.io/assets/images/gnom/project.gif"
+
+layout: post
+tags: [Windows, MacOS, C#, Unity]
+projects: true
+hidden: true # don't count this post in blog pagination
+category: Game Jam
+sources: 
+team:
+---
+<div class="general-margin full-width">
+    <div style="">
+        <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/1702243?color=333333" width="960" height="560" scrolling="no" frameborder="0"></iframe>
+    </div>
+</div>
+
+<div class="text justify general-margin">
+Ludum Dare 45 - Jam Entry
+Orange is your food and your life. Blue is where you feel safe. Purple is not your friend, avoid him. :)
+</div>
+
+<div class="text general-margin">
+Use Arrow Key or WASD key to move.<br>
+</div>
