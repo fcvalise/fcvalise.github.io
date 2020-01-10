@@ -31,11 +31,7 @@ team:
         <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/752768?color=000000" width="1024" height="596" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
-<div class="general-margin full-width">
-    <div style="">
-<iframe frameborder="0" src="https://itch.io/embed-upload/752768?color=000000" allowfullscreen="" width="1024" height="596"><a href="https://octostudio.itch.io/night-crawlerz">Play Night Crawlerz on itch.io</a></iframe>
-    </div>
-</div>
+
 <div class="text justify general-margin">
 Endless run 2 playerz with a twist. The screen is randomly split in 2 partz (Black & White). You both are the same slug with a short lifetime. Your buddy plays the Black slug in the White world. You play the White slug in the Black world. To survive, you have to switch between both worldz and let your mate take control. The goal is to keep going and collect a max amount of meta-spherez. Up to you to play along with you fella… Or against him ;).
 </div>
