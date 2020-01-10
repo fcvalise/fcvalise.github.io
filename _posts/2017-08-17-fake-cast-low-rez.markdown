@@ -33,7 +33,7 @@ Unfortunately, because of the lack of time, most of these features are barely us
 </div>
 
 <div class="general-margin">
-    <iframe class="unity" align="middle" style="width:500px;" src=<iframe frameborder="0" src="https://itch.io/embed/168358" width="552" height="167"><a href="https://octostudio.itch.io/fake-cast-low-rez">Fake Cast (Unfinished) by Octo Studio</a></iframe> width="500" height="500" scrolling="no" frameborder="0"></iframe>
+    <iframe class="unity" align="middle" style="width:500px;" src=<iframe frameborder="0" src="https://itch.io/embed-upload/568550?color=c7c7c7" width="552" height="167"><a href="https://octostudio.itch.io/fake-cast-low-rez">Fake Cast (Unfinished) by Octo Studio</a></iframe> width="500" height="500" scrolling="no" frameborder="0"></iframe>
 </div>
 
 <div class="text general-margin">
