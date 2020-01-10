@@ -28,7 +28,7 @@ team:
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/752768?color=000000" width="1024" height="576" scrolling="no" frameborder="0" allow="autoplay; geolocation; microphone; camera; midi" msallowfullscreen="false" allowfullscreen="false" webkitallowfullscreen="false" allowtransparency="true"></iframe>
+        <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/752768?color=000000" width="1024" height="596" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
