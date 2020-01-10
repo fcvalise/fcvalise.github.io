@@ -1,7 +1,7 @@
 ---
 title: "Willy's really weird situation"
-description: "Willy seems  to be in a really weird situation."
-date: 2020-01-10 12:00
+description: "Willy seems to be in a really weird situation."
+date: 2020-01-09 12:00
 author: francoiscorbel
 bgcolor: "#000"
 txtcolor: "#fff"
@@ -17,9 +17,12 @@ category: Game Jam
 sources: 
 team:
     -   name: Lucien Coycault
+        role: 3D, Sound Design
         website: http://www.luciencoycault.fr
     -   name: Jean Dellac
+        role: Developper
     -   name: Claire Allante
+        role: Artist 3D
 ---
 <div class="general-margin full-width">
     <div style="">
