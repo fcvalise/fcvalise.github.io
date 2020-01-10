@@ -24,11 +24,11 @@ team:
         website: https://soundcloud.com/fed-j
     -   name: Thibault Collard
         role: Developper
-        website: https://github.com/tcollard
+        website: tcollard.github.io
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/568550?color=c7c7c7" width="1024" height="576" scrolling="no" frameborder="0"></iframe>
+        <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/752768?color=000000" width="1024" height="576" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
