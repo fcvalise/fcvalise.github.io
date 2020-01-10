@@ -19,7 +19,7 @@ team:
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/1702243?color=5bd0fa" width="960" height="560" scrolling="no" frameborder="0"></iframe>
+        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/1702243?color=edc0e8" width="960" height="560" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
