@@ -23,7 +23,7 @@ team:
     </div>
 </div>
 
-<div class="text justify general-margin">
+<div class="text general-margin">
 Willy seems  to be in a really weird situation. Please, help him, don't be cruel.<br>
 </div>
 
