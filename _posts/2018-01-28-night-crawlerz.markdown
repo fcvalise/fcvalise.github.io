@@ -3,7 +3,7 @@ title: "Night Crawlerz"
 description: "A two players endless runner with a twist."
 date: 2018-01-28 12:00
 author: francoiscorbel
-bgcolor: "#000"
+bgcolor: "#888888"
 txtcolor: "#fff"
 iframecolor: "#fff"
 linkcolor: "#fff"
@@ -28,7 +28,7 @@ team:
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/752768?color=000000" width="1024" height="596" scrolling="no" frameborder="0"></iframe>
+        <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/752768?color=888888" width="1024" height="596" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
