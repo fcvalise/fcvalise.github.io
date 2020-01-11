@@ -24,7 +24,7 @@ team:
 </div>
 
 <div class="text justify general-margin">
-Willy seems  to be in a really weird situation. Please, help him, don't be cruel.
+Willy seems  to be in a really weird situation. Please, help him, don't be cruel.<br>
 </div>
 
 <div class="text general-margin">
