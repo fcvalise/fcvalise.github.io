@@ -23,11 +23,12 @@ team:
     </div>
 </div>
 
-<div class="text justify general-margin">
+<div class="text general-margin">
 Ludum Dare 45 - Jam Entry
+</div>
+<div class="text general-margin">
 Orange is your food and your life. Blue is where you feel safe. Purple is not your friend, avoid him. :)
 </div>
-
 <div class="text general-margin">
 Use Arrow Key or WASD key to move.<br>
 </div>
