@@ -3,10 +3,10 @@ title: "Willy's Really Weird Situation"
 description: "Willy seems  to be in a really weird situation."
 date: 2020-01-10 12:00
 author: francoiscorbel
-bgcolor: "#000"
+bgcolor: "#f02a1f"
 txtcolor: "#fff"
-iframecolor: "#f02a1f"
-linkcolor: "#f02a1f"
+iframecolor: "#000"
+linkcolor: "#000"
 image: "https://fcvalise.github.io/assets/images/willys-really-weird-situation/project.gif"
 
 layout: post
