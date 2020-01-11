@@ -16,6 +16,7 @@ hidden: true # don't count this post in blog pagination
 category: Game Jam
 sources: 
 team:
+    -   name: Francois Corbel
 ---
 <div class="general-margin full-width">
     <div style="">
