@@ -16,6 +16,9 @@ hidden: true # don't count this post in blog pagination
 category: Game Jam
 sources: 
 team:
+    -   name: Lucien Coycault
+    -   name: Claire Allante
+    -   name: Jean Dellac
 ---
 <div class="general-margin full-width">
     <div style="">
