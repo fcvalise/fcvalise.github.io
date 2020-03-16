@@ -24,7 +24,7 @@ team:
         website: https://soundcloud.com/fed-j
     -   name: Thibault Collard
         role: Developper
-        website: tcollard.github.io
+        website: https://tcollard.github.io
 ---
 <div class="general-margin full-width">
     <div style="">
