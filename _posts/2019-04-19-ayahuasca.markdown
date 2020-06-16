@@ -21,10 +21,6 @@ team:
         role: Lead Developer
     -   name: lot of others
 ---
-<a alt="https://en.unifrance.org/movie/47785/ayahuasca-kosmik-journey" href="https://en.unifrance.org/movie/47785/ayahuasca-kosmik-journey" target="_blank">
-    <img src="{{ site.url }}/assets/images/ayahuasca/banner.png">
-</a>
-
 <div class="laurel general-margin">
 <a href="https://www.raindance.org/raindance-film-festival-2019-programme/" href="https://www.raindance.org/raindance-film-festival-2019-programme/" target="_blank">
     <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
@@ -72,6 +68,10 @@ team:
     <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
 </a>
 </div>
+
+<a alt="https://en.unifrance.org/movie/47785/ayahuasca-kosmik-journey" href="https://en.unifrance.org/movie/47785/ayahuasca-kosmik-journey" target="_blank">
+    <img src="{{ site.url }}/assets/images/ayahuasca/banner.png">
+</a>
 
 <div class="text general-margin"><h2 style="font-size: 3rem;"><i>
 In the jungle at night, a traditional ritual is taking place...
