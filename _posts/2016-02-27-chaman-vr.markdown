@@ -1,6 +1,6 @@
 ---
 title: "Chaman VR"
-description: "A game about being lost in a forest."
+description: "A VR game about being lost in a forest."
 date: 2016-02-27 12:00
 author: francoiscorbel
 bgcolor: "#6fae85"
