@@ -1,6 +1,6 @@
 ---
 title: "Fennec"
-description: "An unfinished story based game"
+description: "A narrative game without a story yet"
 company: none
 date: 2020-05-18 12:00
 author: francoiscorbel
@@ -25,7 +25,7 @@ sources:
 </div>
 
 <div class="text general-margin">
-It's a story based game about the adventure of a fennec. He has too sensitive ears and lives in harmony with his environement. Until...
+It's a story based game about the adventure of a fennec. He has sensitive ears and lives in harmony with his environement. Until...
 </div>
 <div class="text general-margin">
 Avoid water, meet butterfly, catch balls and feed the Moai with it.
