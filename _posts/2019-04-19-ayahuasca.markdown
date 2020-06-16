@@ -1,6 +1,7 @@
 ---
 title: "Ayahuasca VR"
 description: "An experience about the medicinal plants"
+company: Small By MacGuff
 date: 2019-04-19 12:00
 author: francoiscorbel
 bgcolor: "#000"
