@@ -1,12 +1,12 @@
 ---
 title: "Fennec"
-description: "A story based unfinished game"
+description: "A unfinished story based game"
 date: 2020-01-10 12:00
 author: francoiscorbel
-bgcolor: "#000"
-txtcolor: "#fff"
-iframecolor: "#333333"
-linkcolor: "#fff"
+bgcolor: "#FEDF70"
+txtcolor: "#E3FF62"
+iframecolor: "#FFC6CF"
+linkcolor: "#FFC6CF"
 image: "https://fcvalise.github.io/assets/images/fennec/project.gif"
 
 layout: post
@@ -24,12 +24,13 @@ sources:
 </div>
 
 <div class="text general-margin">
-It's an aborted visual and atmospheric game about the adventure of a Fennec who has too sensitive ears.
-Become friend with butterflies and feed the Moai with there help. Avoid water and explore.
+Fennec was supposed to be a story based game about the adventure of a Fennec who has too sensitive ears.
+He become friend with butterflies and feed the Moai with there help.
 </div>
 <div class="text general-margin">
+Avoid water, feed the Moai and explore.
 WASD to move
 </div>
 <div class="text general-margin">
-A lot of premaid assets has been used to shorten the developpement duration. Most of developpement time has been spend on visuals.
+A lot of premaid assets has been used to shorten the developpement duration. Most of developpement time has been spend on visuals and few interactions.
 </div>
