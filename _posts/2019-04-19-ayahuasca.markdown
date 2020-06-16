@@ -5,7 +5,7 @@ date: 2019-04-19 12:00
 author: francoiscorbel
 bgcolor: "#000"
 txtcolor: "#fff"
-iframecolor: "#000"
+iframecolor: "#fff"
 linkcolor: "#fff"
 image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
 
@@ -17,9 +17,6 @@ category: Pro
 team:
     -   name: Claire Allante
         role: 3D Artist
-    -   name: Julien Balestrieri
-        role: Developer
-        website: https://jbalestr42.github.io/
     -   name: Jean Dellac
     -   name: lot of others
 ---
@@ -28,7 +25,7 @@ team:
 </a>
 
 <div class="laurel general-margin">
-<a href="http://indie.stunfest.fr/2016/" href="http://indie.stunfest.fr/2016/" target="_blank">
+<a href="https://www.raindance.org/raindance-film-festival-2019-programme/" href="https://www.raindance.org/raindance-film-festival-2019-programme/" target="_blank">
     <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
         <div class="text-laurel">
             <h4 style="color: {{ page.iframecolor}}">Best Documentary</h4>
@@ -40,7 +37,7 @@ team:
 </div>
 
 <div class="laurel general-margin">
-<a alt="https://www.dutchgamegarden.nl/indigo/" href="https://www.dutchgamegarden.nl/indigo/" target="_blank">
+<a alt="https://tribecafilm.com/" href="https://tribecafilm.com/" target="_blank">
     <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
         <div class="text-laurel">
             <h4 style="color: {{ page.iframecolor}}">Nominee</h4>
@@ -52,7 +49,7 @@ team:
 </div>
 
 <div class="laurel general-margin">
-<a alt="http://tokyosandbox.com/tif/" href="http://tokyosandbox.com/tif/" target="_blank">
+<a alt="https://www.annecy.org/" href="https://www.annecy.org/" target="_blank">
     <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
         <div class="text-laurel">
             <h4 style="color: {{ page.iframecolor}}">Official Selection</h4>
@@ -64,7 +61,7 @@ team:
 </div>
 
 <div class="laurel general-margin">
-<a alt="http://tokyosandbox.com/tif/" href="http://tokyosandbox.com/tif/" target="_blank">
+<a alt="https://www.giff.ch/" href="https://www.giff.ch/" target="_blank">
     <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
         <div class="text-laurel">
             <h4 style="color: {{ page.iframecolor}}">Winner</h4>
@@ -81,7 +78,7 @@ AYAHUASCA Kosmik Journey is a Virtual Reality film in which participants are imm
 </div>
 
 <div class="text general-margin"><h2 style="font-size: 3rem;"><i>
-<a alt="https://store.steampowered.com/app/1212940/Ayahuasca/" href="https://store.steampowered.com/app/1212940/Ayahuasca/" target="_blank">It's now released on Steam</a>
+<a alt="https://store.steampowered.com/app/1212940/Ayahuasca/" href="https://store.steampowered.com/app/1212940/Ayahuasca/" target="_blank">Buy on Steam</a>
 </i></h2></div>
 
 <div class="video general-margin">
@@ -105,6 +102,6 @@ Motion sensors in the headset will allow the system to keep track of your moveme
 {% include slider.html varsize='800' varcolor='#fff9c4' var1='ayahuasca/screenshot1.jpg' var2='ayahuasca/screenshot2.jpg' var3='ayahuasca/screenshot3.jpg' var4='ayahuasca/screenshot4.jpg' var5='ayahuasca/screenshot5.jpg' var6='ayahuasca/screenshot6.jpg' %}
 
 <div class="general-margin">
-    <iframe src="https://store.steampowered.com/widget/1212940/" frameborder="0" width="800" height="200" style="background: #262626"></iframe>
+    <iframe src="https://store.steampowered.com/widget/1212940/" frameborder="0" width="800" height="200" style="background: #000"></iframe>
 </div>
 
