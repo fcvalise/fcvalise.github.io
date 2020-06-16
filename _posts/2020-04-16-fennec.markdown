@@ -24,7 +24,7 @@ sources:
 </div>
 
 <div class="text general-margin">
-Fennec is a story based game about the adventure of a fennec. He has too sensitive ears and lives in harmony with his environement. He become friend with butterflies and feed the Moai with there help. Until...
+Fennec is a story based game about the adventure of a fennec. He has too sensitive ears and lives in harmony with his environement. Until...
 </div>
 <div class="text general-margin">
 Avoid water, meet butterfly, catch balls and feed the Moai with it.
