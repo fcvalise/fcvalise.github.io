@@ -6,6 +6,7 @@
     {% else %}
     {{ member.name }} ({{ member.role }})
     {% endif %}
-    {% if forloop.last == true %}and me.{% else %} Solo {% endif %}
+    {% if forloop.last == true %}and me.{% else %}, {% endif %}
     {% endfor %}
+    {% if forloop.length == 0 %} Solo. {% endif %}
 </div>
