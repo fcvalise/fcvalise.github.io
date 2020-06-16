@@ -18,7 +18,7 @@ sources:
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/2377022?color=000000" width="600" height="600" 
+        <iframe class="unity" style="width:600px;" src="https://itch.io/embed-upload/2377022?color=000000" width="600" height="600" 
         scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
