@@ -99,7 +99,7 @@ Each virtual trip is its own experience, as different views and perspectives wil
 </div>
 
 <div class="general-margin">
-{% include slider.html varsize='800' varcolor='#fff9c4' var1='ayahuasca/screenshot1.jpg' var2='ayahuasca/screenshot2.jpg' var3='ayahuasca/screenshot3.jpg' var4='ayahuasca/screenshot4.jpg' var5='ayahuasca/screenshot5.jpg' var6='ayahuasca/screenshot6.jpg' %}
+{% include slider.html varsize='600' varcolor='#fff9c4' var1='ayahuasca/screenshot1.jpg' var2='ayahuasca/screenshot2.jpg' var3='ayahuasca/screenshot3.jpg' var4='ayahuasca/screenshot4.jpg' var5='ayahuasca/screenshot5.jpg' var6='ayahuasca/screenshot6.jpg' %}
 </div>
 
 <div class="general-margin">
