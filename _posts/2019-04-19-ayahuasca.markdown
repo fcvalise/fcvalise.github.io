@@ -80,10 +80,6 @@ In the jungle at night, a traditional ritual is taking place...
 AYAHUASCA Kosmik Journey is a Virtual Reality film in which participants are immersed in visions triggered by a dose of ayahuasca. The spectator lives this through the eyes of director Jan Kounen as he goes on a spiritual voyage in the heart of the Amazon. For almost two decades, Jan has been traveling once a year to the Peruvian region of the Amazon, to meet indigenous healers and expand his knowledge of their traditional medicine. His wish is to share the intimate mystery of this experience with you.
 </div>
 
-<div class="text general-margin"><h2 style="font-size: 3rem;"><i>
-<a alt="https://store.steampowered.com/app/1212940/Ayahuasca/" href="https://store.steampowered.com/app/1212940/Ayahuasca/" target="_blank">Buy on Steam</a>
-</i></h2></div>
-
 <div class="video general-margin">
     <iframe width="800" height="492" src="https://www.youtube.com/embed/tCN_jAewgM4?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
