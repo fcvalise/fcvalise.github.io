@@ -1,7 +1,7 @@
 ---
 title: "Fennec"
 description: "An unfinished story based game"
-date: 2020-01-10 12:00
+date: 2020-05-18 12:00
 author: francoiscorbel
 bgcolor: "#FFFF82"
 txtcolor: "#B09771"

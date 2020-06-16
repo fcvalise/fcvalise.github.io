@@ -1,6 +1,6 @@
 ---
 title: "Ayahuasca VR"
-description: "A visionnary experience about the medicinal plants"
+description: "An experience about the medicinal plants"
 date: 2019-04-19 12:00
 author: francoiscorbel
 bgcolor: "#000"
