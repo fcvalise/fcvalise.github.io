@@ -1,6 +1,7 @@
 ---
 title: "Gnom"
 description: "A simple top view game"
+company: none
 date: 2020-01-10 12:00
 author: francoiscorbel
 bgcolor: "#edc0e8"

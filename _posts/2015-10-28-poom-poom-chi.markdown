@@ -1,6 +1,7 @@
 ---
 title: "Poom Poom Tchi !"
 description: "A multiplayer platformer 2D about rhythm."
+company: none
 date: 2015-10-28 12:00
 author: francoiscorbel
 bgcolor: "#2a2658"

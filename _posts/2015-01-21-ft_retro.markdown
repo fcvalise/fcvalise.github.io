@@ -1,6 +1,7 @@
 ---
 title: "Ft Retro"
 description: "A small game about spaceships in a terminal."
+company: none
 date: 2015-01-21 12:00
 author: francoiscorbel
 bgcolor: "#000"

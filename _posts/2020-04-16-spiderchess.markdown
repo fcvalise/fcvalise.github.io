@@ -1,6 +1,7 @@
 ---
 title: "Spider Chess"
 description: "A chess prototype with a twist"
+company: none
 date: 2020-04-16 12:00
 author: francoiscorbel
 bgcolor: "#000"

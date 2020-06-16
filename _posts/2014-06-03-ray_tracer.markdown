@@ -1,6 +1,7 @@
 ---
 title: "Ray Tracer"
 description: "A technique for generating images in 3D."
+company: none
 date: 2014-06-03 12:00
 author: francoiscorbel
 bgcolor: "#f78eff"

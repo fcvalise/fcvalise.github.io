@@ -1,6 +1,7 @@
 ---
 title: "An Octonaut Odyssey"
 description: "A game about an amnesiac octopus."
+company: Octo Studio
 date: 2017-02-28 12:00
 author: francoiscorbel
 bgcolor: "#fff9c4"

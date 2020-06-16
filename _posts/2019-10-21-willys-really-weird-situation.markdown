@@ -1,6 +1,7 @@
 ---
 title: "Willy's Really Weird Situation"
 description: "Willy seems  to be in a really weird situation."
+company: none
 date: 2020-01-10 12:00
 author: francoiscorbel
 bgcolor: "#000"
