@@ -1,6 +1,6 @@
 ---
 title: "Ayahuasca VR"
-description: "A visionnary experience through the realms of the medicinal plants"
+description: "A visionnary experience about the medicinal plants"
 date: 2019-04-19 12:00
 author: francoiscorbel
 bgcolor: "#000"
@@ -10,7 +10,7 @@ linkcolor: "#bbbbbb"
 image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
 
 layout: post
-tags: [Windows, Oculus-Rift, Unreal-Engine]
+tags: [Windows, Oculus-Rift, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: Pro
