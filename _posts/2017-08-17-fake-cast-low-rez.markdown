@@ -1,6 +1,6 @@
 ---
 title: "Fake Cast Low Rez"
-description: "A competitive 1v1 game about casting."
+description: "A competitive 1v1 prototype about casting."
 date: 2017-08-17 12:00
 author: francoiscorbel
 bgcolor: "#5e94f3"
