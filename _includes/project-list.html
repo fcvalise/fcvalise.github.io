@@ -7,7 +7,7 @@
     <a class="link" href="{{ site.url }}{{ post.url }}">
         <div class="text">
             <h3 style="color: {{ post.iframecolor }};">{{ post.title }}</h3>
-            {% if post.company != '' %}
+            {% if post.company != 'none' %}
             <h4 style="color: {{ post.iframecolor }};">with {{ post.company }}</h4>
             {% endif %}
             <h4 style="color: {{ post.txtcolor }};"><time
