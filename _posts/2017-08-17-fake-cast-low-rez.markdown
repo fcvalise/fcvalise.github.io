@@ -13,7 +13,7 @@ layout: post
 tags: [Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
-category: Game Jam
+category: Prototype / School
 team:
     -   name: Julien Balestrieri
         role: Developer
