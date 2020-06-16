@@ -7,7 +7,7 @@ bgcolor: "#000"
 txtcolor: "#fff"
 iframecolor: "#333333"
 linkcolor: "#fff"
-image: "https://fcvalise.github.io/assets/images/spiderchess/project.gif"
+image: "https://fcvalise.github.io/assets/images/spider-chess/project.gif"
 
 layout: post
 tags: [Windows, MacOS, C#, Unity]
