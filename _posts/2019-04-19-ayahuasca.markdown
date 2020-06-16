@@ -95,11 +95,7 @@ Through the use of Virtual Reality, AYAHUASCA hopes to stay faithful to the orig
 Ayahuasca, the vine of the soul, and how to find your inner space.
 </i></div>
 <div class="text justify general-margin">
-Each virtual trip is its own experience, as different views and perspectives will reveal new ways of seeing and understanding. Tap into your inner sense of calm and lose yourself in the kosmik journey.
-</div>
-
-<div class="text justify general-margin">
-Motion sensors in the headset will allow the system to keep track of your movement and posture and react accordingly. The visions will either intensify or diminish, depending on movement and angles of viewing. Filmed in 360 ͒, AYAHUASCA’s conceived for HTC Vive, Oculus, or Playstation VR and can be viewed as a 360 ͒ video.
+Each virtual trip is its own experience, as different views and perspectives will reveal new ways of seeing and understanding. Tap into your inner sense of calm and lose yourself in the kosmik journey. Motion sensors in the headset will allow the system to keep track of your movement and posture and react accordingly. The visions will either intensify or diminish, depending on movement and angles of viewing. Filmed in 360 ͒, AYAHUASCA’s conceived for HTC Vive, Oculus, or Playstation VR and can be viewed as a 360 ͒ video.
 </div>
 
 <div class="general-margin">
