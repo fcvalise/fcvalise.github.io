@@ -15,6 +15,8 @@ projects: true
 hidden: true # don't count this post in blog pagination
 category: Prototype / School
 sources: 
+team:
+    -   name: Solo
 ---
 <div class="general-margin full-width">
     <div style="">
