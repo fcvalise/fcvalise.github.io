@@ -1,12 +1,12 @@
 ---
 title: "Spider Chess"
-description: "A chess prototype"
+description: "A chess prototype with a twist"
 date: 2020-01-10 12:00
 author: francoiscorbel
-bgcolor: "#fff"
+bgcolor: "#000"
 txtcolor: "#fff"
 iframecolor: "#333333"
-linkcolor: "#000"
+linkcolor: "#fff"
 image: "https://fcvalise.github.io/assets/images/spiderchess/project.gif"
 
 layout: post
@@ -18,7 +18,7 @@ sources:
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/2377022?color=333333" width="960" height="620" 
+        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/2377022?color=000000" width="600" height="600" 
         scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
