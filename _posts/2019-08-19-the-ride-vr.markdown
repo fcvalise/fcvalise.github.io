@@ -5,9 +5,9 @@ company: Small By MacGuff
 date: 2019-08-19 12:00
 author: francoiscorbel
 bgcolor: "#7A2C45"
-txtcolor: "#5B6CF7"
-iframecolor: "#030331"
-linkcolor: "#030331"
+txtcolor: "#B9FFC2"
+iframecolor: "#5B6CF7"
+linkcolor: "#5B6CF7"
 image: "https://fcvalise.github.io/assets/images/the-ride-vr/project.gif"
 
 layout: post
