@@ -18,7 +18,7 @@ sources:
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:600px;" src="https://itch.io/embed-upload/2377284?color=333333" width="960" height="600" 
+        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/2377284?color=ffffff" width="960" height="620" 
         scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
@@ -31,5 +31,5 @@ Become friend with butterflies and feed the Moai with there help. Avoid water an
 WASD to move
 </div>
 <div class="text general-margin">
-A lot of premaid assets has been used to shorten the developpement duration.
+A lot of premaid assets has been used to shorten the developpement duration. Most of developpement time has been spend on visuals.
 </div>
