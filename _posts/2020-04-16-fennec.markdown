@@ -28,8 +28,10 @@ Fennec is a story based game about the adventure of a fennec. He has too sensiti
 </div>
 <div class="text general-margin">
 Avoid water, meet butterfly, catch balls and feed the Moai with it.
+</div>
+<div class="text general-margin">
 [WASD to move]
 </div>
 <div class="text general-margin">
-A lot of premaid assets has been used to shorten the developpement duration. Most of developpement time has been spend on shaders and few interactions.
+A lot of premaid assets has been used to shorten the developpement duration. Most of my time has been spend on shaders and few interactions.
 </div>
