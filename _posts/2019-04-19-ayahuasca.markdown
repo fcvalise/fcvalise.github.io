@@ -5,8 +5,8 @@ date: 2019-04-19 12:00
 author: francoiscorbel
 bgcolor: "#000"
 txtcolor: "#fff"
-iframecolor: "#fff"
-linkcolor: "#fff"
+iframecolor: "#bbbbbb"
+linkcolor: "#bbbbbb"
 image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
 
 layout: post
@@ -73,9 +73,9 @@ team:
 </a>
 </div>
 
-<div class="text general-margin">
+<div class="text general-margin"><i>
 In the jungle at night, a traditional ritual is taking place...
-</div>
+</i></div>
 <div class="text justify general-margin">
 AYAHUASCA Kosmik Journey is a Virtual Reality film in which participants are immersed in visions triggered by a dose of ayahuasca. The spectator lives this through the eyes of director Jan Kounen as he goes on a spiritual voyage in the heart of the Amazon. For almost two decades, Jan has been traveling once a year to the Peruvian region of the Amazon, to meet indigenous healers and expand his knowledge of their traditional medicine. His wish is to share the intimate mystery of this experience with you.
 </div>
@@ -88,16 +88,16 @@ AYAHUASCA Kosmik Journey is a Virtual Reality film in which participants are imm
     <iframe width="800" height="492" src="https://www.youtube.com/embed/tCN_jAewgM4?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="text general-margin">
+<div class="text general-margin"><i>
 Experience the magic and healing power of ayahuasca
-</div>
+</i></div>
 <div class="text justify general-margin">
 Through the use of Virtual Reality, AYAHUASCA hopes to stay faithful to the original Shipibo tradition of consuming this plant as a transformative and meditative ritual. As such, the psychedelic journey will be guided by an indigenous South American shaman.
 </div>
 
-<div class="text general-margin">
+<div class="text general-margin"><i>
 Ayahuasca, the vine of the soul, and how to find your inner space.
-</div>
+</i></div>
 <div class="text justify general-margin">
 Each virtual trip is its own experience, as different views and perspectives will reveal new ways of seeing and understanding. Tap into your inner sense of calm and lose yourself in the kosmik journey.
 </div>
