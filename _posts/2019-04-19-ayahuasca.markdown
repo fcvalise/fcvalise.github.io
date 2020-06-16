@@ -3,10 +3,10 @@ title: "Ayahuasca (Kosmik journey) VR"
 description: "A visionnary experience through the realms of the medicinal plants"
 date: 2019-04-19 12:00
 author: francoiscorbel
-bgcolor: "#fff"
-txtcolor: "#000"
-iframecolor: "#fff"
-linkcolor: "#000"
+bgcolor: "#000"
+txtcolor: "#fff"
+iframecolor: "#000"
+linkcolor: "#fff"
 image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
 
 layout: post
@@ -23,7 +23,7 @@ team:
     -   name: Jean Dellac
     -   name: lot of others
 ---
-<a alt="https://anoctonautodyssey.com" href="https://anoctonautodyssey.com/" target="_blank">
+<a alt="https://en.unifrance.org/movie/47785/ayahuasca-kosmik-journey" href="https://en.unifrance.org/movie/47785/ayahuasca-kosmik-journey" target="_blank">
     <img src="{{ site.url }}/assets/images/ayahuasca/banner.png">
 </a>
 
