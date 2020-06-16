@@ -1,0 +1,35 @@
+---
+title: "Fennec"
+description: "A story based unfinished game"
+date: 2020-01-10 12:00
+author: francoiscorbel
+bgcolor: "#000"
+txtcolor: "#fff"
+iframecolor: "#333333"
+linkcolor: "#fff"
+image: "https://fcvalise.github.io/assets/images/fennec/project.gif"
+
+layout: post
+tags: [Windows, MacOS, C#, Unity]
+projects: true
+hidden: true # don't count this post in blog pagination
+category: Prototype / School
+sources: 
+---
+<div class="general-margin full-width">
+    <div style="">
+        <iframe class="unity" style="width:600px;" src="https://itch.io/embed-upload/2377284?color=333333" width="960" height="600" 
+        scrolling="no" frameborder="0"></iframe>
+    </div>
+</div>
+
+<div class="text general-margin">
+It's an aborted visual and atmospheric game about the adventure of a Fennec who has too sensitive ears.
+Become friend with butterflies and feed the Moai with there help. Avoid water and explore.
+</div>
+<div class="text general-margin">
+WASD to move
+</div>
+<div class="text general-margin">
+A lot of premaid assets has been used to shorten the developpement duration.
+</div>
