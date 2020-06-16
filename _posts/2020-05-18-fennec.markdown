@@ -24,7 +24,7 @@ sources:
 </div>
 
 <div class="text general-margin">
-Fennec is a story based game about the adventure of a fennec. He has too sensitive ears and lives in harmony with his environement. Until...
+It's a story based game about the adventure of a fennec. He has too sensitive ears and lives in harmony with his environement. Until...
 </div>
 <div class="text general-margin">
 Avoid water, meet butterfly, catch balls and feed the Moai with it.
@@ -33,5 +33,5 @@ Avoid water, meet butterfly, catch balls and feed the Moai with it.
 [WASD to move]
 </div>
 <div class="text general-margin">
-A lot of premaid assets has been used to shorten the developpement duration. Most of my time has been spend on shaders and few interactions.
+It's unfinished and no story appears here. It wasn't meant to be WebGL so you might encouter lags or bugs. A lot of premaid assets has been used to shorten the developpement duration. Most of my work has been shaders and few interactions.
 </div>
