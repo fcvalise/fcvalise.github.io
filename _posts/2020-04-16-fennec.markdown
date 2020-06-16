@@ -18,18 +18,18 @@ sources:
 ---
 <div class="general-margin full-width">
     <div style="">
-        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/2377413?color=ffffff" width="960" height="620" 
+        <iframe class="unity" style="width:960px;" src="https://itch.io/embed-upload/2377413?color=FFFF82" width="960" height="620" 
         scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
 <div class="text general-margin">
-Fennec was supposed to be a story based game about the adventure of a fennec. He has too sensitive ears and lives in harmony with his environement. He become friend with butterflies and feed the Moai with there help. Until... We'll never know :)
+Fennec is a story based game about the adventure of a fennec. He has too sensitive ears and lives in harmony with his environement. He become friend with butterflies and feed the Moai with there help. Until...
 </div>
 <div class="text general-margin">
-Avoid water, feed the Moai and explore.
-WASD to move
+Avoid water, meet butterfly, catch balls and feed the Moai with it.
+[WASD to move]
 </div>
 <div class="text general-margin">
-A lot of premaid assets has been used to shorten the developpement duration. Most of developpement time has been spend on visuals and few interactions.
+A lot of premaid assets has been used to shorten the developpement duration. Most of developpement time has been spend on shaders and few interactions.
 </div>
