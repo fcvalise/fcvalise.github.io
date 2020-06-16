@@ -4,7 +4,7 @@ description: "A unfinished story based game"
 date: 2020-01-10 12:00
 author: francoiscorbel
 bgcolor: "#FFFF82"
-txtcolor: "#E3FF62"
+txtcolor: "#B09771"
 iframecolor: "#FFC6CF"
 linkcolor: "#FFC6CF"
 image: "https://fcvalise.github.io/assets/images/fennec/project.gif"
