@@ -27,4 +27,4 @@ team:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/CcCfvcy9-Ic?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-{% include slider.html varsize='800' varcolor='#6fae85' var1='the-ride-vr/screenshot1.png' var2='the-ride-vr/screenshot2.png' var3='the-ride-vr/screenshot3.png' var4='the-ride-vr/screenshot4.png' var5='the-ride-vr/screenshot5.png' %}
+{% include slider.html varsize='800' varcolor='#6fae85' var1='the-ride-vr/screenshot1.jpg' var2='the-ride-vr/screenshot2.jpg' var3='the-ride-vr/screenshot3.jpg' var4='the-ride-vr/screenshot4.jpg' var5='the-ride-vr/screenshot5.jpg' %}
