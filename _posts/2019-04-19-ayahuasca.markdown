@@ -3,10 +3,10 @@ title: "Ayahuasca (Kosmik journey) VR"
 description: "A visionnary experience through the realms of the medicinal plants"
 date: 2019-04-19 12:00
 author: francoiscorbel
-bgcolor: "#6fae85"
-txtcolor: "#ffffff"
-iframecolor: "#be4623"
-linkcolor: "#a55d00"
+bgcolor: "#fff"
+txtcolor: "#000"
+iframecolor: "#fff"
+linkcolor: "#000"
 image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
 
 layout: post
@@ -24,7 +24,7 @@ team:
     -   name: lot of others
 ---
 <a alt="https://anoctonautodyssey.com" href="https://anoctonautodyssey.com/" target="_blank">
-    <img src="{{ site.url }}/assets/images/ayahuaska/banner.png">
+    <img src="{{ site.url }}/assets/images/ayahuasca/banner.png">
 </a>
 
 <div class="laurel general-margin">
@@ -76,6 +76,7 @@ team:
 </div>
 
 <div class="text justify general-margin">
+In the jungle at night, a traditional ritual is taking place...
 AYAHUASCA Kosmik Journey is a Virtual Reality film in which participants are immersed in visions triggered by a dose of ayahuasca. The spectator lives this through the eyes of director Jan Kounen as he goes on a spiritual voyage in the heart of the Amazon. For almost two decades, Jan has been traveling once a year to the Peruvian region of the Amazon, to meet indigenous healers and expand his knowledge of their traditional medicine. His wish is to share the intimate mystery of this experience with you.
 </div>
 
@@ -88,10 +89,20 @@ AYAHUASCA Kosmik Journey is a Virtual Reality film in which participants are imm
 </div>
 
 <div class="text justify general-margin"><i>
+Experience the magic and healing power of ayahuasca
 Through the use of Virtual Reality, AYAHUASCA hopes to stay faithful to the original Shipibo tradition of consuming this plant as a transformative and meditative ritual. As such, the psychedelic journey will be guided by an indigenous South American shaman.
 </i></div>
 
-{% include slider.html varsize='800' varcolor='#fff9c4' var1='ayahuasca/screenshot1.jpg' var2='ayahuasca/screenshot2.jpg' var3='ayahuasca/screenshot3.jpg' var4='ayahuasca/screenshot4.jpg' %}
+<div class="text justify general-margin"><i>
+Ayahuasca, the vine of the soul, and how to find your inner space.
+Each virtual trip is its own experience, as different views and perspectives will reveal new ways of seeing and understanding. Tap into your inner sense of calm and lose yourself in the kosmik journey.
+</i></div>
+
+<div class="text justify general-margin"><i>
+Motion sensors in the headset will allow the system to keep track of your movement and posture and react accordingly. The visions will either intensify or diminish, depending on movement and angles of viewing. Filmed in 360 ͒, AYAHUASCA’s conceived for HTC Vive, Oculus, or Playstation VR and can be viewed as a 360 ͒ video.
+</i></div>
+
+{% include slider.html varsize='800' varcolor='#fff9c4' var1='ayahuasca/screenshot1.jpg' var2='ayahuasca/screenshot2.jpg' var3='ayahuasca/screenshot3.jpg' var4='ayahuasca/screenshot4.jpg' var5='ayahuasca/screenshot5.jpg' var6='ayahuasca/screenshot6.jpg' %}
 
 <div class="general-margin">
     <iframe src="https://store.steampowered.com/widget/1212940/" frameborder="0" width="800" height="200" style="background: #262626"></iframe>
