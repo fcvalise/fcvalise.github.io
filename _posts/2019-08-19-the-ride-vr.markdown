@@ -2,6 +2,7 @@
 title: "The Ride VR"
 description: "A drone simulation race in VR"
 company: Small By MacGuff
+companylink: http://www.small-studio.io/
 date: 2019-08-19 12:00
 author: francoiscorbel
 bgcolor: "#7A2C45"
