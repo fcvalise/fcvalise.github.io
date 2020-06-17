@@ -4,10 +4,10 @@ description: "A reversed RTS game"
 company: Sweet Arsenic
 date: 2019-04-12 12:00
 author: francoiscorbel
-bgcolor: "#000"
+bgcolor: "#6D605D"
 txtcolor: "#fff"
-iframecolor: "#999999"
-linkcolor: "#999999"
+iframecolor: "#6B7EA0"
+linkcolor: "#6B7EA0"
 image: "https://fcvalise.github.io/assets/images/resilience/project.gif"
 
 layout: post
@@ -75,8 +75,3 @@ Bear in mind that choices always have consequences...\n
 <div class="general-margin">
 {% include slider.html varsize='600' varcolor='#fff9c4' var1='resilience/screenshot1.jpg' var2='resilience/screenshot2.jpg' var3='resilience/screenshot3.jpg' var4='resilience/screenshot4.jpg' var5='resilience/screenshot5.jpg' var6='resilience/screenshot6.jpg' %}
 </div>
-
-<div class="general-margin">
-    <iframe src="https://store.steampowered.com/widget/1212940/" frameborder="0" width="800" height="200" style="background: #000"></iframe>
-</div>
-
