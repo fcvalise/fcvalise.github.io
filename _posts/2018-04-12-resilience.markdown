@@ -2,6 +2,7 @@
 title: "Resilience"
 description: "A reversed RTS game"
 company: Sweet Arsenic
+companylink: http://www.sweet-arsenic.com/index.html
 date: 2019-04-12 12:00
 author: francoiscorbel
 bgcolor: "#6D605D"
