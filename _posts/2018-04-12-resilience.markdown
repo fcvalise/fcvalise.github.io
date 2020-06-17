@@ -73,5 +73,5 @@ Bear in mind that choices always have consequences...\n
 </div>
 
 <div class="general-margin">
-{% include slider.html varsize='600' varcolor='#fff9c4' var1='resilience/screenshot1.jpg' var2='resilience/screenshot2.jpg' var3='resilience/screenshot3.jpg' var4='resilience/screenshot4.jpg' var5='resilience/screenshot5.jpg' var6='resilience/screenshot6.jpg' %}
+{% include slider.html varsize='600' varcolor='#000000' var1='resilience/screenshot1.jpg' var2='resilience/screenshot2.jpg' var3='resilience/screenshot3.jpg' var4='resilience/screenshot4.jpg' var5='resilience/screenshot5.jpg' var6='resilience/screenshot6.jpg' %}
 </div>
