@@ -1,0 +1,63 @@
+---
+title: "MOA AR"
+description: "An idea of the futur"
+company: Small By MacGuff
+companylink: http://www.small-studio.io/
+date: 2020-10-12 12:00
+author: francoiscorbel
+bgcolor: "#000"
+txtcolor: "#fff"
+iframecolor: "#999999"
+linkcolor: "#999999"
+image: "https://fcvalise.github.io/assets/images/moa/project.gif"
+
+layout: post
+tags: [Windows, Android, iOS, Unity]
+projects: true
+hidden: true # don't count this post in blog pagination
+category: Pro
+team:
+    -   name: Claire Allante
+        role: 3D Artist
+    -   name: lot of others
+---
+<div class="laurel general-margin">
+<a href="https://www.raindance.org/raindance-film-festival-2019-programme/" href="https://www.raindance.org/raindance-film-festival-2019-programme/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Special Jury Prize</h4>
+            <h2 style="color: {{ page.iframecolor}}">New Images 2020<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Paris, France</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<a alt="https://twitter.com/newimages_paris/status/1309541791964844032" href="https://twitter.com/newimages_paris/status/1309541791964844032" target="_blank">
+    <img src="{{ site.url }}/assets/images/moa/banner.png">
+</a>
+
+<div class="text general-margin"><h2 style="font-size: 3rem;"><i>
+In the jungle at night, a traditional ritual is taking place...
+</i></h2></div>
+<div class="text justify general-margin">
+MOA, My Own Assistant est une histoire interactive en réalité augmentée. Vous voici propulsé en 2040. Vous avez confié votre vie à une intelligence artificielle qui vous connaît par coeur. Décisions, relations, achats, tout est devenu simple. Elle vous guide en douceur dans toutes les sollicitations qui se déploient autour de vous.
+
+
+Faites lui confiance, cumulez vos points citoyens et vous atteindrez peut être le forfait Premium !
+
+
+De la science-fiction ? Si seulement…
+
+
+MOA est une adaptation du roman Les Furtifs d’Alain Damasio. Elle est produite par Red Corner, France Télévisions, La Volte, Le Clair Obscur, Small Studio, Le Forum des images et Chroniques, avec le soutien du CNC et Normandie Images.
+</div>
+
+<div class="video general-margin">
+    <iframe width="800" height="492" src="https://www.youtube.com/watch?v=pceQRB4pcBg&ab_channel=Francetvlab" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="general-margin">
+    <iframe src="https://store.steampowered.com/widget/1212940/" frameborder="0" width="800" height="200" style="background: #000"></iframe>
+</div>
+
