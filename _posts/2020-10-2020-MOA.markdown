@@ -9,7 +9,7 @@ bgcolor: "#000"
 txtcolor: "#fff"
 iframecolor: "#999999"
 linkcolor: "#999999"
-image: "https://fcvalise.github.io/assets/images/moa/project.gif"
+image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
 
 layout: post
 tags: [Windows, Android, iOS, Unity]
@@ -37,9 +37,6 @@ team:
     <img src="{{ site.url }}/assets/images/moa/banner.png">
 </a>
 
-<div class="text general-margin"><h2 style="font-size: 3rem;"><i>
-In the jungle at night, a traditional ritual is taking place...
-</i></h2></div>
 <div class="text justify general-margin">
 MOA, My Own Assistant est une histoire interactive en réalité augmentée. Vous voici propulsé en 2040. Vous avez confié votre vie à une intelligence artificielle qui vous connaît par coeur. Décisions, relations, achats, tout est devenu simple. Elle vous guide en douceur dans toutes les sollicitations qui se déploient autour de vous.
 
