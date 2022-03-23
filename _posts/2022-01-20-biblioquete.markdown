@@ -7,8 +7,8 @@ date: 2020-10-12 12:00
 author: francoiscorbel
 bgcolor: "#9ffcd6"
 txtcolor: "#000"
-iframecolor: "#f5cfff"
-linkcolor: "#f5cfff"
+iframecolor: "#5c3e5b"
+linkcolor: "#5c3e5b"
 image: "https://fcvalise.github.io/assets/images/biblioquete/project.gif"
 
 layout: post
