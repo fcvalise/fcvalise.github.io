@@ -20,7 +20,7 @@ team:
     -   name: lot of others
 ---
 <div class="video general-margin">
-    <iframe width="800" height="450" src="https://www.youtube.com/embed/geOQsmnFl2g" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/geOQsmnFl2g" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="text justify general-margin">
