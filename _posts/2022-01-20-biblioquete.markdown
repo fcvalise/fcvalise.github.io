@@ -33,4 +33,4 @@ Un auteur jeunesse nous raconte ses lectures d’enfance et nous invite à retro
 
 </div>
 
-{% include slider.html varsize='800' varcolor='#9ffcd6' var1='biblioquete/screenshot1.jpg' var2='biblioquete/screenshot2.jpg' var3='biblioquete/screenshot3.jpg' var4='biblioquete/screenshot4.jpg' var5='biblioquete/screenshot5.jpg' %}
+{% include slider.html varsize='400' varcolor='#9ffcd6' var1='biblioquete/screenshot1.jpg' var2='biblioquete/screenshot2.jpg' var3='biblioquete/screenshot3.jpg' var4='biblioquete/screenshot4.jpg' var5='biblioquete/screenshot5.jpg' %}
