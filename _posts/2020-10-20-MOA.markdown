@@ -50,8 +50,6 @@ De la science-fiction ? Si seulement…
 MOA est une adaptation du roman Les Furtifs d’Alain Damasio. Elle est produite par Red Corner, France Télévisions, La Volte, Le Clair Obscur, Small Studio, Le Forum des images et Chroniques, avec le soutien du CNC et Normandie Images.
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pceQRB4pcBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <div class="video general-margin">
     <iframe width="800" height="492" src="https://www.youtube.com/embed/pceQRB4pcBg" frameborder="0" allowfullscreen></iframe>
 </div>
