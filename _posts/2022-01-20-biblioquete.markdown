@@ -22,7 +22,7 @@ team:
 <div class="laurel general-margin">
 
 <div class="video general-margin">
-    <iframe width="800" height="492" src="https://www.youtube.com/embed/geOQsmnFl2g" frameborder="0" allowfullscreen></iframe>
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/geOQsmnFl2g" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="text justify general-margin">
