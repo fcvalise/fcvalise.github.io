@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca VR"
+title: "Ayahuasca"
 description: "An experience about the medicinal plants"
 company: Small By MacGuff
 companylink: http://www.small-studio.io/
@@ -12,7 +12,7 @@ linkcolor: "#999999"
 image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
 
 layout: post
-tags: [Windows, Oculus-Rift, Unity]
+tags: [Virtual Reality, Steam, Windows, Oculus-Rift, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: Pro

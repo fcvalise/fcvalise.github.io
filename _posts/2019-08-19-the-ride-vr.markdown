@@ -12,7 +12,7 @@ linkcolor: "#B9FFC2"
 image: "https://fcvalise.github.io/assets/images/the-ride-vr/project.gif"
 
 layout: post
-tags: [Windows, Oculus-Rift, Unity]
+tags: [Virtual Reality, Windows, Oculus-Rift, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: Pro

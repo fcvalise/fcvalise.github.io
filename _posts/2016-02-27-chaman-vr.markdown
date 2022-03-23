@@ -11,7 +11,7 @@ linkcolor: "#a55d00"
 image: "https://fcvalise.github.io/assets/images/chaman-vr/project.gif"
 
 layout: post
-tags: [Windows, Oculus-Rift, Unreal-Engine]
+tags: [Virtual Reality, Windows, Oculus-Rift, Unreal-Engine]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: Game Jam
