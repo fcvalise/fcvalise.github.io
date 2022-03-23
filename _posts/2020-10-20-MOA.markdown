@@ -5,7 +5,7 @@ company: Small By MacGuff
 companylink: http://www.small-studio.io/
 date: 2020-10-12 12:00
 author: francoiscorbel
-bgcolor: "#d68763"
+bgcolor: "#edbfab"
 txtcolor: "#fff"
 iframecolor: "#9b76db"
 linkcolor: "#9b76db"
