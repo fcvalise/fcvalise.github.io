@@ -9,7 +9,7 @@ bgcolor: "#000"
 txtcolor: "#fff"
 iframecolor: "#999999"
 linkcolor: "#999999"
-image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
+image: "https://fcvalise.github.io/assets/images/MOA/project.gif"
 
 layout: post
 tags: [Windows, Android, iOS, Unity]
