@@ -12,7 +12,7 @@ linkcolor: "#9b76db"
 image: "https://fcvalise.github.io/assets/images/MOA/project.gif"
 
 layout: post
-tags: [Windows, Android, iOS, Unity]
+tags: [Android, iOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro
