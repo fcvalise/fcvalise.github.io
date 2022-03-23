@@ -26,11 +26,11 @@ team:
 </div>
 
 <div class="text justify general-margin">
-
+<br>
 Biblioquête est une série de jeu de piste en réalité augmentée qui donne envie de lire aux enfants entre 8 à 12 ans.
 
 Un auteur jeunesse nous raconte ses lectures d’enfance et nous invite à retrouver ces livres. Sur le chemin, tout son univers imaginaire se déploie, jusqu’au coeur des livres!
-
+<br>
 </div>
 
-{% include slider.html varsize='400' varcolor='#9ffcd6' var1='biblioquete/screenshot1.jpg' var2='biblioquete/screenshot2.jpg' var3='biblioquete/screenshot3.jpg' var4='biblioquete/screenshot4.jpg' var5='biblioquete/screenshot5.jpg' %}
+{% include slider.html varsize='400' varcolor='#9ffcd6' var1='biblioquete/screenshot1.jpg' var2='biblioquete/screenshot2.jpg' var3='biblioquete/screenshot3.jpg' var4='biblioquete/screenshot5.jpg' %}
