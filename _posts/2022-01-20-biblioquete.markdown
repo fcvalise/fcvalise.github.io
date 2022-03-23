@@ -1,6 +1,6 @@
 ---
 title: "Biblioquête"
-description: "An augmented reality adventure for children about reading"
+description: "An augmented reality adventure for children"
 company: Small By MacGuff
 companylink: http://www.small-studio.io/
 date: 2020-10-12 12:00
@@ -29,11 +29,16 @@ Biblioquête est une série de jeu de piste en réalité augmentée qui donne en
 
 Un auteur jeunesse nous raconte ses lectures d’enfance et nous invite à retrouver ces livres. Sur le chemin, tout son univers imaginaire se déploie, jusqu’au coeur des livres!
 <br>
-<br>
 </div>
 
 {% include slider.html varsize='400' varcolor='#9ffcd6' var1='biblioquete/screenshot1.jpg' var2='biblioquete/screenshot2.jpg' var3='biblioquete/screenshot3.jpg' var4='biblioquete/screenshot5.jpg' %}
 
+<div class="text justify general-margin">
+<br>
+La Biblioquête est destinée à être mise a disposition des bibliothèques. C'est une expérience à taille réelle qui invite les enfants à déambuler dans les rayons à la recherche de quatre livres. Une géolocalisation, paramétrée au préalable par les bibliothécaires, permet de diriger les enfants vers les livres. L'espace est scanné en temps réelle grace à la technique Lidar des ipads Pro.
+L'expérience a été déclinée en version mobile.
+<br>
+</div>
 
 <div class="general-margin" style="width:300px;">
 <a href="https://apps.apple.com/fr/app/biblioquete/id1591625871?itsct=apps_box_badge&amp;itscg=30200" target="_blank">
