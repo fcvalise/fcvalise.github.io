@@ -36,7 +36,7 @@ technique to generate 3D images, followed by a month with a team of four people.
 Those videos are the result of 4 peoples, implementing all basic shapes (planes, cubes, sphere,
 cones), lights (specular, diffuse, multiple), reflection and refraction.
 Every team member was involved in all aspects, but I implement <a alt="https://en.wikipedia.org/wiki/Perlin_noise" href="https://en.wikipedia.org/wiki/Perlin_noise" target="_blank">Perlin noise</a> 
-alone in purpose to distort normals and proceed to strange effects.
+alone in purpose to distort normals and proceed to strange effects...
 </div>
 <div class="text general-margin"><i>
 It's a CPU program and those videos are not in real time.
