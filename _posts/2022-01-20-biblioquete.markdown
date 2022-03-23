@@ -1,6 +1,6 @@
 ---
 title: "Biblioquête"
-description: "An adventure for children about reading"
+description: "An augmented reality adventure for children about reading"
 company: Small By MacGuff
 companylink: http://www.small-studio.io/
 date: 2020-10-12 12:00
@@ -12,7 +12,7 @@ linkcolor: "#5c3e5b"
 image: "https://fcvalise.github.io/assets/images/biblioquete/project.gif"
 
 layout: post
-tags: [Android, iOS, C#, Unity]
+tags: [AR, Android, iOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro
