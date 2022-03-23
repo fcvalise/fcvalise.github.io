@@ -5,10 +5,10 @@ company: Small By MacGuff
 companylink: http://www.small-studio.io/
 date: 2020-10-12 12:00
 author: francoiscorbel
-bgcolor: "#000"
+bgcolor: "#e46a21"
 txtcolor: "#fff"
-iframecolor: "#999999"
-linkcolor: "#999999"
+iframecolor: "#ec2f4d"
+linkcolor: "#ec2f4d"
 image: "https://fcvalise.github.io/assets/images/MOA/project.gif"
 
 layout: post
