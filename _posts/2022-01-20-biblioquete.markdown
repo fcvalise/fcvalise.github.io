@@ -36,12 +36,12 @@ Un auteur jeunesse nous raconte ses lectures d’enfance et nous invite à retro
 
 
 <div class="">
-  <div class="laurel general-margin" style="width:300px;">
+  <div class="video general-margin" style="width:300px;">
     <a href="https://apps.apple.com/fr/app/biblioquete/id1591625871?itsct=apps_box_badge&amp;itscg=30200">
         <img  src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1640217600&h=928200434e5028c30053cafcc931ad44" style="margin:6%;width:88%"/>
     </a>
   </div>
-  <div class="laurel general-margin" style="width:300px;">
+  <div class="video general-margin" style="width:300px;">
     <a href='https://play.google.com/store/apps/details?id=fr.francetv.innov.biblioquete&gl=FR&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
         <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
     </a>
