@@ -35,7 +35,7 @@ Un auteur jeunesse nous raconte ses lectures d’enfance et nous invite à retro
 {% include slider.html varsize='400' varcolor='#9ffcd6' var1='biblioquete/screenshot1.jpg' var2='biblioquete/screenshot2.jpg' var3='biblioquete/screenshot3.jpg' var4='biblioquete/screenshot5.jpg' %}
 
 
-<div class="">
+<div class="general-margin">
   <div class="" style="width:300px;">
     <a href="https://apps.apple.com/fr/app/biblioquete/id1591625871?itsct=apps_box_badge&amp;itscg=30200">
         <img  src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1640217600&h=928200434e5028c30053cafcc931ad44" style="margin:6%;width:88%"/>
