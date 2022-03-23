@@ -14,7 +14,7 @@ image: "https://fcvalise.github.io/assets/images/ayahuasca/project.gif"
 layout: post
 tags: [Windows, Android, iOS, Unity]
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: true # don't count this post in blog page
 category: Pro
 team:
     -   name: Claire Allante
