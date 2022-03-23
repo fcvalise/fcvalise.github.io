@@ -6,9 +6,9 @@ companylink: http://www.small-studio.io/
 date: 2020-10-12 12:00
 author: francoiscorbel
 bgcolor: "#9ffcd6"
-txtcolor: "#000"
-iframecolor: "#5c3e5b"
-linkcolor: "#5c3e5b"
+txtcolor: "#5c3e5b"
+iframecolor: "#bf2ab8"
+linkcolor: "#bf2ab8"
 image: "https://fcvalise.github.io/assets/images/biblioquete/project.gif"
 
 layout: post
