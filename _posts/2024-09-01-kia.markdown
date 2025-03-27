@@ -1,0 +1,40 @@
+---
+title: "Electric Move Experience"
+description: "An Multiplayer Mixed Reality Experience"
+company: Atelier Daruma x Hermès
+companylink: 
+date: 2024-01-01 12:00
+author: francoiscorbel
+bgcolor: "#fd6f28"
+txtcolor: "#FFFFFF"
+iframecolor: "#3995d8"
+linkcolor: "#3995d8"
+image: "https://fcvalise.github.io/assets/images/hermes/project.gif"
+
+layout: post
+tags: [Augmented Reality, C#, Unity]
+projects: true
+hidden: true # don't count this post in blog page
+category: Pro
+team:
+    -   name: lot of others
+---
+<iframe src="https://electric-move-experience.kia.fr/" width="100%" height="800" style="border: none;" allowfullscreen></iframe>
+
+<a href="https://electric-move-experience.kia.fr/" target="_blank" style="text-decoration: none;">
+  <button>Voir l'expérience</button>
+</a>
+
+<div class="text justify general-margin">
+<br>
+Une expérience interactive WebGL pour découvrir la vision de Kia autour de la mobilité électrique. Conçue pour le navigateur, l’expérience combine graphismes 3D de haute qualité et interactions fluides pour engager l’utilisateur dans un parcours immersif autour des innovations de la marque.
+<br>
+
+</div>
+
+<div class="text justify general-margin">
+<br>
+En tant que développeur Unity WebGL, j’ai assuré l’intégration et l’optimisation de l’expérience, en mettant l’accent sur la performance, la compatibilité multi-appareils et la fluidité des interactions.
+<br>
+
+</div>
