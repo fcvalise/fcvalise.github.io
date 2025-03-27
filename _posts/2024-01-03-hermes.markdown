@@ -1,0 +1,42 @@
+---
+title: "Biblioquête"
+description: "An augmented reality adventure for children"
+company: Small By MacGuff
+companylink: http://www.small-studio.io/
+date: 2020-10-12 12:00
+author: francoiscorbel
+bgcolor: "#9ffcd6"
+txtcolor: "#5c3e5b"
+iframecolor: "#bf2ab8"
+linkcolor: "#bf2ab8"
+image: "https://fcvalise.github.io/assets/images/biblioquete/project.gif"
+
+layout: post
+tags: [Augmented Reality, Android, iOS, C#, Unity]
+projects: true
+hidden: true # don't count this post in blog page
+category: Pro
+team:
+    -   name: lot of others
+---
+<div class="video general-margin">
+    <iframe width="560" height="315" src="https://youtu.be/a_TV1Ujf3UQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="text justify general-margin">
+<br>
+À l’occasion du prestigieux événement Le Saut d’Hermès, nous avons développé un jeu multijoueur en réalité mixte mêlant espace physique et éléments numériques pour offrir une expérience interactive fluide et immersive. Pensée pour un public haut de gamme, cette expérience alliait direction artistique raffinée et technologie XR de pointe.
+<br>
+Les joueurs, équipés de casques Quest 3, interagissaient en temps réel avec des éléments virtuels ancrés dans le monde réel, en collaborant ou en s’affrontant dans un jeu se déroulant dans le cadre emblématique du Grand Palais Éphémère.
+<br>
+
+</div>
+
+{% include slider.html varsize='400' varcolor='#9ffcd6' var1='hermes/screenshot1.jpg' var2='hermes/screenshot2.jpg' var3='hermes/screenshot3.jpg' %}
+
+<div class="text justify general-margin">
+<br>
+J’ai travaillé à améliorer les sensations de gameplay — en ajustant les interactions, en peaufinant les transitions, et en veillant à ce que chaque mouvement ou geste soit fluide, réactif et immersif. Mon objectif était de renforcer les boucles de feedback, d’optimiser la réactivité, et d’offrir une expérience de jeu élégante et cohérente avec les standards esthétiques de la maison Hermès.
+<br>
+
+</div>
