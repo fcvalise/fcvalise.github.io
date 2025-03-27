@@ -1,0 +1,37 @@
+---
+title: "Reno"
+description: "An in-car virtual avatar"
+company: Spoon.ai x Renault
+companylink: 
+date: 2022-03-15 12:00
+author: francoiscorbel
+bgcolor: "#D9C122"
+txtcolor: "#0D1568"
+iframecolor: "#FFFFFF"
+linkcolor: "#FFFFFF"
+image: "https://fcvalise.github.io/assets/images/renault/project.gif"
+
+layout: post
+tags: [C#, Unity]
+projects: true
+hidden: true # don't count this post in blog page
+category: Pro
+team:
+    -   name: lot of others
+---
+<div class="video general-margin">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0kCtpj6JheA?si=-dJWvxaAJJG1vpSE" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="text justify general-margin">
+<br>
+Reno est l’avatar virtuel intégré aux véhicules Renault, pensé pour rendre l’expérience de conduite plus fluide, intuitive et humaine. Il interagit avec les passagers par la voix, des expressions animées et une compréhension du contexte, afin d’assister au mieux dans la navigation, les réglages du véhicule ou encore l’accès aux contenus multimédia.
+<br>
+
+</div>
+<div class="text justify general-margin">
+<br>
+J’ai contribué à l’amélioration du ressenti utilisateur, en travaillant sur les micro-interactions, la réactivité et les animations de l’avatar. L’objectif était de renforcer l’engagement émotionnel et la qualité de l’expérience, en cohérence avec l’identité chaleureuse et accessible de la marque Renault.
+<br>
+
+</div>
