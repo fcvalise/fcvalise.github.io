@@ -1,12 +1,12 @@
 ---
-title: "Saut XR - Hermès"
+title: "Saut XR"
 description: "An Multiplayer Mixed Reality Experience"
 company: Atelier Daruma x Hermès
 companylink: 
 date: 2024-01-01 12:00
 author: francoiscorbel
 bgcolor: "#F37021"
-txtcolor: "#071a76"
+txtcolor: "#FFFFFF"
 iframecolor: "#3995d8"
 linkcolor: "#3995d8"
 image: "https://fcvalise.github.io/assets/images/hermes/project.gif"
@@ -20,7 +20,7 @@ team:
     -   name: lot of others
 ---
 <div class="video general-margin">
-    <iframe width="560" height="315" src="https://youtu.be/a_TV1Ujf3UQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=a_TV1Ujf3UQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="text justify general-margin">
