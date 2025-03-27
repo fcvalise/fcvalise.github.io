@@ -5,7 +5,7 @@ company: Atelier Daruma x Hermès
 companylink: 
 date: 2024-01-01 12:00
 author: francoiscorbel
-bgcolor: "#F37021"
+bgcolor: "#fd6f28"
 txtcolor: "#FFFFFF"
 iframecolor: "#3995d8"
 linkcolor: "#3995d8"
