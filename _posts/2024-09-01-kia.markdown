@@ -1,7 +1,7 @@
 ---
 title: "Electric Move Experience"
-description: "An Multiplayer Mixed Reality Experience"
-company: Atelier Daruma x Hermès
+description: "A WebGL Showcase"
+company: Spoon x Renault
 companylink: 
 date: 2024-01-01 12:00
 author: francoiscorbel
@@ -9,10 +9,10 @@ bgcolor: "#1A69A3"
 txtcolor: "#05141F"
 iframecolor: "#0C304B"
 linkcolor: "#0C304B"
-image: "https://fcvalise.github.io/assets/images/hermes/project.gif"
+image: "https://fcvalise.github.io/assets/images/kia/project.gif"
 
 layout: post
-tags: [Augmented Reality, C#, Unity]
+tags: [WebGL, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro
