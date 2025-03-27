@@ -12,7 +12,7 @@ linkcolor: "#0C304B"
 image: "https://fcvalise.github.io/assets/images/kia/project.gif"
 
 layout: post
-tags: [WebGL, C#, Unity]
+tags: [C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro
@@ -20,8 +20,6 @@ team:
     -   name: lot of others
 ---
 <iframe src="https://electric-move-experience.kia.fr/" width="960" height="540" style="border: none;" allowfullscreen></iframe>
-
-<a href="https://electric-move-experience.kia.fr/"</a>
 
 <div class="text justify general-margin">
 <br>

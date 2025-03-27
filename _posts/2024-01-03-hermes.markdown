@@ -12,7 +12,7 @@ linkcolor: "#3995d8"
 image: "https://fcvalise.github.io/assets/images/hermes/project.gif"
 
 layout: post
-tags: [Augmented Reality, C#, Unity]
+tags: [Virtual Reality, Augmented Reality, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro
@@ -27,6 +27,8 @@ team:
 <br>
 À l’occasion du prestigieux événement Le Saut d’Hermès, nous avons développé un jeu multijoueur en réalité mixte mêlant espace physique et éléments numériques pour offrir une expérience interactive fluide et immersive. Pensée pour un public haut de gamme, cette expérience alliait direction artistique raffinée et technologie XR de pointe.
 <br>
+<br>
+
 Les joueurs, équipés de casques Quest 3, interagissaient en temps réel avec des éléments virtuels ancrés dans le monde réel, en collaborant ou en s’affrontant dans un jeu se déroulant dans le cadre emblématique du Grand Palais Éphémère.
 <br>
 
