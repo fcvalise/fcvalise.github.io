@@ -5,7 +5,7 @@ company: Spoon.ai x Renault
 companylink: 
 date: 2022-03-15 12:00
 author: francoiscorbel
-bgcolor: "#D9C122"
+bgcolor: "#FFDC04"
 txtcolor: "#0D1568"
 iframecolor: "#FFFFFF"
 linkcolor: "#FFFFFF"
