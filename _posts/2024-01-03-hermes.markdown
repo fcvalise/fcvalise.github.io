@@ -1,9 +1,9 @@
 ---
-title: "Biblioquête"
-description: "An augmented reality adventure for children"
-company: Small By MacGuff
-companylink: http://www.small-studio.io/
-date: 2020-10-12 12:00
+title: "Saut XR - Hermès"
+description: "An Multiplayer Mixed Reality Experience"
+company: Atelier Daruma x Hermès
+companylink: 
+date: 2024-01-01 12:00
 author: francoiscorbel
 bgcolor: "#9ffcd6"
 txtcolor: "#5c3e5b"
@@ -12,7 +12,7 @@ linkcolor: "#bf2ab8"
 image: "https://fcvalise.github.io/assets/images/biblioquete/project.gif"
 
 layout: post
-tags: [Augmented Reality, Android, iOS, C#, Unity]
+tags: [Augmented Reality, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro
