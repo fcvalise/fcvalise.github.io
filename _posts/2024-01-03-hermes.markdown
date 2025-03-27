@@ -8,7 +8,7 @@ author: francoiscorbel
 bgcolor: "#fd6f28"
 txtcolor: "#FFFFFF"
 iframecolor: "#3995d8"
-linkcolor: "#3995d8"
+linkcolor: "#000000"
 image: "https://fcvalise.github.io/assets/images/hermes/project.gif"
 
 layout: post
