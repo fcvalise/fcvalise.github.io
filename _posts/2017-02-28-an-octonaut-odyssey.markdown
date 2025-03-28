@@ -17,7 +17,7 @@ projects: false
 highlight: true
 video: https://www.youtube.com/embed/dAnAuwoRoA0
 hidden: true # don't count this post in blog pagination
-category: Pro
+category:
 sources: https://github.com/fcvalise/AnOctonautOdyssey
 team:
     -   name: Julien Balestrieri
