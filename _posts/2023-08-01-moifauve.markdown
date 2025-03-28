@@ -27,6 +27,126 @@ team:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GYyjKsUEnjU?si=bKS_pYybDjCH9LMK" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div class="laurel general-margin">
+<a href="https://newimages-hub.com/70917/" href="https://newimages-hub.com/70917/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Interactivity Award</h4>
+            <h2 style="color: {{ page.iframecolor}}">New Images<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Paris, France</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="https://afkenya.org/immersive-futures-exhibition/" href="https://afkenya.org/immersive-futures-exhibition/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">Novembre Numérique<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Nairobi, Kenya</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="https://www.giff.ch/en/film/moi-fauve/" href="https://www.giff.ch/en/film/moi-fauve/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">Geneva International Film Festival<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Geneva, Switzerland</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="https://plus.bifan.kr/eng/program/xr_experience_view.asp?pk_seq=7086&sc_category_seq=0&sc_num=1&actEvent=view" href="https://plus.bifan.kr/eng/program/xr_experience_view.asp?pk_seq=7086&sc_category_seq=0&sc_num=1&actEvent=view" target="_blank">
+    <div class="icon-simple" data-title="bifan"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">Bucheon International Fantastic Film Festival<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Bucheon, South Korea</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="https://fipadoc.com/" href="https://fipadoc.com/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">FIPADOC<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Biaritz, France</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="https://mixbrasil.org.br/32/en/moi-fauve/" href="https://mixbrasil.org.br/32/en/moi-fauve/" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Menções Honrosas</h4>
+            <h2 style="color: {{ page.iframecolor}}">MixBrazil<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Sao Paulo, Brazil</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="https://www.siff.com/english/content?aid=101240602172321567001951846273029892" href="https://www.siff.com/english/content?aid=101240602172321567001951846273029892" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">SIFF<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Shanghai, China</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="" href="" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">Kaoshiung Film Festival<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Taiwan</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="" href="" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">PiXii Festival<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">La Rochelle, France</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
+<div class="laurel general-margin">
+<a href="" href="" target="_blank">
+    <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
+        <div class="text-laurel">
+            <h4 style="color: {{ page.iframecolor}}">Selection</h4>
+            <h2 style="color: {{ page.iframecolor}}">Beyond the Frame<br></h2>
+            <h4 style="color: {{ page.iframecolor}}">Tokyo, Japon</h4>
+        </div>
+    <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
+</a>
+</div>
+
 <div class="text justify general-margin">
 <br>
 moi fauve est une expérience VR collective et interactive, pour un groupe de 2 à 6 participant·es en simultané (espace de 50m2 minimum nécessaire), inspirée d’un mythe animiste, qui nous interroge sur notre lien au Vivant et notre capacité de métamorphose.
