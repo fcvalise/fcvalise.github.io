@@ -34,7 +34,7 @@ Unfortunately, because of the lack of time, most of these features are barely us
 </div>
 
 <div class="general-margin">
-    <iframe class="unity" style="width:1024px;" src="https://itch.io/embed-upload/568550?color=c7c7c7" width="500" height="520" scrolling="no" frameborder="0"></iframe>
+    <iframe class="unity" style="width:500px;" src="https://itch.io/embed-upload/568550?color=c7c7c7" width="500" height="520" scrolling="no" frameborder="0"></iframe>
 </div>
 
 <div class="text general-margin">
