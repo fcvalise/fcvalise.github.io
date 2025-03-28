@@ -56,7 +56,7 @@ team:
     <div class="icon-simple" data-title="stunfest"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
         <div class="text-laurel">
             <h4 style="color: {{ page.iframecolor}}">Official Selection</h4>
-            <h2 style="color: {{ page.iframecolor}}">Geneva International Film Festival<br></h2>
+            <h2 style="color: {{ page.iframecolor}}">GIFF<br></h2>
             <h4 style="color: {{ page.iframecolor}}">Geneva, Switzerland</h4>
         </div>
     <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>
@@ -68,7 +68,7 @@ team:
     <div class="icon-simple" data-title="bifan"><svg class="icon-svg"><use xlink:href="#icon-laurel-left" fill="{{ page.iframecolor }}"></use></svg></div>
         <div class="text-laurel">
             <h4 style="color: {{ page.iframecolor}}">Official Selection</h4>
-            <h2 style="color: {{ page.iframecolor}}">Bucheon International Fantastic Film Festival<br></h2>
+            <h2 style="color: {{ page.iframecolor}}">BIFAN<br></h2>
             <h4 style="color: {{ page.iframecolor}}">Bucheon, South Korea</h4>
         </div>
     <div class="icon-simple" data-title="stunfest"><svg style="width: 35px; height: 35px" class="icon-svg"><use xlink:href="#icon-laurel-right" fill="{{ page.iframecolor }}"></use></svg></div>

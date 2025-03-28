@@ -8,7 +8,7 @@ bgcolor: "#000"
 txtcolor: "#fff"
 iframecolor: "#ffd024"
 linkcolor: "#ffd024"
-image: "https://fcvalise.github.io/assets/images/total-eclipse-of-the-heart/project.gif"
+image: "https://fcvalise.github.io/assets/images/total-eclipse-of-the-heart-2/project.gif"
 
 layout: post
 tags: [Windows, MacOS, C#, Unity]
