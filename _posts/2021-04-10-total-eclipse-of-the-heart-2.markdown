@@ -15,7 +15,6 @@ tags: [WebGL, Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: Game Jam
-sources: https://github.com/fcvalise/TotalEclipseOfTheHeart
 team:
     -   name: Lucien Coycault
         role: Graphic Designer
