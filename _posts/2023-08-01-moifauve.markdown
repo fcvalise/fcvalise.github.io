@@ -20,8 +20,11 @@ team:
     -   name: lot of others
 ---
 
+
+<img alt="something" fetchpriority="high" decoding="async" data-nimg="fill" class="pointer-events-none hero-wrapper" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Fsmallcreative.imgix.net%2FSite_Web%2FProjets%2Fmoi-fauve%2Fmain_pic%2FCover_v07_3K_horizontal_l0i3ns.png%3Fq%3D75&amp;w=3840&amp;q=75" style="position: absolute; height: 100%; width: 100%; inset: 0px; object-fit: cover; object-position: center top; color: transparent; filter: saturate(0%);">
+
 <div class="video general-margin">
-    <iframe width="560" height="315" src="https://www.facebook.com/share/v/151bhgdUSt/" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GYyjKsUEnjU?si=bKS_pYybDjCH9LMK" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="text justify general-margin">
