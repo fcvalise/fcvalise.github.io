@@ -23,7 +23,7 @@ team:
 ---
 <div class="general-margin">
     <div style="text-align:center;width:100%;">
-        <iframe class="unity" style="width:800px;" src="https://itch.io/embed-upload/1015014?color=000000" width="800" height="470" scrolling="no" frameborder="0"></iframe>
+        <iframe class="unity" style="width:800px;" src="https://itch.io/embed/1017842?color=000000" width="800" height="470" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
@@ -39,6 +39,4 @@ We strongly advise you to download the game, the WebGL version is not working we
 Music credits goes to the great wizard Mort Garson.
 </div>
 
-
-{% include slider.html varsize='560' varcolor='#ffd024' var1='total-eclipse-of-the-heart/unity1.jpg' var2='total-eclipse-of-the-heart/unity2.jpg' var3='total-eclipse-of-the-heart/unity3.jpg' %}
 
