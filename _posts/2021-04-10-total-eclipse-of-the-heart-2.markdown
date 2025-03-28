@@ -23,7 +23,7 @@ team:
 ---
 <div class="general-margin">
     <div style="text-align:center;width:100%;">
-        <iframe class="unity" style="width:800px;" src="https://itch.io/embed-upload/3735391?color=976b6b" width="800" height="470" scrolling="no" frameborder="0"></iframe>
+        <iframe class="unity" style="width:800px;" src="https://itch.io/embed-upload/3735391?color=ece1ca" width="800" height="470" scrolling="no" frameborder="0"></iframe>
     </div>
 </div>
 
