@@ -1,14 +1,14 @@
 ---
 title: "Moi Fauve"
-description: "A multiplayer location base VR experience"
+description: "A Multiplayer Location Base Experience in VR"
 company: Small Creative
 companylink: 
 date: 2023-08-01 12:00
 author: francoiscorbel
-bgcolor: "#1A69A3"
-txtcolor: "#05141F"
-iframecolor: "#0C304B"
-linkcolor: "#0C304B"
+bgcolor: "#273d79"
+txtcolor: "#DDDDDD"
+iframecolor: "#5c7cb0"
+linkcolor: "#5c7cb0"
 image: "https://fcvalise.github.io/assets/images/moifauve/project.gif"
 
 layout: post
@@ -19,6 +19,10 @@ category: Pro
 team:
     -   name: lot of others
 ---
+
+<div class="video general-margin">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/a_TV1Ujf3UQ?si=QneEuIevJGxtdEhw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <div class="text justify general-margin">
 <br>
