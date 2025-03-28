@@ -7,8 +7,8 @@ date: 2022-03-15 12:00
 author: francoiscorbel
 bgcolor: "#FFDC04"
 txtcolor: "#0D1568"
-iframecolor: "#FFFFFF"
-linkcolor: "#FFFFFF"
+iframecolor: "#4a88ed"
+linkcolor: "#4a88ed"
 image: "https://fcvalise.github.io/assets/images/renault/project.gif"
 
 layout: post
