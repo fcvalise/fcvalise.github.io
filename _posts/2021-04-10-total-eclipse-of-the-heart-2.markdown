@@ -4,10 +4,10 @@ description: "An hippie game about a russian doll house"
 company: none
 date: 2021-04-10 12:00
 author: francoiscorbel
-bgcolor: "#000"
-txtcolor: "#fff"
-iframecolor: "#ffd024"
-linkcolor: "#ffd024"
+bgcolor: "#ece1ca"
+txtcolor: "#cc8039"
+iframecolor: "#976b6b"
+linkcolor: "#976b6b"
 image: "https://fcvalise.github.io/assets/images/total-eclipse-of-the-heart-2/project.gif"
 
 layout: post
