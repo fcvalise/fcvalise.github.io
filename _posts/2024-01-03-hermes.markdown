@@ -12,7 +12,7 @@ linkcolor: "#000000"
 image: "https://fcvalise.github.io/assets/images/hermes/project.gif"
 
 layout: post
-tags: [Virtual Reality, Augmented Reality, C#, Unity]
+tags: [Multiplayer, Virtual Reality, Oculus, Augmented Reality, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro

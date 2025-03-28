@@ -11,7 +11,7 @@ linkcolor: "#5bd0fa"
 image: "https://fcvalise.github.io/assets/images/gnom/project.gif"
 
 layout: post
-tags: [Windows, MacOS, C#, Unity]
+tags: [WebGL, Windows, MacOS, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog pagination
 category: Game Jam

@@ -1,0 +1,38 @@
+---
+title: "Moi Fauve"
+description: "A multiplayer location base VR experience"
+company: Small Creative
+companylink: 
+date: 2023-08-01 12:00
+author: francoiscorbel
+bgcolor: "#1A69A3"
+txtcolor: "#05141F"
+iframecolor: "#0C304B"
+linkcolor: "#0C304B"
+image: "https://fcvalise.github.io/assets/images/moifauve/project.gif"
+
+layout: post
+tags: [Multiplayer, Virtual Reality, Oculus-Rift, C#, Unity]
+projects: true
+hidden: true # don't count this post in blog page
+category: Pro
+team:
+    -   name: lot of others
+---
+
+<div class="text justify general-margin">
+<br>
+moi fauve est une expérience VR collective et interactive, pour un groupe de 2 à 6 participant·es en simultané (espace de 50m2 minimum nécessaire), inspirée d’un mythe animiste, qui nous interroge sur notre lien au Vivant et notre capacité de métamorphose.
+<br>
+<br>
+moi fauve s’inspire de l’animisme des peuples autochtones du Grand Nord, de leurs mythes et leur pratique du rêve pour entrer en relation avec l’esprit d’autres êtres (végétaux, animaux, éléments) qui peuplent notre monde.
+L’expérience nous transporte dans un territoire onirique où chaque personne a l’apparence d’une créature évolutive à peau végétale et visage animal. Par le regard, le toucher et la vibration de sa voix, le participant va entrer en résonance avec d’autres êtres.
+<br>
+
+</div>
+
+<div class="text justify general-margin">
+<br>
+<br>
+
+</div>

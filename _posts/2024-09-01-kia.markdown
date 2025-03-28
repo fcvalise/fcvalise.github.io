@@ -12,7 +12,7 @@ linkcolor: "#0C304B"
 image: "https://fcvalise.github.io/assets/images/kia/project.gif"
 
 layout: post
-tags: [C#, Unity]
+tags: [WebGL, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro
