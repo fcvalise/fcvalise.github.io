@@ -12,7 +12,7 @@ linkcolor: "#0C304B"
 image: "https://fcvalise.github.io/assets/images/moifauve/project.gif"
 
 layout: post
-tags: [Multiplayer, Virtual Reality, Oculus-Rift, C#, Unity]
+tags: [Multiplayer, Virtual Reality, Vive, C#, Unity]
 projects: true
 hidden: true # don't count this post in blog page
 category: Pro
