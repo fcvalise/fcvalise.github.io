@@ -1,6 +1,6 @@
 ---
 title: "Saut XR"
-description: "An Multiplayer Mixed Reality Experience"
+description: "A Multiplayer Mixed Reality Experience"
 company: Atelier Daruma x Hermès
 companylink: 
 date: 2024-01-01 12:00
