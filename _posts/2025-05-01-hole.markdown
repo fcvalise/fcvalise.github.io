@@ -1,0 +1,63 @@
+---
+title: "Hole City"
+description: "An hole game"
+company: Oisif Games
+companylink: 
+date: 2025-05-01 12:00
+author: francoiscorbel
+bgcolor: "#EAAE18"
+txtcolor: "#FFFFFF"
+iframecolor: "#78E2ED"
+linkcolor: "#78E2ED"
+image: "https://fcvalise.github.io/assets/images/hole/project.gif"
+
+layout: post
+tags: [Android, iOS, C#, Unity]
+projects: true
+hidden: true # don't count this post in blog page
+category: Pro
+team:
+    -   name: Just me
+---
+<img src="{{ site.url }}/assets/images/hole/logo.png">
+
+<div class="text justify general-margin">
+<br>
+Hole City is a chaotic twist on the classic hole genre. You’re a black hole with a simple goal: eat everything—from traffic cones to skyscrapers—and grow bigger with every bite.
+
+But this time, it’s not just about destruction. Every object you swallow becomes part of your personal city. Want more cars in your streets? Eat more cars. Dreaming of a skyline full of towers? Gobble them up in the arena!
+
+Face off against rival holes, unlock new objects, and build the weirdest, most wonderful city the world has ever (barely) seen. And soon… you’ll even be able to invade your friends’ cities, steal their stuff (with love), and claim the high score throne.
+
+Eat. Grow. Build. Conquer.
+
+Welcome to Hole City.
+<br>
+
+</div>
+
+<div class="text justify general-margin">
+<br>
+After working as a Marketing Developer at Voodoo, I realized just how big the hyper-casual market really is. But I also saw that many of these games barely scratch the surface of what mobile devices are capable of. Techniques like multithreading, LODs, or VATs—standard in other areas—could be used to craft richer, smoother, and more dynamic experiences in this genre.
+
+I also discovered that creatives (those flashy ads) could be more than just marketing—they could be a fast, powerful way to A/B test ideas and guide the development toward games that actually deliver what the ads promise.
+
+Hole City is my experimental playground. I’m building a game that evolves over time, where every new feature is designed to boost ad appeal and be fully integrated into the gameplay. It’s a bet—I don’t know if it’ll work—but it’s one I’m willing to take.
+
+My goal is to push hyper-casual games forward while building a financially sustainable path that allows me to work full-time on what I love—and one day, create the indie gem I’ve always dreamed of.
+
+Wish me luck!
+<br>
+
+</div>
+
+<div class="general-margin" style="width:300px;">
+<a href='https://apps.apple.com/us/app/hole-city/id6736468492?platform=iphone' target="_blank">
+    <img  src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1640217600&h=928200434e5028c30053cafcc931ad44" style="margin:6%;width:88%"/>
+</a>
+</div>
+<div class="general-margin" style="width:300px;">
+<a href="https://play.google.com/store/apps/details?id=com.OisifGames.Hole" target="_blank">
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
+</a>
+</div>
