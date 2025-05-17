@@ -23,13 +23,13 @@ team:
 <div class="text justify general-margin">
 <br>
 Hole City is a chaotic twist on the classic hole genre. You’re a black hole with a simple goal: eat everything—from traffic cones to skyscrapers—and grow bigger with every bite.
-
+<br>
 But this time, it’s not just about destruction. Every object you swallow becomes part of your personal city. Want more cars in your streets? Eat more cars. Dreaming of a skyline full of towers? Gobble them up in the arena!
-
+<br>
 Face off against rival holes, unlock new objects, and build the weirdest, most wonderful city the world has ever (barely) seen. And soon… you’ll even be able to invade your friends’ cities, steal their stuff (with love), and claim the high score throne.
-
+<br>
 Eat. Grow. Build. Conquer.
-
+<br>
 Welcome to Hole City.
 <br>
 
@@ -40,13 +40,13 @@ Welcome to Hole City.
 <div class="text justify general-margin">
 <br>
 After working as a Marketing Developer at Voodoo, I realized just how big the hyper-casual market really is. But I also saw that many of these games barely scratch the surface of what mobile devices are capable of. Techniques like multithreading, LODs, or VATs—standard in other areas—could be used to craft richer, smoother, and more dynamic experiences in this genre.
-
+<br>
 I also discovered that creatives (those flashy ads) could be more than just marketing—they could be a fast, powerful way to A/B test ideas and guide the development toward games that actually deliver what the ads promise.
-
+<br>
 Hole City is my experimental playground. I’m building a game that evolves over time, where every new feature is designed to boost ad appeal and be fully integrated into the gameplay. It’s a bet—I don’t know if it’ll work—but it’s one I’m willing to take.
-
+<br>
 My goal is to push hyper-casual games forward while building a financially sustainable path that allows me to work full-time on what I love—and one day, create the indie gem I’ve always dreamed of.
-
+<br>
 Wish me luck!
 <br>
 
