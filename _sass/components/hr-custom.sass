@@ -1,25 +1,18 @@
-.hr-custom
-    border-bottom: 1px solid $epsilon
-    margin: 0px auto
-    margin-bottom: 7px
-    width: 100%
-    height: 7px
+  .hr-custom
+      display: flex
+      align-items: center
+      margin: 0px auto
+      margin-bottom: 7px
+      width: 100%
 
-    > .back-rect
-        position: relative
-        width: 21px
-        height: 15px
-        background-color: #fff
-        border-radius: 5px
-        margin-left: auto
-        margin-right: auto
+      > .hr-line
+          flex: 1
+          height: 0px
+          border-bottom: 1px solid $epsilon
 
-        > .front-rect
-            position: absolute
-            width: 7px
-            height: 7px
-            background-color: #fff
-            border: 1px solid $epsilon
-            border-radius: 3px
-            margin-left: 6px
-            margin-top: 3px
+      > .front-rect
+          width: 7px
+          height: 7px
+          border: 1px solid $epsilon
+          border-radius: 3px
+          margin: 0 6px
